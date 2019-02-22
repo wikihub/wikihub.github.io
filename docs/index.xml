@@ -36,7 +36,7 @@
     <item>
       <title>Docs: Autonomous Driving</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousdriving/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousdriving/</guid>
       <description>
@@ -49,7 +49,7 @@
     <item>
       <title>Docs: Electric Vehicles</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/electricvehicles/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wikihub.github.io/docs/references/automotivesystems/electricvehicles/</guid>
       <description>
@@ -67,6 +67,19 @@
 
 &lt;h1 id=&#34;batteries&#34;&gt;Batteries&lt;/h1&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: ROS</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     
