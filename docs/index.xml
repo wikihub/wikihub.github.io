@@ -123,6 +123,40 @@
     </item>
     
     <item>
+      <title>Docs: Software Development</title>
+      <link>https://wikihub.github.io/docs/references/software/softwaredevelopment/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/softwaredevelopment/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
+
+&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-username-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your username in Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-commit-email-address-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your commit email address in Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git add myfolder/.&lt;/li&gt;
+&lt;li&gt;Change the username:
+
+&lt;ul&gt;
+&lt;li&gt;git config &amp;ndash;global user.name &amp;ldquo;Behzad Samadi&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git config &amp;ndash;global user.email &amp;ldquo;name@mail.com&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git remote -v&lt;/li&gt;
+&lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34; target=&#34;_blank&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34; target=&#34;_blank&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: ROS</title>
       <link>https://wikihub.github.io/docs/getting-started/ros/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
