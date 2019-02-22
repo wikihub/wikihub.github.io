@@ -5,7 +5,7 @@
     <link>https://wikihub.github.io/docs/references/robotics/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Feb 2019 16:33:13 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 22 Feb 2019 17:15:36 -0500</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -30,6 +30,40 @@
         
         
         
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openrobotics.org/&#34; target=&#34;_blank&#34;&gt;Open Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rosindustrial.org/&#34; target=&#34;_blank&#34;&gt;ROS Industrial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ros-books.blogspot.com/&#34; target=&#34;_blank&#34;&gt;ROS Book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Jmeyer1292/robot_cal_tools&#34; target=&#34;_blank&#34;&gt;Robot Cal Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;3d-simulation&#34;&gt;3D Simulation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pybullet.org/wordpress/&#34; target=&#34;_blank&#34;&gt;PyBullet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gazebosim.org/&#34; target=&#34;_blank&#34;&gt;Gazebo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.argos-sim.info/&#34; target=&#34;_blank&#34;&gt;ARGoS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;autonomous-driving&#34;&gt;Autonomous Driving&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;CARLA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/AI-Robot-Challenge-Lab&#34; target=&#34;_blank&#34;&gt;AI Robot Challenge Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;amazon&#34;&gt;Amazon&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/robomaker/&#34; target=&#34;_blank&#34;&gt;RoboMaker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
