@@ -674,13 +674,15 @@ Don’t Worry, You Can’t Break It. We Promise.
 &lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;https://drone.io/&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;https://drone.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;static-site-generators&#34;&gt;Static Site Generators&lt;/h1&gt;
 
-&lt;h2 id=&#34;private-static-websites&#34;&gt;Private static websites&lt;/h2&gt;&lt;/li&gt;
+&lt;h2 id=&#34;private-static-websites&#34;&gt;Private static websites&lt;/h2&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34; target=&#34;_blank&#34;&gt;Private static website&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34; target=&#34;_blank&#34;&gt;Private static website&lt;/a&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://justlogin.xyz/&#34; target=&#34;_blank&#34;&gt;Just Login&lt;/a&gt;&lt;/p&gt;
 
@@ -717,6 +719,27 @@ Don’t Worry, You Can’t Break It. We Promise.
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34; target=&#34;_blank&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docusaurus.io/en/&#34; target=&#34;_blank&#34;&gt;Docusaurus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forestry.io/&#34; target=&#34;_blank&#34;&gt;Forestry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34; target=&#34;_blank&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haiku.ai/&#34; target=&#34;_blank&#34;&gt;Haiko&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackshare.io/posts/top-developer-tools-2018&#34; target=&#34;_blank&#34;&gt;Top developer tools 2018&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
