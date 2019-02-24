@@ -685,24 +685,6 @@ Don’t Worry, You Can’t Break It. We Promise.
 &lt;li&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;https://drone.io/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;static-site-generators&#34;&gt;Static Site Generators&lt;/h1&gt;
-
-&lt;h2 id=&#34;private-static-websites&#34;&gt;Private static websites&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34; target=&#34;_blank&#34;&gt;Private static website&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://justlogin.xyz/&#34; target=&#34;_blank&#34;&gt;Just Login&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;hugo&#34;&gt;Hugo&lt;/h2&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Add a submodule: git submodule add &lt;a href=&#34;https://github.com/hbpasti/heather-hugo&#34; target=&#34;_blank&#34;&gt;https://github.com/hbpasti/heather-hugo&lt;/a&gt; themes/heather-hugo&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Update a submodule: git submodule update &amp;ndash;init &amp;ndash;recursive&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;List submodules: git config &amp;ndash;file .gitmodules &amp;ndash;name-only &amp;ndash;get-regexp path&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
 
 &lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
@@ -734,9 +716,22 @@ Don’t Worry, You Can’t Break It. We Promise.
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docusaurus.io/en/&#34; target=&#34;_blank&#34;&gt;Docusaurus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://forestry.io/&#34; target=&#34;_blank&#34;&gt;Forestry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add a submodule: git submodule add &lt;a href=&#34;https://github.com/hbpasti/heather-hugo&#34; target=&#34;_blank&#34;&gt;https://github.com/hbpasti/heather-hugo&lt;/a&gt; themes/heather-hugo&lt;/li&gt;
+&lt;li&gt;Update a submodule: git submodule update &amp;ndash;init &amp;ndash;recursive&lt;/li&gt;
+&lt;li&gt;List submodules: git config &amp;ndash;file .gitmodules &amp;ndash;name-only &amp;ndash;get-regexp path&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34; target=&#34;_blank&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/RelaxedJS/ReLaXed&#34; target=&#34;_blank&#34;&gt;ReLaXed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;private-static-websites&#34;&gt;Private static websites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34; target=&#34;_blank&#34;&gt;Private static website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://justlogin.xyz/&#34; target=&#34;_blank&#34;&gt;Just Login&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
