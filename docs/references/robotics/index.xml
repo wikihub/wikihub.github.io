@@ -41,9 +41,13 @@
 &lt;h1 id=&#34;3d-simulation&#34;&gt;3D Simulation&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pybullet.org/wordpress/&#34; target=&#34;_blank&#34;&gt;PyBullet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gazebosim.org/&#34; target=&#34;_blank&#34;&gt;Gazebo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gazebosim.org/&#34; target=&#34;_blank&#34;&gt;Gazebo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UUwHK5ONTAQ&#34; target=&#34;_blank&#34;&gt;Robot Creation with URDF ROS. Create URDF files by creating 3 robots&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.argos-sim.info/&#34; target=&#34;_blank&#34;&gt;ARGoS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pybullet.org/wordpress/&#34; target=&#34;_blank&#34;&gt;PyBullet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;autonomous-driving&#34;&gt;Autonomous Driving&lt;/h1&gt;
