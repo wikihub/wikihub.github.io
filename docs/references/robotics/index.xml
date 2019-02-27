@@ -5,7 +5,7 @@
     <link>https://wikihub.github.io/docs/references/robotics/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Feb 2019 08:32:02 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 08:38:04 -0500</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -48,12 +48,36 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.argos-sim.info/&#34; target=&#34;_blank&#34;&gt;ARGoS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://pybullet.org/wordpress/&#34; target=&#34;_blank&#34;&gt;PyBullet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mujoco.org/&#34; target=&#34;_blank&#34;&gt;MuJoCo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/deepmind/dm_control&#34; target=&#34;_blank&#34;&gt;DeepMind Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.groundai.com/project/unity-a-general-platform-for-intelligent-agents/&#34; target=&#34;_blank&#34;&gt;Unity: A General Platform for Intelligent Agents&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.unity3d.com/2018/09/11/ml-agents-toolkit-v0-5-new-resources-for-ai-researchers-available-now/?_ga=2.251804239.73933905.1544840054-2131074049.1544840054&#34; target=&#34;_blank&#34;&gt;ML Agents Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://connect.unity.com/p/autonomous-car?_ga=2.181596513.73933905.1544840054-2131074049.1544840054&#34; target=&#34;_blank&#34;&gt;Simple autocar using ml-agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kwea123/RL&#34; target=&#34;_blank&#34;&gt;Unity3D Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MathiasCiarlo/ROSBridgeLib&#34; target=&#34;_blank&#34;&gt;ROS Unity Bridge Lib&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/openai/roboschool&#34; target=&#34;_blank&#34;&gt;Roboshcool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vsparc.org&#34; target=&#34;_blank&#34;&gt;VSPARC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ai2thor.allenai.org/&#34; target=&#34;_blank&#34;&gt;AI2THOR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HoME-Platform/home-platform&#34; target=&#34;_blank&#34;&gt;HoME&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;autonomous-driving&#34;&gt;Autonomous Driving&lt;/h1&gt;
+&lt;h2 id=&#34;autonomous-driving&#34;&gt;Autonomous Driving&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;CARLA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;physics-engines&#34;&gt;Physics Engines&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bulletphysics/bullet3&#34; target=&#34;_blank&#34;&gt;Bullet Physics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dartsim.github.io&#34; target=&#34;_blank&#34;&gt;DART&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ode.org/&#34; target=&#34;_blank&#34;&gt;ODE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simtk.org/projects/simbody/&#34; target=&#34;_blank&#34;&gt;Simbody&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sofa-framework.org/applications/gallery/sofa-as-unity3d-physics-engine/&#34; target=&#34;_blank&#34;&gt;SOFA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h1&gt;
