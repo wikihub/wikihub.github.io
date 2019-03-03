@@ -835,10 +835,25 @@ Don’t Worry, You Can’t Break It. We Promise.
         
         
 
+&lt;h1 id=&#34;linux&#34;&gt;Linux&lt;/h1&gt;
+
+&lt;h2 id=&#34;distribution&#34;&gt;Distribution&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/ubuntu-show-version/&#34; target=&#34;_blank&#34;&gt;Ubuntu — Show Version Number (Command Line and Unity)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34; target=&#34;_blank&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;https://drone.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://circleci.com&#34; target=&#34;_blank&#34;&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;Drone.io&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
@@ -859,12 +874,6 @@ Don’t Worry, You Can’t Break It. We Promise.
 &lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34; target=&#34;_blank&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34; target=&#34;_blank&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34; target=&#34;_blank&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
