@@ -280,21 +280,27 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/szilard/survey-ml-tools&#34; target=&#34;_blank&#34;&gt;Small survey on ML tools&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;## &lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/Hvass-Labs/TensorFlow-Tutorials&#34; target=&#34;_blank&#34;&gt;TensorFlow Tutorials&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/jtoy/awesome-tensorflow&#34; target=&#34;_blank&#34;&gt;Awesome TensorFlow&lt;/a&gt;
- - &lt;a href=&#34;https://www.tensorflow.org/hub/&#34; target=&#34;_blank&#34;&gt;TensorFlow Hub&lt;/a&gt;
- - &lt;a href=&#34;https://www.tensorflow.org/tfx/&#34; target=&#34;_blank&#34;&gt;TFX&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib&#34; target=&#34;_blank&#34;&gt;TensorFlow User Contributions&lt;/a&gt;
- - &lt;a href=&#34;https://playground.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow Playground&lt;/a&gt;: Tinker With a Neural Network Right Here in Your Browser.
-Don’t Worry, You Can’t Break It. We Promise.
- - &lt;a href=&#34;https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html&#34; target=&#34;_blank&#34;&gt;Deep Learning Development with Google Colab, TensorFlow, Keras &amp;amp; PyTorch&lt;/a&gt;
- - &lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial&#34; target=&#34;_blank&#34;&gt;Image Classification using Flowers dataset&lt;/a&gt;
- - &lt;a href=&#34;https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud&#34; target=&#34;_blank&#34;&gt;Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;## &lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;## &lt;a href=&#34;https://keras.io/&#34; target=&#34;_blank&#34;&gt;Keras&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/soumendra/awesome-keras&#34; target=&#34;_blank&#34;&gt;Awesome Keras&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/fchollet/keras-resources&#34; target=&#34;_blank&#34;&gt;Keras Resources&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Hvass-Labs/TensorFlow-Tutorials&#34; target=&#34;_blank&#34;&gt;TensorFlow Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jtoy/awesome-tensorflow&#34; target=&#34;_blank&#34;&gt;Awesome TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/hub/&#34; target=&#34;_blank&#34;&gt;TensorFlow Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/tfx/&#34; target=&#34;_blank&#34;&gt;TFX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib&#34; target=&#34;_blank&#34;&gt;TensorFlow User Contributions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://playground.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow Playground&lt;/a&gt;: Tinker With a Neural Network Right Here in Your Browser.
+Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html&#34; target=&#34;_blank&#34;&gt;Deep Learning Development with Google Colab, TensorFlow, Keras &amp;amp; PyTorch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial&#34; target=&#34;_blank&#34;&gt;Image Classification using Flowers dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud&#34; target=&#34;_blank&#34;&gt;Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;## &lt;a href=&#34;https://keras.io/&#34; target=&#34;_blank&#34;&gt;Keras&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/soumendra/awesome-keras&#34; target=&#34;_blank&#34;&gt;Awesome Keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fchollet/keras-resources&#34; target=&#34;_blank&#34;&gt;Keras Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;google-colab-https-colab-research-google-com&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/&#34; target=&#34;_blank&#34;&gt;Google Colab&lt;/a&gt;&lt;/h2&gt;
 
