@@ -34,6 +34,55 @@
     </item>
     
     <item>
+      <title>Docs: Emacs</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/emacs/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/emacs/</guid>
+      <description>
+        
+        
+        
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.emacswiki.org/&#34; target=&#34;_blank&#34;&gt;Emacs wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bzg.fr/learn-emacs-lisp-in-15-minutes.html&#34; target=&#34;_blank&#34;&gt;Learn Emacs lisp in 15
+minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dr.barik.net/kb/Emacs&#34; target=&#34;_blank&#34;&gt;Barik&amp;rsquo;s guide to Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clojure.jr0cket.co.uk/perfect-environment/emacs-leiningen-swank&#34; target=&#34;_blank&#34;&gt;Installing emacs-goodies-el including the Maple mode on
+Emacs 24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nakkaya.com/2009/11/06/remote-file-editing-using-emacs/&#34; target=&#34;_blank&#34;&gt;remote file editing using
+emacs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;auctex&#34;&gt;AUCTeX&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kieranhealy.org/esk/starter-kit-latex.html&#34; target=&#34;_blank&#34;&gt;Starter kit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;org-mode&#34;&gt;Org Mode&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.emacswiki.org/cgi-bin/wiki/OrgMode&#34; target=&#34;_blank&#34;&gt;Emacs Org Mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nakkaya.com/2010/09/07/writing-papers-using-org-mode/&#34; target=&#34;_blank&#34;&gt;Writing papers using org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-public.it-sudparis.eu/~berger_o/weblog/2012/03/23/how-to-manage-and-export-bibliographic-notesrefs-in-org-mode/&#34; target=&#34;_blank&#34;&gt;How to manage and export bibliographic notesrefs in org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.karssen.org/2013/08/22/using-bibtex-from-org-mode/&#34; target=&#34;_blank&#34;&gt;Using bibtex from org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tincman.wordpress.com/2011/01/04/research-paper-management-with-emacs-org-mode-and-reftex/&#34; target=&#34;_blank&#34;&gt;Research paper management with emacs org mode and
+reftex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seas.upenn.edu/~heqin/academic/sitecreation.html&#34; target=&#34;_blank&#34;&gt;Site creation with org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://praveen.kumar.in/2012/03/10/org-mode-latex-and-minted-syntax-highlighting/&#34; target=&#34;_blank&#34;&gt;Syntax highlighting in
+org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: LaTeX</title>
       <link>https://wikihub.github.io/docs/references/software/wordprocessing/latex/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
