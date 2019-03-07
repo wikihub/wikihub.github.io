@@ -25,15 +25,15 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://wikihub.github.io/docs/references/software/wordprocessing/" />
 <meta property="article:published_time" content="2019-03-07T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2019-03-07T16:03:12-05:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="article:modified_time" content="2019-03-07T16:19:28-05:00"/><meta property="og:site_name" content="WIKIHUB" />
 
 <meta itemprop="name" content="Word Processing">
 <meta itemprop="description" content="News and information about word processing tools">
 
 
 <meta itemprop="datePublished" content="2019-03-07T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2019-03-07T16:03:12-05:00" />
-<meta itemprop="wordCount" content="96">
+<meta itemprop="dateModified" content="2019-03-07T16:19:28-05:00" />
+<meta itemprop="wordCount" content="322">
 
 
 
@@ -485,6 +485,12 @@
 
 <nav id="TableOfContents">
 <ul>
+<li><a href="#writing-guides">Writing Guides</a></li>
+<li><a href="#reproducible-research">Reproducible Research</a></li>
+<li><a href="#coding-standards">Coding Standards</a></li>
+<li><a href="#tools">Tools</a></li>
+<li><a href="#pandoc">Pandoc</a></li>
+<li><a href="#reference-management">Reference Management</a></li>
 <li><a href="#markdown">Markdown</a>
 <ul>
 <li><a href="#papers">Papers</a></li>
@@ -494,10 +500,13 @@
 <li><a href="#web">Web</a></li>
 <li><a href="#themes">Themes</a></li>
 <li><a href="#templates">Templates</a></li>
-<li><a href="#tools">Tools</a></li>
+<li><a href="#tools-1">Tools</a></li>
 <li><a href="#resources">Resources</a></li>
 <li><a href="#examples">Examples</a></li>
 </ul></li>
+<li><a href="#emacs">Emacs</a></li>
+<li><a href="#auctex">AUCTeX</a></li>
+<li><a href="#org-mode">Org Mode</a></li>
 </ul>
 </nav>
 
@@ -554,6 +563,98 @@
 	<h1>Word Processing</h1>
 	<div class="lead">News and information about word processing tools</div>
 	
+
+<h1 id="writing-guides">Writing Guides</h1>
+
+<ul>
+<li><a href="http://www.ece.ucsb.edu/~hespanha/published/writingpapers.pdf" target="_blank">Writing a Control Paper</a></li>
+<li><a href="http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf" target="_blank">How to Write a Paper</a></li>
+<li><a href="http://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf" target="_blank">Writing Tips for PhD Students</a></li>
+<li><a href="http://infolab.stanford.edu/~widom/paper-writing.html" target="_blank">Tips for Writing Technical Papers</a></li>
+<li><a href="http://homepages.rpi.edu/~holguj2/CIVL2030/How_to_write_search/How_to_write_a_good_technical_report.pdf" target="_blank">How to Write a Good Technical Report</a></li>
+<li><a href="http://www.fke.utm.my/blog/wp-content/uploads/2011/03/How-to-Write-Good-Technical-Papers-Prof-Marzuki.pdf" target="_blank">How to Write Good Technical Papers</a></li>
+<li><a href="http://www.ics.uci.edu/~rickl/courses/ics-h197/technical-write-slitex.pdf" target="_blank">How to Write a Successful Technical Paper</a></li>
+<li><a href="http://inside.mines.edu/~mmyoung/phgn471/WrttnPsntatn.pdf" target="_blank">How to Write a Technical Paper</a></li>
+<li><a href="http://www.mhhe.com/mayfieldpub/tsw/home.htm" target="_blank">Mayfield Handbook of Technical and Scientific Writing</a></li>
+<li><a href="http://www.cas.mcmaster.ca/~nedialk/COURSES/3I03/node6.html" target="_blank">Communication Skills</a></li>
+<li><a href="http://www.youtube.com/playlist?list=PLe2tiLL2q02KGAb7IW5-u2zeJnX3wr4S3" target="_blank">How to publish your research</a></li>
+</ul>
+
+<h1 id="reproducible-research">Reproducible Research</h1>
+
+<ul>
+<li><a href="http://ivory.idyll.org/blog/replication-i.html" target="_blank">Replication</a></li>
+<li><a href="http://207.245.165.89/applied-research/ncsa/8-an-overview-of-3d-data-content-file-formats-and-viewers.pdf" target="_blank">3D Data</a></li>
+<li><a href="http://orgmode.org/worg/org-contrib/babel/uses.html#sec-6" target="_blank">Reproducible Research Examples in Org Mode</a></li>
+<li><a href="http://reproducibleresearch.net/index.php/RR_links" target="_blank">Reproducible Research</a></li>
+<li><a href="http://www.emacswiki.org/cgi-bin/wiki/OrgMode" target="_blank">Emacs Org Mode</a></li>
+<li><a href="https://github.com/christophergandrud/Rep-Res-Book" target="_blank">Reproducible Research with R/RStudio</a></li>
+</ul>
+
+<h1 id="coding-standards">Coding Standards</h1>
+
+<ul>
+<li><a href="http://www.gnu.org/prep/standards/standards.html" target="_blank">GNU C</a></li>
+<li><a href="http://gcc.gnu.org/wiki/CppConventions" target="_blank">GCC C++</a></li>
+<li><a href="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml" target="_blank">Google C++</a></li>
+<li><a href="http://www.dmoz.org/Computers/Programming/Languages/Java/Coding_Standards/" target="_blank">Java</a></li>
+<li><a href="http://www.python.org/dev/peps/pep-0008/" target="_blank">Python</a></li>
+</ul>
+
+<h1 id="tools">Tools</h1>
+
+<ul>
+<li>Word Processing
+
+<ul>
+<li><a href="https://github.com/hplgit/doconce" target="_blank">DocOnce</a></li>
+<li><a href="http://docutils.sourceforge.net/" target="_blank">Docutils</a></li>
+<li><a href="http://sphinx-doc.org/" target="_blank">Sphinx</a></li>
+<li><a href="http://jemdoc.jaboc.net/" target="_blank">jemdoc</a></li>
+<li><a href="https://github.com/wsshin/jemdoc_mathjax" target="_blank">jemdoc mathjax</a></li>
+</ul></li>
+<li>Wiki
+
+<ul>
+<li><a href="http://www.connectedtext.com/" target="_blank">ConnectedText</a></li>
+</ul></li>
+<li>Mind Maps
+
+<ul>
+<li><a href="http://www.mind-mapping.org/" target="_blank">Mind Mapping</a></li>
+<li>Grammar
+
+<ul>
+<li><a href="http://www.stylewriter-usa.com/stylewriter-free-download.php" target="_blank">StyleWriter: Plain English Manuscript Editing Software for
+MS-WORD</a></li>
+<li><a href="http://www.whitesmoke.com/" target="_blank">WhiteSmoke - English Grammar Checker
+Software</a></li>
+<li><a href="http://www.mywritertools.com/" target="_blank">myWriterTools - Essential writing and editing
+software</a></li>
+<li><a href="http://www.englishsoftware.org/" target="_blank">Professional Grammar Check &amp; Writing Tool - English
+Software</a></li>
+</ul></li>
+<li><a href="http://phdtools.blogspot.ca/" target="_blank">PhDTools</a></li>
+</ul></li>
+</ul>
+
+<h1 id="pandoc">Pandoc</h1>
+
+<ul>
+<li><a href="http://johnmacfarlane.net/pandoc/" target="_blank">Pandoc</a></li>
+<li><a href="http://www.dexy.it/docs/what-is-dexy.html" target="_blank">Dexy</a></li>
+<li><a href="https://github.com/jgm/pandocfilters" target="_blank">Pandoc filters</a></li>
+</ul>
+
+<h1 id="reference-management">Reference Management</h1>
+
+<ul>
+<li><a href="http://www.qiqqa.com/" target="_blank">Qiqqa</a></li>
+<li><a href="http://www.mendeley.com/" target="_blank">Mendeley</a></li>
+<li><a href="http://www.bibsonomy.org/" target="_blank">Bibsonomy</a></li>
+<li><a href="http://www.citeulike.org" target="_blank">CiteULike</a></li>
+<li><a href="http://calibre-ebook.com/" target="_blank">Calibre - ebook manager</a></li>
+</ul>
 
 <h1 id="markdown">Markdown</h1>
 
@@ -625,7 +726,7 @@
 <li><a href="http://cmwelsh.com/beautiful-resumes-with-markdown-and-latex" target="_blank">Resume</a></li>
 </ul>
 
-<h2 id="tools">Tools</h2>
+<h2 id="tools-1">Tools</h2>
 
 <ul>
 <li><a href="http://johnmacfarlane.net/pandoc/try/" target="_blank">Try Pandoc</a></li>
@@ -649,8 +750,45 @@
 <li><a href="https://github.com/bbest/rmarkdown-example" target="_blank">RMarkdown example</a></li>
 </ul>
 
+<h1 id="emacs">Emacs</h1>
+
+<ul>
+<li><a href="http://www.emacswiki.org/" target="_blank">Emacs wiki</a></li>
+<li><a href="http://bzg.fr/learn-emacs-lisp-in-15-minutes.html" target="_blank">Learn Emacs lisp in 15
+minutes</a></li>
+<li><a href="http://dr.barik.net/kb/Emacs" target="_blank">Barik&rsquo;s guide to Emacs</a></li>
+<li><a href="http://clojure.jr0cket.co.uk/perfect-environment/emacs-leiningen-swank" target="_blank">Installing emacs-goodies-el including the Maple mode on
+Emacs 24</a></li>
+<li><a href="http://nakkaya.com/2009/11/06/remote-file-editing-using-emacs/" target="_blank">remote file editing using
+emacs</a></li>
+</ul>
+
+<h1 id="auctex">AUCTeX</h1>
+
+<ul>
+<li><a href="http://kieranhealy.org/esk/starter-kit-latex.html" target="_blank">Starter kit</a></li>
+</ul>
+
+<h1 id="org-mode">Org Mode</h1>
+
+<ul>
+<li><a href="http://www.emacswiki.org/cgi-bin/wiki/OrgMode" target="_blank">Emacs Org Mode</a></li>
+<li><a href="http://nakkaya.com/2010/09/07/writing-papers-using-org-mode/" target="_blank">Writing papers using org
+mode</a></li>
+<li><a href="http://www-public.it-sudparis.eu/~berger_o/weblog/2012/03/23/how-to-manage-and-export-bibliographic-notesrefs-in-org-mode/" target="_blank">How to manage and export bibliographic notesrefs in org
+mode</a></li>
+<li><a href="http://blog.karssen.org/2013/08/22/using-bibtex-from-org-mode/" target="_blank">Using bibtex from org
+mode</a></li>
+<li><a href="http://tincman.wordpress.com/2011/01/04/research-paper-management-with-emacs-org-mode-and-reftex/" target="_blank">Research paper management with emacs org mode and
+reftex</a></li>
+<li><a href="http://www.seas.upenn.edu/~heqin/academic/sitecreation.html" target="_blank">Site creation with org
+mode</a></li>
+<li><a href="http://praveen.kumar.in/2012/03/10/org-mode-latex-and-minted-syntax-highlighting/" target="_blank">Syntax highlighting in
+org-mode</a></li>
+</ul>
+
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 07.03.2019: <a  href="https://github.com/wikihub/wikihub-website/commit/b516a3d5ef142993b67cd5ea8380832471695367">Create WordProcessing.md (b516a3d)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 07.03.2019: <a  href="https://github.com/wikihub/wikihub-website/commit/fd5b30e1d437eb7f90dae3064a4e94c20fa6ce54">Update WordProcessing.md (fd5b30e)</a>
 </div>
 </div>
 
