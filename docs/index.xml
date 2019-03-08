@@ -648,6 +648,170 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Software Development</title>
+      <link>https://wikihub.github.io/docs/references/software/softwaredevelopment/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/softwaredevelopment/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;linux&#34;&gt;Linux&lt;/h1&gt;
+
+&lt;h2 id=&#34;distribution&#34;&gt;Distribution&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/ubuntu-show-version/&#34; target=&#34;_blank&#34;&gt;Ubuntu — Show Version Number (Command Line and Unity)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/&#34; target=&#34;_blank&#34;&gt;HowTo: Ubuntu Linux Kernel Version Command&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34; target=&#34;_blank&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://circleci.com&#34; target=&#34;_blank&#34;&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;Drone.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
+
+&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-username-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your username in Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-commit-email-address-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your commit email address in Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git add myfolder/.&lt;/li&gt;
+&lt;li&gt;Change the username:
+
+&lt;ul&gt;
+&lt;li&gt;git config &amp;ndash;global user.name &amp;ldquo;Behzad Samadi&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git config &amp;ndash;global user.email &amp;ldquo;name@mail.com&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git remote -v&lt;/li&gt;
+&lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34; target=&#34;_blank&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34; target=&#34;_blank&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docusaurus.io/en/&#34; target=&#34;_blank&#34;&gt;Docusaurus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forestry.io/&#34; target=&#34;_blank&#34;&gt;Forestry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add a submodule: git submodule add &lt;a href=&#34;https://github.com/hbpasti/heather-hugo&#34; target=&#34;_blank&#34;&gt;https://github.com/hbpasti/heather-hugo&lt;/a&gt; themes/heather-hugo&lt;/li&gt;
+&lt;li&gt;Update a submodule: git submodule update &amp;ndash;init &amp;ndash;recursive&lt;/li&gt;
+&lt;li&gt;List submodules: git config &amp;ndash;file .gitmodules &amp;ndash;name-only &amp;ndash;get-regexp path&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34; target=&#34;_blank&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RelaxedJS/ReLaXed&#34; target=&#34;_blank&#34;&gt;ReLaXed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;private-static-websites&#34;&gt;Private static websites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34; target=&#34;_blank&#34;&gt;Private static website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://justlogin.xyz/&#34; target=&#34;_blank&#34;&gt;Just Login&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haiku.ai/&#34; target=&#34;_blank&#34;&gt;Haiko&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackshare.io/posts/top-developer-tools-2018&#34; target=&#34;_blank&#34;&gt;Top developer tools 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Web Development</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gamtiq/frontend-tools/blob/master/README.md&#34; target=&#34;_blank&#34;&gt;Frontend development tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;vue-js-https-vuejs-org&#34;&gt;&lt;a href=&#34;https://vuejs.org/&#34; target=&#34;_blank&#34;&gt;Vue.js&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vuescript.com/&#34; target=&#34;_blank&#34;&gt;VueScript.com&lt;/a&gt; - Aims to offer latest free Vue.js components for web application developers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/build-an-app-with-vuejs/&#34; target=&#34;_blank&#34;&gt;Build an App with Vue.js: From Authentication to Calling an API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://material.balmjs.com/&#34; target=&#34;_blank&#34;&gt;BalmUI&lt;/a&gt; - next generation Material UI for Vue.js.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://element.eleme.io/&#34; target=&#34;_blank&#34;&gt;Element&lt;/a&gt; - a Vue.js 2.0 UI Toolkit for Web.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iviewui.com/&#34; target=&#34;_blank&#34;&gt;iView&lt;/a&gt; - a high quality UI Toolkit built on Vue.js.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://josephuspaye.github.io/Keen-UI/&#34; target=&#34;_blank&#34;&gt;Keen UI&lt;/a&gt; - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://museui.github.io/&#34; target=&#34;_blank&#34;&gt;Muse UI&lt;/a&gt; - a Vue 2.0 and Material Design based UI component library.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://quasar-framework.org/&#34; target=&#34;_blank&#34;&gt;Quasar Framework&lt;/a&gt; - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuetifyjs.com/&#34; target=&#34;_blank&#34;&gt;Vuetify.js&lt;/a&gt; - a component framework for Vue.js 2.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuematerial.github.io/&#34; target=&#34;_blank&#34;&gt;Vue Material&lt;/a&gt; - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;react&#34;&gt;React&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34; target=&#34;_blank&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blueprintjs.com/&#34; target=&#34;_blank&#34;&gt;Blueprint&lt;/a&gt; - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dvajs/dva&#34; target=&#34;_blank&#34;&gt;dva&lt;/a&gt; - React and Redux based, lightweight and Elm-style framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.electrode.io/&#34; target=&#34;_blank&#34;&gt;Electrode&lt;/a&gt; - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://elemental-ui.com/&#34; target=&#34;_blank&#34;&gt;Elemental UI&lt;/a&gt; - A UI Toolkit for React.js Websites and Apps.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getessence.io&#34; target=&#34;_blank&#34;&gt;Essence&lt;/a&gt; - The Essential Material Design Framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://grommet.github.io/&#34; target=&#34;_blank&#34;&gt;Grommet&lt;/a&gt; - The most advanced UX framework for enterprise applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/streamich/libreact&#34; target=&#34;_blank&#34;&gt;libreact&lt;/a&gt; - a collection of most essential React utilities you will probably need in any project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.material-ui.com/&#34; target=&#34;_blank&#34;&gt;Material-UI&lt;/a&gt; - A Set of React Components that Implement Google&amp;rsquo;s Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://react-md.mlaursen.com/&#34; target=&#34;_blank&#34;&gt;react-md&lt;/a&gt; - A set of React components and sass files for implementing Google&amp;rsquo;s Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://react-mdl.github.io/react-mdl/&#34; target=&#34;_blank&#34;&gt;React-MDL&lt;/a&gt; - A set of React components build on top of Material Design Lite.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://react-toolbox.com&#34; target=&#34;_blank&#34;&gt;React Toolbox&lt;/a&gt; - A set of React components that implement Google&amp;rsquo;s Material Design specification.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/reactxp/&#34; target=&#34;_blank&#34;&gt;ReactXP&lt;/a&gt; - A library for cross-platform app development using React and React Native.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34; target=&#34;_blank&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;angular&#34;&gt;Angular&lt;/h2&gt;
+
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stacker.app&#34; target=&#34;_blank&#34;&gt;Stacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://convox.com&#34; target=&#34;_blank&#34;&gt;Convox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;web-applications&#34;&gt;Web Applications&lt;/h1&gt;
+
+&lt;h2 id=&#34;financial-applications&#34;&gt;Financial Applications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://firefly-iii.org/&#34; target=&#34;_blank&#34;&gt;Firefly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://getpassiv.com&#34; target=&#34;_blank&#34;&gt;Getpassiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.portfoliovisualizer.com&#34; target=&#34;_blank&#34;&gt;Portfolio Visualizer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Emacs</title>
       <link>https://wikihub.github.io/docs/references/software/wordprocessing/emacs/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
@@ -1250,170 +1414,6 @@ package&lt;/a&gt;&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://exomotive.com/&#34; target=&#34;_blank&#34;&gt;Exomotive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Software Development</title>
-      <link>https://wikihub.github.io/docs/references/software/softwaredevelopment/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/softwaredevelopment/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;linux&#34;&gt;Linux&lt;/h1&gt;
-
-&lt;h2 id=&#34;distribution&#34;&gt;Distribution&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/ubuntu-show-version/&#34; target=&#34;_blank&#34;&gt;Ubuntu — Show Version Number (Command Line and Unity)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/&#34; target=&#34;_blank&#34;&gt;HowTo: Ubuntu Linux Kernel Version Command&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34; target=&#34;_blank&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://circleci.com&#34; target=&#34;_blank&#34;&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;Drone.io&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
-
-&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-username-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your username in Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-commit-email-address-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your commit email address in Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;git add .&lt;/li&gt;
-&lt;li&gt;git add myfolder/.&lt;/li&gt;
-&lt;li&gt;Change the username:
-
-&lt;ul&gt;
-&lt;li&gt;git config &amp;ndash;global user.name &amp;ldquo;Behzad Samadi&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;git config &amp;ndash;global user.email &amp;ldquo;name@mail.com&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;git remote -v&lt;/li&gt;
-&lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34; target=&#34;_blank&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34; target=&#34;_blank&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docusaurus.io/en/&#34; target=&#34;_blank&#34;&gt;Docusaurus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://forestry.io/&#34; target=&#34;_blank&#34;&gt;Forestry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Add a submodule: git submodule add &lt;a href=&#34;https://github.com/hbpasti/heather-hugo&#34; target=&#34;_blank&#34;&gt;https://github.com/hbpasti/heather-hugo&lt;/a&gt; themes/heather-hugo&lt;/li&gt;
-&lt;li&gt;Update a submodule: git submodule update &amp;ndash;init &amp;ndash;recursive&lt;/li&gt;
-&lt;li&gt;List submodules: git config &amp;ndash;file .gitmodules &amp;ndash;name-only &amp;ndash;get-regexp path&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34; target=&#34;_blank&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/RelaxedJS/ReLaXed&#34; target=&#34;_blank&#34;&gt;ReLaXed&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;private-static-websites&#34;&gt;Private static websites&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34; target=&#34;_blank&#34;&gt;Private static website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://justlogin.xyz/&#34; target=&#34;_blank&#34;&gt;Just Login&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.haiku.ai/&#34; target=&#34;_blank&#34;&gt;Haiko&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackshare.io/posts/top-developer-tools-2018&#34; target=&#34;_blank&#34;&gt;Top developer tools 2018&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Web Development</title>
-      <link>https://wikihub.github.io/docs/references/software/webdevelopment/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gamtiq/frontend-tools/blob/master/README.md&#34; target=&#34;_blank&#34;&gt;Frontend development tools&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;vue-js-https-vuejs-org&#34;&gt;&lt;a href=&#34;https://vuejs.org/&#34; target=&#34;_blank&#34;&gt;Vue.js&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vuescript.com/&#34; target=&#34;_blank&#34;&gt;VueScript.com&lt;/a&gt; - Aims to offer latest free Vue.js components for web application developers.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/build-an-app-with-vuejs/&#34; target=&#34;_blank&#34;&gt;Build an App with Vue.js: From Authentication to Calling an API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://material.balmjs.com/&#34; target=&#34;_blank&#34;&gt;BalmUI&lt;/a&gt; - next generation Material UI for Vue.js.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://element.eleme.io/&#34; target=&#34;_blank&#34;&gt;Element&lt;/a&gt; - a Vue.js 2.0 UI Toolkit for Web.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iviewui.com/&#34; target=&#34;_blank&#34;&gt;iView&lt;/a&gt; - a high quality UI Toolkit built on Vue.js.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://josephuspaye.github.io/Keen-UI/&#34; target=&#34;_blank&#34;&gt;Keen UI&lt;/a&gt; - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://museui.github.io/&#34; target=&#34;_blank&#34;&gt;Muse UI&lt;/a&gt; - a Vue 2.0 and Material Design based UI component library.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://quasar-framework.org/&#34; target=&#34;_blank&#34;&gt;Quasar Framework&lt;/a&gt; - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuetifyjs.com/&#34; target=&#34;_blank&#34;&gt;Vuetify.js&lt;/a&gt; - a component framework for Vue.js 2.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuematerial.github.io/&#34; target=&#34;_blank&#34;&gt;Vue Material&lt;/a&gt; - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;react&#34;&gt;React&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34; target=&#34;_blank&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blueprintjs.com/&#34; target=&#34;_blank&#34;&gt;Blueprint&lt;/a&gt; - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dvajs/dva&#34; target=&#34;_blank&#34;&gt;dva&lt;/a&gt; - React and Redux based, lightweight and Elm-style framework.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.electrode.io/&#34; target=&#34;_blank&#34;&gt;Electrode&lt;/a&gt; - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://elemental-ui.com/&#34; target=&#34;_blank&#34;&gt;Elemental UI&lt;/a&gt; - A UI Toolkit for React.js Websites and Apps.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getessence.io&#34; target=&#34;_blank&#34;&gt;Essence&lt;/a&gt; - The Essential Material Design Framework.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://grommet.github.io/&#34; target=&#34;_blank&#34;&gt;Grommet&lt;/a&gt; - The most advanced UX framework for enterprise applications.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/streamich/libreact&#34; target=&#34;_blank&#34;&gt;libreact&lt;/a&gt; - a collection of most essential React utilities you will probably need in any project.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.material-ui.com/&#34; target=&#34;_blank&#34;&gt;Material-UI&lt;/a&gt; - A Set of React Components that Implement Google&amp;rsquo;s Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://react-md.mlaursen.com/&#34; target=&#34;_blank&#34;&gt;react-md&lt;/a&gt; - A set of React components and sass files for implementing Google&amp;rsquo;s Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://react-mdl.github.io/react-mdl/&#34; target=&#34;_blank&#34;&gt;React-MDL&lt;/a&gt; - A set of React components build on top of Material Design Lite.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://react-toolbox.com&#34; target=&#34;_blank&#34;&gt;React Toolbox&lt;/a&gt; - A set of React components that implement Google&amp;rsquo;s Material Design specification.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/reactxp/&#34; target=&#34;_blank&#34;&gt;ReactXP&lt;/a&gt; - A library for cross-platform app development using React and React Native.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34; target=&#34;_blank&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;angular&#34;&gt;Angular&lt;/h2&gt;
-
-&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stacker.app&#34; target=&#34;_blank&#34;&gt;Stacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://convox.com&#34; target=&#34;_blank&#34;&gt;Convox&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;web-applications&#34;&gt;Web Applications&lt;/h1&gt;
-
-&lt;h2 id=&#34;financial-applications&#34;&gt;Financial Applications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://firefly-iii.org/&#34; target=&#34;_blank&#34;&gt;Firefly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://getpassiv.com&#34; target=&#34;_blank&#34;&gt;Getpassiv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.portfoliovisualizer.com&#34; target=&#34;_blank&#34;&gt;Portfolio Visualizer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
