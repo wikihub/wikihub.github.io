@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://wikihub.github.io/docs/references/robotics/</loc>
-    <lastmod>2019-03-02T18:57:17-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wikihub.github.io/docs/references/software/</loc>
     <lastmod>2019-02-22T16:33:13-05:00</lastmod>
   </url>
@@ -83,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://wikihub.github.io/docs/references/robotics/</loc>
+    <lastmod>2019-03-07T22:01:56-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wikihub.github.io/docs/references/software/nlp/</loc>
     <lastmod>2019-03-07T21:57:58-05:00</lastmod>
   </url>
@@ -95,6 +95,16 @@
   <url>
     <loc>https://wikihub.github.io/docs/references/software/softwaredevelopment/</loc>
     <lastmod>2019-03-07T21:58:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wikihub.github.io/docs/references/software/webdevelopment/</loc>
+    <lastmod>2019-03-07T21:59:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wikihub.github.io/docs/references/software/wordprocessing/</loc>
+    <lastmod>2019-03-07T21:59:37-05:00</lastmod>
   </url>
   
   <url>
@@ -115,11 +125,6 @@
   <url>
     <loc>https://wikihub.github.io/docs/references/software/wordprocessing/markdown/</loc>
     <lastmod>2019-03-07T16:25:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wikihub.github.io/docs/references/software/wordprocessing/</loc>
-    <lastmod>2019-03-07T16:22:26-05:00</lastmod>
   </url>
   
   <url>
@@ -145,11 +150,6 @@
   <url>
     <loc>https://wikihub.github.io/docs/references/hardware/cad/</loc>
     <lastmod>2019-03-07T12:57:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wikihub.github.io/docs/references/software/webdevelopment/</loc>
-    <lastmod>2019-02-26T12:42:16-05:00</lastmod>
   </url>
   
   <url>
