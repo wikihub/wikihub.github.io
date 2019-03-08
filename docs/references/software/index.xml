@@ -103,6 +103,34 @@
     </item>
     
     <item>
+      <title>Docs: Graphic Design</title>
+      <link>https://wikihub.github.io/docs/references/software/graphicdesign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/graphicdesign/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;fonts&#34;&gt;Fonts&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fonts.com/&#34; target=&#34;_blank&#34;&gt;Fonts.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;vector-graphics&#34;&gt;Vector Graphics&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vecta.io/&#34; target=&#34;_blank&#34;&gt;Vecta.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Tools_for_SVG&#34; target=&#34;_blank&#34;&gt;Tools for SVG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://snapsvg.io/&#34; target=&#34;_blank&#34;&gt;Snap.svg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Machine Learning</title>
       <link>https://wikihub.github.io/docs/references/software/machinelearning/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
