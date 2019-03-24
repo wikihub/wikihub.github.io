@@ -44,6 +44,12 @@
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/melodic/Installation/Ubuntu&#34; target=&#34;_blank&#34;&gt;Install ROS Melodic on Ubuntu Bionic (18.04.2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ruffsl/ros_docker_demos&#34; target=&#34;_blank&#34;&gt;ROS Docker demos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;3d-simulation&#34;&gt;3D Simulation&lt;/h1&gt;
 
 &lt;ul&gt;
