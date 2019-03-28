@@ -1474,6 +1474,20 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/melodic/Installation/Ubuntu&#34; target=&#34;_blank&#34;&gt;Install ROS Melodic on Ubuntu Bionic (18.04.2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;training&#34;&gt;Training&lt;/h1&gt;
+
+&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.erlerobotics.com/simulation/intro&#34; target=&#34;_blank&#34;&gt;ROS/Gazebo simulator as the external simulator for ArduCopter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://campusrover.org.s3-website-us-west-2.amazonaws.com/&#34; target=&#34;_blank&#34;&gt;Cosi119a - Autonomous Robotics Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -1514,12 +1528,6 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/RobotnikAutomation/rbcar_sim&#34; target=&#34;_blank&#34;&gt;RBCar&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf&#34; target=&#34;_blank&#34;&gt;Autonomous Vehicle Control Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.erlerobotics.com/simulation/intro&#34; target=&#34;_blank&#34;&gt;ROS/Gazebo simulator as the external simulator for ArduCopter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;visualization&#34;&gt;Visualization&lt;/h1&gt;
