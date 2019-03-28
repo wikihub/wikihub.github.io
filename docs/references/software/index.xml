@@ -695,23 +695,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
         
         
 
-&lt;h1 id=&#34;linux&#34;&gt;Linux&lt;/h1&gt;
-
-&lt;h2 id=&#34;distribution&#34;&gt;Distribution&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/ubuntu-show-version/&#34; target=&#34;_blank&#34;&gt;Ubuntu — Show Version Number (Command Line and Unity)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/&#34; target=&#34;_blank&#34;&gt;HowTo: Ubuntu Linux Kernel Version Command&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://itsfoss.com/find-which-kernel-version-is-running-in-ubuntu/&#34; target=&#34;_blank&#34;&gt;3 Ways to Check Linux Kernel Version in Command Line&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://unetbootin.github.io/&#34; target=&#34;_blank&#34;&gt;Installing persistent Ubuntu on USB flash drive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34; target=&#34;_blank&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -737,17 +720,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34; target=&#34;_blank&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34; target=&#34;_blank&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34; target=&#34;_blank&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34; target=&#34;_blank&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34; target=&#34;_blank&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34; target=&#34;_blank&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Remove all the images without a tag: docker rmi $(docker images -f dangling=true -q)&lt;/li&gt;
-&lt;li&gt;Remove all the containers: docker rm $(docker ps -a -q)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
