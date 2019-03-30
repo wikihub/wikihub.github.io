@@ -208,6 +208,12 @@
 &lt;li&gt;&lt;a href=&#34;https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf&#34; target=&#34;_blank&#34;&gt;Autonomous Vehicle Control Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;control-toolbox&#34;&gt;Control Toolbox&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros-controls&#34; target=&#34;_blank&#34;&gt;ROS Controls&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;visualization&#34;&gt;Visualization&lt;/h1&gt;
 
 &lt;ul&gt;
