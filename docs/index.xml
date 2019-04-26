@@ -1476,6 +1476,7 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;h1 id=&#34;autonomous-vehicles&#34;&gt;Autonomous Vehicles&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mrt.kit.edu/annieway/&#34; target=&#34;_blank&#34;&gt;AnnieWAY&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/RobotnikAutomation/rbcar_sim&#34; target=&#34;_blank&#34;&gt;RBCar&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf&#34; target=&#34;_blank&#34;&gt;Autonomous Vehicle Control Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit&#34; target=&#34;_blank&#34;&gt;Moving Community - Pix&lt;/a&gt;&lt;/li&gt;
@@ -1593,6 +1594,27 @@ package&lt;/a&gt;&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://gvsets.ndia-mich.org/documents/AGS/2018/AUTONOMOUS%20GROUND%20RESUPPLY%20AUTONOMY%20KIT.pdf&#34; target=&#34;_blank&#34;&gt;AUTONOMOUS GROUND RESUPPLY AUTONOMY KIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;perception&#34;&gt;Perception&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134582/&#34; target=&#34;_blank&#34;&gt;3D Scene Reconstruction Using Omnidirectional Vision and LiDAR: A Hybrid Approach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cvlibs.net/datasets/kitti/&#34; target=&#34;_blank&#34;&gt;Kitti Vision Benchmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://masc.cs.gmu.edu/wiki/MapGMU&#34; target=&#34;_blank&#34;&gt;MapGMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://navoshta.com/kitti-lidar/&#34; target=&#34;_blank&#34;&gt;Kitti LiDAR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;cameras&#34;&gt;Cameras&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ptgrey.com/ladybug5-360-degree-usb3-spherical-camera-systems&#34; target=&#34;_blank&#34;&gt;Ladybug&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;lidar&#34;&gt;LiDAR&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dinsider.com/lidar-sensors/&#34; target=&#34;_blank&#34;&gt;LiDAR sensors&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
