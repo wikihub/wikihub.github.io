@@ -2016,6 +2016,32 @@ package&lt;/a&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Sensors</title>
+      <link>https://wikihub.github.io/docs/references/robotics/sensors/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/sensors/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;gps&#34;&gt;GPS&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o&#34; target=&#34;_blank&#34;&gt;simpleRTK2B&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;lidar&#34;&gt;LiDAR&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/slamtec-rplidar-a3-360-laser-scanner-25-m.html&#34; target=&#34;_blank&#34;&gt;Slamtec RPLIDAR A3 360° Laser Scanner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: ROS</title>
       <link>https://wikihub.github.io/docs/getting-started/ros/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
