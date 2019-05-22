@@ -1727,8 +1727,16 @@ package&lt;/a&gt;&lt;/li&gt;
 
 &lt;h1 id=&#34;edge-computing&#34;&gt;Edge Computing&lt;/h1&gt;
 
+&lt;h2 id=&#34;nvidia&#34;&gt;NVIDIA&lt;/h2&gt;
+
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://aiyprojects.withgoogle.com/edge-tpu&#34; target=&#34;_blank&#34;&gt;Edge TPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/buy-jetson&#34; target=&#34;_blank&#34;&gt;Jetson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;google&#34;&gt;Google&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://coral.withgoogle.com/&#34; target=&#34;_blank&#34;&gt;Edge TPU&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
