@@ -70,6 +70,7 @@
 &lt;li&gt;&lt;a href=&#34;https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/&#34; target=&#34;_blank&#34;&gt;Gnome VNC&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Change shell for user: &lt;code&gt;$ sudo usermod -s /bin/bash username&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/&#34; target=&#34;_blank&#34;&gt;Deploying a 4x4K, GPU-backed Linux desktop instance on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@pigiuz/setting-up-a-hw-accelerated-desktop-on-aws-g2-instances-4b58718a4541&#34; target=&#34;_blank&#34;&gt;Setting up a HW accelerated desktop on AWS G2 instances&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;opengl-on-ec2&#34;&gt;OpenGL on EC2&lt;/h2&gt;
