@@ -41,6 +41,12 @@
 &lt;li&gt;&lt;a href=&#34;https://yunohost.org/#/apps&#34; target=&#34;_blank&#34;&gt;Yunohost&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;development-operations&#34;&gt;Development Operations&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opctl.io/docs/&#34; target=&#34;_blank&#34;&gt;opctl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;amazon-web-services&#34;&gt;Amazon Web Services&lt;/h1&gt;
 
 &lt;h1 id=&#34;lambda-functions&#34;&gt;Lambda functions&lt;/h1&gt;
