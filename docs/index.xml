@@ -68,6 +68,12 @@
 &lt;li&gt;Change shell for user: &lt;code&gt;$ sudo usermod -s /bin/bash username&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;remote-access-to-ec2&#34;&gt;Remote access to EC2&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/akittana/aws-virtual-bastion&#34; target=&#34;_blank&#34;&gt;AWS virtual bastion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;nvidia-on-ec2&#34;&gt;NVIDIA on EC2&lt;/h2&gt;
 
 &lt;ul&gt;
