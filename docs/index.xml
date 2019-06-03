@@ -72,6 +72,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;Change shell for user: &lt;code&gt;$ sudo usermod -s /bin/bash username&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hlupaco/aws-ec2-cmd/blob/master/ec2-cmd.sh&#34; target=&#34;_blank&#34;&gt;EC2 script with for loops&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;remote-access-to-ec2&#34;&gt;Remote access to EC2&lt;/h2&gt;
