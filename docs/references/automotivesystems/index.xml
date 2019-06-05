@@ -31,6 +31,19 @@
         
         
 
+&lt;h1 id=&#34;canada&#34;&gt;Canada&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.investinontario.com/tags/autonomous-vehicles&#34; target=&#34;_blank&#34;&gt;Invest in Ontario&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cavcoe.com/index.html&#34; target=&#34;_blank&#34;&gt;CAVCOE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.avinhub.ca/&#34; target=&#34;_blank&#34;&gt;AVIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/&#34; target=&#34;_blank&#34;&gt;CAVI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ottawaavcluster.com/&#34; target=&#34;_blank&#34;&gt;Ottawa Cluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cavcanada.ca/&#34; target=&#34;_blank&#34;&gt;CAV Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/&#34; target=&#34;_blank&#34;&gt;Canada&amp;rsquo;s First AV Technology Directory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://betakit.com/blackberry-launches-security-system-for-autonomous-vehicles/&#34; target=&#34;_blank&#34;&gt;BLACKBERRY launches security system for autonomous vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;articles&#34;&gt;Articles&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -60,27 +73,6 @@
 &lt;li&gt;&lt;a href=&#34;http://apollo.auto/developer.html&#34; target=&#34;_blank&#34;&gt;Apollo Open Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;simulators&#34;&gt;Simulators&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;CARLA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/microsoft/AirSim&#34; target=&#34;_blank&#34;&gt;AirSim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rfpro.com/&#34; target=&#34;_blank&#34;&gt;rFpro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;canada&#34;&gt;Canada&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.investinontario.com/tags/autonomous-vehicles&#34; target=&#34;_blank&#34;&gt;Invest in Ontario&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cavcoe.com/index.html&#34; target=&#34;_blank&#34;&gt;CAVCOE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.avinhub.ca/&#34; target=&#34;_blank&#34;&gt;AVIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/&#34; target=&#34;_blank&#34;&gt;CAVI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ottawaavcluster.com/&#34; target=&#34;_blank&#34;&gt;Ottawa Cluster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cavcanada.ca/&#34; target=&#34;_blank&#34;&gt;CAV Canada&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/&#34; target=&#34;_blank&#34;&gt;Canada&amp;rsquo;s First AV Technology Directory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://betakit.com/blackberry-launches-security-system-for-autonomous-vehicles/&#34; target=&#34;_blank&#34;&gt;BLACKBERRY launches security system for autonomous vehicles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&#34;autonomous-vehicles&#34;&gt;Autonomous Vehicles&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -93,7 +85,6 @@
 &lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://apollo.auto/&#34; target=&#34;_blank&#34;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/udacity/self-driving-car&#34; target=&#34;_blank&#34;&gt;Self driving car by Udacity&lt;/a&gt;
 
 &lt;ul&gt;
@@ -105,6 +96,17 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/se-research/OpenDaVINCI&#34; target=&#34;_blank&#34;&gt;OpenDaVINCI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.opendlv.org/&#34; target=&#34;_blank&#34;&gt;OpenDLV&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/mohammadrezabonyadi/standarddatabases/simulated-car-racing&#34; target=&#34;_blank&#34;&gt;Ahura&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;simulators&#34;&gt;Simulators&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://apollo.auto/&#34; target=&#34;_blank&#34;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;CARLA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microsoft/AirSim&#34; target=&#34;_blank&#34;&gt;AirSim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rfpro.com/&#34; target=&#34;_blank&#34;&gt;rFpro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.opal-rt.com/autonomous-vehicle/&#34; target=&#34;_blank&#34;&gt;RT-LAB Orchestra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/&#34; target=&#34;_blank&#34;&gt;NVIDIA DRIVE CONSTELLATION&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;autoware&#34;&gt;Autoware&lt;/h3&gt;
