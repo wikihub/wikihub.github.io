@@ -347,8 +347,6 @@
 &lt;li&gt;&lt;a href=&#34;http://ardupilot.org/rover/docs/common-positioning-landing-page.html&#34; target=&#34;_blank&#34;&gt;ArduPilot GPS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://rtklib.com/&#34; target=&#34;_blank&#34;&gt;RTKLIB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://store.emlid.com/&#34; target=&#34;_blank&#34;&gt;Emlid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/neo-m8p-series&#34; target=&#34;_blank&#34;&gt;ublox M8P&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/zed-f9k-module&#34; target=&#34;_blank&#34;&gt;ublox F9K with IMU&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763&#34; target=&#34;_blank&#34;&gt;Hemisphere&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -357,6 +355,19 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.swiftnav.com/store&#34; target=&#34;_blank&#34;&gt;SwiftNav&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://support.swiftnav.com/customer/en/portal/articles/2924342-using-ros-with-swift-navigation-gnss-devices&#34; target=&#34;_blank&#34;&gt;Install driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ublox&#34;&gt;ublox&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/neo-m8p-series&#34; target=&#34;_blank&#34;&gt;ublox M8P&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/zed-f9k-module&#34; target=&#34;_blank&#34;&gt;ublox F9K with IMU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;polaris&#34;&gt;Polaris&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.polaris-gnss.com/shop&#34; target=&#34;_blank&#34;&gt;Polaris GNSS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;lidar&#34;&gt;LiDAR&lt;/h1&gt;
