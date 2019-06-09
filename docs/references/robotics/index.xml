@@ -122,6 +122,52 @@
     </item>
     
     <item>
+      <title>Docs: Components</title>
+      <link>https://wikihub.github.io/docs/references/robotics/components/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/components/</guid>
+      <description>
+        
+        
+        
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.a-m-c.com/&#34; target=&#34;_blank&#34;&gt;Advanced Motion Controls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elmomc.com/&#34; target=&#34;_blank&#34;&gt;Elmo Motion Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.energid.com/&#34; target=&#34;_blank&#34;&gt;Energid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.genesis-robotics.com/&#34; target=&#34;_blank&#34;&gt;Genesis Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kollmorgen.com/en-us/&#34; target=&#34;_blank&#34;&gt;Kollmorgen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.micromo.com/&#34; target=&#34;_blank&#34;&gt;Micromo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://schunk.com/us_en/homepage/&#34; target=&#34;_blank&#34;&gt;Schunk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sick.com/us/en/&#34; target=&#34;_blank&#34;&gt;Sick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.softroboticsinc.com/&#34; target=&#34;_blank&#34;&gt;Soft Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;battery&#34;&gt;Battery&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ionenergy.co/&#34; target=&#34;_blank&#34;&gt;Ion Energy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;grippers&#34;&gt;Grippers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://onrobot.com/en&#34; target=&#34;_blank&#34;&gt;Onrobot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robotiq.com/&#34; target=&#34;_blank&#34;&gt;Robotiq&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;motors&#34;&gt;Motors&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.harmonicdrive.net/&#34; target=&#34;_blank&#34;&gt;Harmonic Drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.maxonmotorusa.com/maxon/view/content/index&#34; target=&#34;_blank&#34;&gt;Maxon Precision Motors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: ROS</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
