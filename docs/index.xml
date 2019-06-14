@@ -2333,12 +2333,6 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763&#34; target=&#34;_blank&#34;&gt;Hemisphere&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ublox&#34;&gt;ublox&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://deepsouthrobotics.com/2019/06/03/the-taming-of-the-u-blox-zed-f9p/&#34; target=&#34;_blank&#34;&gt;ublox F9P&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h2 id=&#34;gps-rtk&#34;&gt;GPS RTK&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -2353,7 +2347,7 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://support.swiftnav.com/customer/en/portal/articles/2924342-using-ros-with-swift-navigation-gnss-devices&#34; target=&#34;_blank&#34;&gt;Install driver&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ublox-1&#34;&gt;ublox&lt;/h2&gt;
+&lt;h2 id=&#34;ublox&#34;&gt;ublox&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/neo-m8p-series&#34; target=&#34;_blank&#34;&gt;ublox M8P&lt;/a&gt;&lt;/li&gt;
@@ -2361,6 +2355,7 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/zed-f9k-module&#34; target=&#34;_blank&#34;&gt;ublox F9K with IMU&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.calvert.ch/maurice/2017/08/28/ublox-c94-m8p-rtk-gps-review-performance-evaluation/&#34; target=&#34;_blank&#34;&gt;ublox test&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o&#34; target=&#34;_blank&#34;&gt;simpleRTK2B&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://deepsouthrobotics.com/2019/06/03/the-taming-of-the-u-blox-zed-f9p/&#34; target=&#34;_blank&#34;&gt;ublox F9P&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;polaris&#34;&gt;Polaris&lt;/h2&gt;
