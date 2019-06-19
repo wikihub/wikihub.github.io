@@ -87,6 +87,7 @@
 &lt;h2 id=&#34;opengl-on-ec2&#34;&gt;OpenGL on EC2&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Benchmarking#Graphics&#34; target=&#34;_blank&#34;&gt;GPU Benchmarks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639&#34; target=&#34;_blank&#34;&gt;How to run Unity on Amazon Cloud or without Monitor&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.scm.com/doc/Installation/Remote_GUI.html#&#34; target=&#34;_blank&#34;&gt;Using the GUI on a remote machine&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://carla.readthedocs.io/en/latest/carla_headless/&#34; target=&#34;_blank&#34;&gt;Running CARLA without Display and Selecting GPUs&lt;/a&gt;&lt;/li&gt;
