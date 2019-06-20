@@ -307,7 +307,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/szilard/survey-ml-tools&#34; target=&#34;_blank&#34;&gt;Small survey on ML tools&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;## &lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tensorflow-https-www-tensorflow-org&#34;&gt;&lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Hvass-Labs/TensorFlow-Tutorials&#34; target=&#34;_blank&#34;&gt;TensorFlow Tutorials&lt;/a&gt;&lt;/li&gt;
@@ -322,7 +322,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud&#34; target=&#34;_blank&#34;&gt;Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;## &lt;a href=&#34;https://keras.io/&#34; target=&#34;_blank&#34;&gt;Keras&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;keras-https-keras-io&#34;&gt;&lt;a href=&#34;https://keras.io/&#34; target=&#34;_blank&#34;&gt;Keras&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/soumendra/awesome-keras&#34; target=&#34;_blank&#34;&gt;Awesome Keras&lt;/a&gt;&lt;/li&gt;
