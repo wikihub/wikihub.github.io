@@ -344,6 +344,32 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/Jmeyer1292/robot_cal_tools&#34; target=&#34;_blank&#34;&gt;Robot Cal Tools&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;facebook&#34;&gt;Facebook&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/facebookresearch/pyrobot&#34; target=&#34;_blank&#34;&gt;PyRobot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aihabitat.org/&#34; target=&#34;_blank&#34;&gt;AI Habitat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/AI-Robot-Challenge-Lab&#34; target=&#34;_blank&#34;&gt;AI Robot Challenge Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;amazon&#34;&gt;Amazon&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/robomaker/&#34; target=&#34;_blank&#34;&gt;RoboMaker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ros-based-products&#34;&gt;ROS Based Products&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/autonomy-research-kit/&#34; target=&#34;_blank&#34;&gt;Autonomy kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autonomoustuff.com/product/autonomy-starter-kit/&#34; target=&#34;_blank&#34;&gt;AStuff Autonomy Starter Kit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;install&#34;&gt;Install&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -521,25 +547,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.ode.org/&#34; target=&#34;_blank&#34;&gt;ODE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://simtk.org/projects/simbody/&#34; target=&#34;_blank&#34;&gt;Simbody&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.sofa-framework.org/applications/gallery/sofa-as-unity3d-physics-engine/&#34; target=&#34;_blank&#34;&gt;SOFA&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/AI-Robot-Challenge-Lab&#34; target=&#34;_blank&#34;&gt;AI Robot Challenge Lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;amazon&#34;&gt;Amazon&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/robomaker/&#34; target=&#34;_blank&#34;&gt;RoboMaker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;ros-based-products&#34;&gt;ROS Based Products&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/autonomy-research-kit/&#34; target=&#34;_blank&#34;&gt;Autonomy kit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://autonomoustuff.com/product/autonomy-starter-kit/&#34; target=&#34;_blank&#34;&gt;AStuff Autonomy Starter Kit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
