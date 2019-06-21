@@ -368,7 +368,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/autonomy-research-kit/&#34; target=&#34;_blank&#34;&gt;Autonomy kit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://autonomoustuff.com/product/autonomy-starter-kit/&#34; target=&#34;_blank&#34;&gt;AStuff Autonomy Starter Kit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pyros.info/&#34; target=&#34;_blank&#34;&gt;PyROS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pyros.info/&#34; target=&#34;_blank&#34;&gt;PyROS&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pyros-dev&#34; target=&#34;_blank&#34;&gt;PyROS Dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;install&#34;&gt;Install&lt;/h1&gt;
