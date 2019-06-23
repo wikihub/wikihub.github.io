@@ -1808,6 +1808,15 @@ package&lt;/a&gt;&lt;/li&gt;
         
         
 
+&lt;h1 id=&#34;autonomous-vehicles&#34;&gt;Autonomous Vehicles&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mrt.kit.edu/annieway/&#34; target=&#34;_blank&#34;&gt;AnnieWAY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RobotnikAutomation/rbcar_sim&#34; target=&#34;_blank&#34;&gt;RBCar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf&#34; target=&#34;_blank&#34;&gt;Autonomous Vehicle Control Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit&#34; target=&#34;_blank&#34;&gt;Moving Community - Pix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;canada&#34;&gt;Canada&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -1850,16 +1859,14 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://apollo.auto/developer.html&#34; target=&#34;_blank&#34;&gt;Apollo Open Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;autonomous-vehicles&#34;&gt;Autonomous Vehicles&lt;/h1&gt;
+&lt;h1 id=&#34;udacity-self-driving-car-nano-degree&#34;&gt;Udacity Self Driving Car Nano Degree&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mrt.kit.edu/annieway/&#34; target=&#34;_blank&#34;&gt;AnnieWAY&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/RobotnikAutomation/rbcar_sim&#34; target=&#34;_blank&#34;&gt;RBCar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf&#34; target=&#34;_blank&#34;&gt;Autonomous Vehicle Control Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit&#34; target=&#34;_blank&#34;&gt;Moving Community - Pix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ndrplz/self-driving-car&#34; target=&#34;_blank&#34;&gt;Udacity Self-Driving Car Engineer Nanodegree projects by Andrea Palazzi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/phamngoclinh96/SemanticSegmentationModel&#34; target=&#34;_blank&#34;&gt;Semantic segmentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;h1 id=&#34;open-source&#34;&gt;Open Source&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/idsc-frazzoli&#34; target=&#34;_blank&#34;&gt;idsc-frazzoli&lt;/a&gt;&lt;/li&gt;
@@ -1878,7 +1885,7 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/mohammadrezabonyadi/standarddatabases/simulated-car-racing&#34; target=&#34;_blank&#34;&gt;Ahura&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;simulators&#34;&gt;Simulators&lt;/h2&gt;
+&lt;h1 id=&#34;simulators&#34;&gt;Simulators&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://apollo.auto/&#34; target=&#34;_blank&#34;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
@@ -1887,9 +1894,10 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.rfpro.com/&#34; target=&#34;_blank&#34;&gt;rFpro&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.opal-rt.com/autonomous-vehicle/&#34; target=&#34;_blank&#34;&gt;RT-LAB Orchestra&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/&#34; target=&#34;_blank&#34;&gt;NVIDIA DRIVE CONSTELLATION&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.its.leeds.ac.uk/projects/smartest/append3d.html&#34; target=&#34;_blank&#34;&gt;Micro-Simulation Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;autoware&#34;&gt;Autoware&lt;/h3&gt;
+&lt;h2 id=&#34;autoware&#34;&gt;Autoware&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.autoware.auto/&#34; target=&#34;_blank&#34;&gt;Autoware&lt;/a&gt;&lt;/li&gt;
@@ -1914,12 +1922,6 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://selfdrivingcars.mit.edu/&#34; target=&#34;_blank&#34;&gt;Self-driving cars - MIT&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://deepdriving.cs.princeton.edu/&#34; target=&#34;_blank&#34;&gt;DeepDriving&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu&#34; target=&#34;_blank&#34;&gt;Deep Learning at Oxford 2015&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;simulation&#34;&gt;Simulation&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.its.leeds.ac.uk/projects/smartest/append3d.html&#34; target=&#34;_blank&#34;&gt;Micro-Simulation Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;formal-verification&#34;&gt;Formal verification&lt;/h1&gt;
