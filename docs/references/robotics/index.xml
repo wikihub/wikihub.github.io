@@ -392,6 +392,13 @@
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/melodic/Installation/Ubuntu&#34; target=&#34;_blank&#34;&gt;Install ROS Melodic on Ubuntu Bionic (18.04.2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;modeling&#34;&gt;Modeling&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sdformat.org/&#34; target=&#34;_blank&#34;&gt;Simulation Description Format (SDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/robotology/sdf-modelica&#34; target=&#34;_blank&#34;&gt;sdf-modelica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;training&#34;&gt;Training&lt;/h1&gt;
 
 &lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
