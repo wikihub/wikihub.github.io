@@ -1861,7 +1861,13 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://apollo.auto/developer.html&#34; target=&#34;_blank&#34;&gt;Apollo Open Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;udacity-self-driving-car-nano-degree&#34;&gt;Udacity Self Driving Car Nano Degree&lt;/h1&gt;
+&lt;h2 id=&#34;rc-car&#34;&gt;RC Car&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DJTobias/Cherry-Autonomous-Racecar&#34; target=&#34;_blank&#34;&gt;Cherry Autonomous Racecar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;udacity-self-driving-car-nano-degree&#34;&gt;Udacity Self Driving Car Nano Degree&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ndrplz/self-driving-car&#34; target=&#34;_blank&#34;&gt;Udacity Self-Driving Car Engineer Nanodegree projects by Andrea Palazzi&lt;/a&gt;&lt;/li&gt;
