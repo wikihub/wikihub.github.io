@@ -2122,6 +2122,12 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/forums/viewtopic.php?t=222264&#34; target=&#34;_blank&#34;&gt;GLFW&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&#34;intel-realsense&#34;&gt;Intel RealSense&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md&#34; target=&#34;_blank&#34;&gt;Intel® RealSense™ D400 cameras with Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;hat&#34;&gt;HAT&lt;/h2&gt;
 
 &lt;ul&gt;
