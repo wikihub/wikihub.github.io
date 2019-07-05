@@ -2481,6 +2481,7 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense&#34; target=&#34;_blank&#34;&gt;Intel RealSense SDK&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_raspbian.md&#34; target=&#34;_blank&#34;&gt;Install on raspbian&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md&#34; target=&#34;_blank&#34;&gt;Install on Raspberry Pi 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/realsense-ros/issues/812&#34; target=&#34;_blank&#34;&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install ros-kinetic-ddynamic-reconfigure&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;gps&#34;&gt;GPS&lt;/h1&gt;
