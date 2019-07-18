@@ -273,19 +273,7 @@
 &lt;li&gt;&lt;a href=&#34;https://orbbec3d.com/&#34; target=&#34;_blank&#34;&gt;Orbbec 3D&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://structure.io/&#34; target=&#34;_blank&#34;&gt;Structure.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.e-consystems.com/See3CAM-USB-3-Camera.asp#stereo-vision-camera&#34; target=&#34;_blank&#34;&gt;See3CAM (Tara)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;intel-realsense-https-www-intel-ca-content-www-ca-en-architecture-and-technology-realsense-overview-html&#34;&gt;&lt;a href=&#34;https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html&#34; target=&#34;_blank&#34;&gt;Intel RealSense&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense&#34; target=&#34;_blank&#34;&gt;Intel RealSense SDK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_raspbian.md&#34; target=&#34;_blank&#34;&gt;Install on raspbian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md&#34; target=&#34;_blank&#34;&gt;Install on Raspberry Pi 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/realsense-ros/issues/812&#34; target=&#34;_blank&#34;&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install ros-kinetic-ddynamic-reconfigure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.intelrealsense.com/developers/&#34; target=&#34;_blank&#34;&gt;Recommended configurations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/JetsonHacksNano/installLibrealsense&#34; target=&#34;_blank&#34;&gt;Install LibRealSense on Jetosn Nano&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jacobmoroni/robotic_vision/wiki/3D-Reconstruction-using-RTAB-Map-with-Intel-RealSense-D435-RGB-D-Camera&#34; target=&#34;_blank&#34;&gt;3D Reconstruction using RTAB Map with Intel RealSense D435 RGB D Camera&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html&#34; target=&#34;_blank&#34;&gt;Intel RealSense&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;gps&#34;&gt;GPS&lt;/h1&gt;
