@@ -45,10 +45,14 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://idorobotics.com/2018/11/02/integrating-the-intel-realsense-d435-with-ros/&#34; target=&#34;_blank&#34;&gt;Integrating the Intel RealSense D435 with ROS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jacobmoroni/robotic_vision/wiki/3D-Reconstruction-using-RTAB-Map-with-Intel-RealSense-D435-RGB-D-Camera&#34; target=&#34;_blank&#34;&gt;3D Reconstruction using RTAB Map with Intel RealSense D435 RGB D Camera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jacobmoroni/robotic_vision/wiki/3D-Reconstruction-using-RTAB-Map-with-Intel-RealSense-D435-RGB-D-Camera&#34; target=&#34;_blank&#34;&gt;3D Reconstruction using RTAB Map with Intel RealSense D435 RGB D Camera&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Install RealSense SDK version 2.24&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/realsense-ros/issues/812&#34; target=&#34;_blank&#34;&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install ros-melodic-ddynamic-reconfigure&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception&lt;/li&gt;
 &lt;li&gt;Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-diagnostics&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i&#34; target=&#34;_blank&#34;&gt;SLAM with RealSense D435i camera on ROS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
