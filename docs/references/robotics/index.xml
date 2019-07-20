@@ -214,6 +214,14 @@
 &lt;li&gt;&lt;a href=&#34;https://nuitrack.com/&#34; target=&#34;_blank&#34;&gt;Nuitrack&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;mapping&#34;&gt;Mapping&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/raulmur/ORB_SLAM2&#34; target=&#34;_blank&#34;&gt;ORB SLAM2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://introlab.github.io/rtabmap/&#34; target=&#34;_blank&#34;&gt;RTAB Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ethz-asl/voxblox&#34; target=&#34;_blank&#34;&gt;Voxblox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;slam&#34;&gt;SLAM&lt;/h1&gt;
 
 &lt;h2 id=&#34;visual-slam&#34;&gt;Visual SLAM&lt;/h2&gt;
