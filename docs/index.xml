@@ -662,6 +662,12 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/JetsonHacksNano/installLibrealsense&#34; target=&#34;_blank&#34;&gt;Install LibRealSense on Jetosn Nano&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md&#34; target=&#34;_blank&#34;&gt;Intel® RealSense™ D400 cameras with Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;ros&#34;&gt;ROS&lt;/h2&gt;
 
 &lt;ul&gt;
