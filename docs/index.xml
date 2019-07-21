@@ -2263,12 +2263,6 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4&#34; target=&#34;_blank&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;intel-realsense&#34;&gt;Intel RealSense&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md&#34; target=&#34;_blank&#34;&gt;Intel® RealSense™ D400 cameras with Raspberry Pi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h3 id=&#34;hat&#34;&gt;HAT&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -2292,8 +2286,7 @@ package&lt;/a&gt;&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/buy-jetson&#34; target=&#34;_blank&#34;&gt;Jetson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://devtalk.nvidia.com/default/topic/1046610/jetson-tx2/what-3d-camera-is-recommended-for-use-with-jetson-tx2-/&#34; target=&#34;_blank&#34;&gt;Depth cameras for NVIDIA Jetson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://elinux.org/Jetson/Cameras#Stereo_Cameras&#34; target=&#34;_blank&#34;&gt;Stereo cameras for Jetson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mahendrabairagi/AWS_ML_At_Edge_With_NVIDIA_Jetson_Nano&#34; target=&#34;_blank&#34;&gt;AWS ML at Edge with NVIDIA Jetson Nano&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;google&#34;&gt;Google&lt;/h2&gt;
