@@ -20,27 +20,25 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png"sizes="192x192">
 
-<title>Sensors | WIKIHUB</title><meta property="og:title" content="Sensors" />
-<meta property="og:description" content="News and information about sensors" />
+<title>Single Board Computers | WIKIHUB</title><meta property="og:title" content="Single Board Computers" />
+<meta property="og:description" content="Single board computer resources" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://wikihub.github.io/docs/references/hardware/sensors/" />
-<meta property="article:published_time" content="2019-02-22T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2019-07-18T19:11:17-04:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="og:url" content="https://wikihub.github.io/docs/references/hardware/sbc/" />
+<meta property="article:modified_time" content="2019-07-24T13:43:25-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
-<meta itemprop="name" content="Sensors">
-<meta itemprop="description" content="News and information about sensors">
+<meta itemprop="name" content="Single Board Computers">
+<meta itemprop="description" content="Single board computer resources">
 
 
-<meta itemprop="datePublished" content="2019-02-22T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2019-07-18T19:11:17-04:00" />
-<meta itemprop="wordCount" content="94">
+<meta itemprop="dateModified" content="2019-07-24T13:43:25-04:00" />
+<meta itemprop="wordCount" content="19">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Sensors"/>
-<meta name="twitter:description" content="News and information about sensors"/>
+<meta name="twitter:title" content="Single Board Computers"/>
+<meta name="twitter:description" content="Single board computer resources"/>
 
 
 
@@ -54,7 +52,7 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 
-    <title>Sensors | WIKIHUB</title>
+    <title>Single Board Computers | WIKIHUB</title>
   </head>
   <body class="td-page">
     <header>
@@ -331,7 +329,7 @@
       
       
       
-      <a class="td-sidebar-link td-sidebar-link__page " id="m-docs-references-hardware-sbc" href="/docs/references/hardware/sbc/">Single Board Computers</a>
+      <a class="td-sidebar-link td-sidebar-link__page  active" id="m-docs-references-hardware-sbc" href="/docs/references/hardware/sbc/">Single Board Computers</a>
       
       
       
@@ -349,7 +347,7 @@
       
       
       
-      <a class="td-sidebar-link td-sidebar-link__page  active" id="m-docs-references-hardware-sensors" href="/docs/references/hardware/sensors/">Sensors</a>
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-docs-references-hardware-sensors" href="/docs/references/hardware/sensors/">Sensors</a>
       
       
     </li>
@@ -628,8 +626,8 @@
 <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
 
 
-<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/Hardware/Sensors.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
-<a href="https://github.com/wikihub/wikihub-website/issues/new?title=Sensors" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
+<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/Hardware/SBC.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/wikihub/wikihub-website/issues/new?title=Single%20Board%20Computers" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
 </div>
 
 
@@ -639,16 +637,11 @@
 
 <nav id="TableOfContents">
 <ul>
-<li><a href="#cameras">Cameras</a></li>
-<li><a href="#gps">GPS</a>
-<ul>
-<li><a href="#gps-rtk">GPS RTK</a></li>
-<li><a href="#swift-navigation">Swift Navigation</a></li>
-<li><a href="#ublox">ublox</a></li>
-<li><a href="#polaris">Polaris</a></li>
-<li><a href="#correction-services">Correction services</a></li>
-</ul></li>
-<li><a href="#lidar">LiDAR</a></li>
+<li><a href="#raspberry-pi">Raspberry Pi</a></li>
+<li><a href="#nvidia-jetson">NVIDIA Jetson</a></li>
+<li><a href="#up-board">Up Board</a></li>
+<li><a href="#dfi">DFI</a></li>
+<li><a href="#lattepanda">LattePanda</a></li>
 </ul>
 </nav>
 
@@ -694,7 +687,7 @@
 
 
 <li class="breadcrumb-item active" aria-current="page">
-	<a href="https://wikihub.github.io/docs/references/hardware/sensors/">Sensors</a>
+	<a href="https://wikihub.github.io/docs/references/hardware/sbc/">Single Board Computers</a>
 </li>
 
 	</ol>
@@ -702,86 +695,42 @@
 
             
 <div class="td-content">
-	<h1>Sensors</h1>
-	<div class="lead">News and information about sensors</div>
+	<h1>Single Board Computers</h1>
+	<div class="lead">Single board computer resources</div>
 	
 
-<h1 id="cameras">Cameras</h1>
+<h1 id="raspberry-pi">Raspberry Pi</h1>
 
 <ul>
-<li><a href="https://rosindustrial.org/3d-camera-survey" target="_blank">3D cameras with ROS support</a></li>
-<li><a href="http://xtionprolive.com/asus-xtion2" target="_blank">ASUS Xtion 2</a></li>
-<li><a href="http://xtionprolive.com/primesense-carmine-1.09" target="_blank">Primesense Carmine 1.09</a></li>
-<li><a href="https://orbbec3d.com/" target="_blank">Orbbec 3D</a></li>
-<li><a href="https://structure.io/" target="_blank">Structure.io</a></li>
-<li><a href="https://www.e-consystems.com/See3CAM-USB-3-Camera.asp#stereo-vision-camera" target="_blank">See3CAM (Tara)</a></li>
-<li><a href="https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html" target="_blank">Intel RealSense</a></li>
+<li><a href="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/" target="_blank">Raspberry Pi 4B</a></li>
 </ul>
 
-<h1 id="gps">GPS</h1>
+<h1 id="nvidia-jetson">NVIDIA Jetson</h1>
 
 <ul>
-<li><a href="http://deepsouthrobotics.com/2017/04/20/spilling-the-beans-on-rtk/" target="_blank">Spilling the Beans on RTK</a></li>
-<li><a href="http://navspark.mybigcommerce.com/" target="_blank">NavSpark</a></li>
-<li><a href="http://ardupilot.org/rover/docs/common-positioning-landing-page.html" target="_blank">ArduPilot GPS</a></li>
-<li><a href="http://rtklib.com/" target="_blank">RTKLIB</a></li>
-<li><a href="https://store.emlid.com/" target="_blank">Emlid</a></li>
-<li><a href="https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763" target="_blank">Hemisphere</a></li>
+<li><a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank">Jetson Nano</a></li>
 </ul>
 
-<h2 id="gps-rtk">GPS RTK</h2>
+<h1 id="up-board">Up Board</h1>
 
 <ul>
-<li><a href="https://www.use-snip.com/" target="_blank">SNIP</a></li>
-<li><a href="https://eos-gnss.com/product/arrow-series/arrow-gold/" target="_blank">Arrow Gold</a></li>
+<li><a href="https://up-board.org/upsquared/specifications/" target="_blank">Up Squared</a></li>
 </ul>
 
-<h2 id="swift-navigation">Swift Navigation</h2>
+<h1 id="dfi">DFI</h1>
 
 <ul>
-<li><a href="https://www.swiftnav.com/store" target="_blank">SwiftNav</a></li>
-<li><a href="https://support.swiftnav.com/customer/en/portal/articles/2924342-using-ros-with-swift-navigation-gnss-devices" target="_blank">Install driver</a></li>
+<li><a href="https://www.dfi.com/" target="_blank">DFI</a></li>
 </ul>
 
-<h2 id="ublox">ublox</h2>
+<h1 id="lattepanda">LattePanda</h1>
 
 <ul>
-<li><a href="https://www.ardusimple.com/product/simplertk2b-heading-basic-starter-kit-ip67/" target="_blank">Ardusimple</a></li>
-<li><a href="https://www.u-blox.com/en/product/neo-m8p-series" target="_blank">ublox M8P</a></li>
-<li><a href="https://www.u-blox.com/en/product/c94-m8p" target="_blank">ublox M8P kit</a></li>
-<li><a href="https://www.u-blox.com/en/product/zed-f9k-module" target="_blank">ublox F9K with IMU</a></li>
-<li><a href="https://www.calvert.ch/maurice/2017/08/28/ublox-c94-m8p-rtk-gps-review-performance-evaluation/" target="_blank">ublox test</a></li>
-<li><a href="https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o" target="_blank">simpleRTK2B</a></li>
-<li><a href="http://deepsouthrobotics.com/2019/06/03/the-taming-of-the-u-blox-zed-f9p/" target="_blank">ublox F9P</a></li>
-</ul>
-
-<h2 id="polaris">Polaris</h2>
-
-<ul>
-<li><a href="https://www.polaris-gnss.com/shop" target="_blank">Polaris GNSS</a></li>
-</ul>
-
-<h2 id="correction-services">Correction services</h2>
-
-<ul>
-<li><a href="https://eos-gnss.com/can-get-gps-sub-meter-corrections-free/" target="_blank">How to Get Free GPS Sub-Meter Corrections with SBAS Satellite Systems</a></li>
-</ul>
-
-<h1 id="lidar">LiDAR</h1>
-
-<ul>
-<li><a href="https://www.robotshop.com/ca/en/slamtec-rplidar-a3-360-laser-scanner-25-m.html" target="_blank">Slamtec RPLIDAR A3 360° Laser Scanner</a></li>
-<li><a href="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/sweep-lidar-for-robots-and-drones" target="_blank">ScanSe Sweep</a></li>
-<li><a href="https://www.doigcorp.com/Product/Sensors-and-Vision/1094472.html" target="_blank">SICK 1094472</a></li>
-<li><a href="https://www.ouster.io/" target="_blank">Ouster</a></li>
-<li><a href="https://www.robotshop.com/ca/en/solid-state-tof-infrared-lidar-ce30-a.html" target="_blank">Solid-State ToF Infrared LiDAR CE30-A</a></li>
-<li><a href="http://www.neptectechnologies.com/products/opal/" target="_blank">Neptec OPAL</a></li>
-<li><a href="https://www.zmp.co.jp/en/products/rslidar" target="_blank">RoboSense</a></li>
-<li><a href="https://www.robotshop.com/ca/en/3d-16-channels-lidar-15-vfod-120m.html" target="_blank">LeiShen</a></li>
+<li><a href="https://www.dfrobot.com/product-1727.html" target="_blank">LattePanda Alpha 800s</a></li>
 </ul>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 18.07.2019: <a  href="https://github.com/wikihub/wikihub-website/commit/df4d0922c53759ea874c14bd190bec0d15b16ccb">Update Sensors.md (df4d092)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 24.07.2019: <a  href="https://github.com/wikihub/wikihub-website/commit/f27a539de073b342dc2487440bd5940e8d2f82bb">Create SBC.md (f27a539)</a>
 </div>
 </div>
 
