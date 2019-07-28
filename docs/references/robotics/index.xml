@@ -589,6 +589,12 @@
 
 &lt;h1 id=&#34;training&#34;&gt;Training&lt;/h1&gt;
 
+&lt;h2 id=&#34;recording&#34;&gt;Recording&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data&#34; target=&#34;_blank&#34;&gt;Recording and playing back data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;multiple-computers&#34;&gt;Multiple computers&lt;/h2&gt;
 
 &lt;ul&gt;
