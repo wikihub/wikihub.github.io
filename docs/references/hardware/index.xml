@@ -307,6 +307,12 @@
         
         
 
+&lt;h1 id=&#34;odometry&#34;&gt;Odometry&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@waleedmansoor/how-i-built-ros-odometry-for-differential-drive-vehicle-without-encoder-c9f73fe63d87&#34; target=&#34;_blank&#34;&gt;Odometry for differential drive vehicle without encoders&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;cameras&#34;&gt;Cameras&lt;/h1&gt;
 
 &lt;ul&gt;
