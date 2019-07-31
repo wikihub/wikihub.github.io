@@ -225,23 +225,7 @@
     </item>
     
     <item>
-      <title>Docs: Makers</title>
-      <link>https://wikihub.github.io/docs/references/hardware/makers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/hardware/makers/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://makezilla.com&#34; target=&#34;_blank&#34;&gt;MakeZilla&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Single Board Computers</title>
+      <title>Docs: Embedded Systems</title>
       <link>https://wikihub.github.io/docs/references/hardware/sbc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -250,6 +234,12 @@
         
         
         
+
+&lt;h1 id=&#34;embedded-systems&#34;&gt;Embedded Systems&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start&#34; target=&#34;_blank&#34;&gt;ChibiOS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h1&gt;
 
@@ -285,6 +275,22 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.digital-loggers.com/plchw.html&#34; target=&#34;_blank&#34;&gt;Open source PLC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Makers</title>
+      <link>https://wikihub.github.io/docs/references/hardware/makers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/makers/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://makezilla.com&#34; target=&#34;_blank&#34;&gt;MakeZilla&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
