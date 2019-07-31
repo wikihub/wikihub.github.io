@@ -151,46 +151,13 @@
 &lt;li&gt;&lt;a href=&#34;http://www.libelium.com&#34; target=&#34;_blank&#34;&gt;Libelium&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;single-board-computers&#34;&gt;Single Board Computers&lt;/h1&gt;
+&lt;h1 id=&#34;iot-courses&#34;&gt;IoT Courses&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mickmake.com/post/weekly-roundup-64-new-maker-products&#34; target=&#34;_blank&#34;&gt;New SBC computers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://iot-open.eu/&#34; target=&#34;_blank&#34;&gt;IoT Open Eu&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/forums/viewtopic.php?t=222264&#34; target=&#34;_blank&#34;&gt;GLFW&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4&#34; target=&#34;_blank&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;hat&#34;&gt;HAT&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pinout.xyz/&#34; target=&#34;_blank&#34;&gt;Pinout&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;tft-display&#34;&gt;TFT Display&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/notro/fbtft/blob/master/fbtft_device.c&#34; target=&#34;_blank&#34;&gt;Touchscreen Supported on Raspberry Pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.watterott.com/rpi-display/fbtft-install/&#34; target=&#34;_blank&#34;&gt;RFI display&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;up-board&#34;&gt;Up Board&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://up-board.org/&#34; target=&#34;_blank&#34;&gt;Up Board&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;nvidia&#34;&gt;NVIDIA&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/buy-jetson&#34; target=&#34;_blank&#34;&gt;Jetson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mahendrabairagi/AWS_ML_At_Edge_With_NVIDIA_Jetson_Nano&#34; target=&#34;_blank&#34;&gt;AWS ML at Edge with NVIDIA Jetson Nano&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;google&#34;&gt;Google&lt;/h2&gt;
+&lt;h1 id=&#34;google&#34;&gt;Google&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://coral.withgoogle.com/&#34; target=&#34;_blank&#34;&gt;Edge TPU&lt;/a&gt;&lt;/li&gt;
