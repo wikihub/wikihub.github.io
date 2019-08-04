@@ -282,6 +282,12 @@
 &lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/embedded/jetson-nano-developer-kit&#34; target=&#34;_blank&#34;&gt;Jetson Nano&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&#34;network-adaptor&#34;&gt;Network adaptor&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2BU_WiFi_linux_v5.3.1_27678.20180430_COEX20180427-5959&#34; target=&#34;_blank&#34;&gt;Realtek RTL8812BU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;up-board-1&#34;&gt;Up Board&lt;/h2&gt;
 
 &lt;ul&gt;
