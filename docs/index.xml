@@ -777,6 +777,12 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i&#34; target=&#34;_blank&#34;&gt;SLAM with RealSense D435i camera on ROS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&#34;gazebo&#34;&gt;Gazebo&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/intel/gazebo-realsense&#34; target=&#34;_blank&#34;&gt;Gazebo RealSense plugin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
