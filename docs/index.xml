@@ -1588,16 +1588,10 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/&#34; target=&#34;_blank&#34;&gt;Clearpath Robotics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.aionrobotics.com/&#34; target=&#34;_blank&#34;&gt;Aion Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://linorobot.org&#34; target=&#34;_blank&#34;&gt;Linorobot&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/linorobot&#34; target=&#34;_blank&#34;&gt;Linorobot Google Group&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.servosila.com/en/&#34; target=&#34;_blank&#34;&gt;Servosila&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.sampson-jeff.com/eep/&#34; target=&#34;_blank&#34;&gt;Earth Explorer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.nicltd.co.uk/zeus-ultimate-modular-unmanned-ground-vehicle/zeus-ugv-modularity/&#34; target=&#34;_blank&#34;&gt;ZEUS Robot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/&#34; target=&#34;_blank&#34;&gt;RMP 210&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.ubiquityrobotics.com/&#34; target=&#34;_blank&#34;&gt;Magni&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://roverrobotics.com/&#34; target=&#34;_blank&#34;&gt;Rover Robotics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://locobot-website.netlify.com/&#34; target=&#34;_blank&#34;&gt;LoCoBot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.k-team.com/&#34; target=&#34;_blank&#34;&gt;K-Team&lt;/a&gt;&lt;/li&gt;
@@ -1612,6 +1606,20 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://so.engineering/&#34; target=&#34;_blank&#34;&gt;SOE Bobble Bot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;linorobot-http-linorobot-org&#34;&gt;&lt;a href=&#34;http://linorobot.org&#34; target=&#34;_blank&#34;&gt;Linorobot&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/linorobot&#34; target=&#34;_blank&#34;&gt;Linorobot Google Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;magni-https-store-ubiquityrobotics-com&#34;&gt;&lt;a href=&#34;https://store.ubiquityrobotics.com/&#34; target=&#34;_blank&#34;&gt;Magni&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/ubiquity_motor&#34; target=&#34;_blank&#34;&gt;Ubiquity motor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97&#34; target=&#34;_blank&#34;&gt;Tune motor responsiveness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/magni_robot&#34; target=&#34;_blank&#34;&gt;Magni robot&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;rc-car&#34;&gt;RC Car&lt;/h2&gt;
