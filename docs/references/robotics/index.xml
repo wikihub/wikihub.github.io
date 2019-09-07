@@ -566,20 +566,26 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/mantraes/ROS-Launch-Files&#34; target=&#34;_blank&#34;&gt;ROS launch files by Mantraes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;facebook&#34;&gt;Facebook&lt;/h1&gt;
+&lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hbrobotics.org/&#34; target=&#34;_blank&#34;&gt;HomeBrew Robotics Club&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;facebook&#34;&gt;Facebook&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/facebookresearch/pyrobot&#34; target=&#34;_blank&#34;&gt;PyRobot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aihabitat.org/&#34; target=&#34;_blank&#34;&gt;AI Habitat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h1&gt;
+&lt;h2 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/AI-Robot-Challenge-Lab&#34; target=&#34;_blank&#34;&gt;AI Robot Challenge Lab&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;amazon&#34;&gt;Amazon&lt;/h1&gt;
+&lt;h2 id=&#34;amazon&#34;&gt;Amazon&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/robomaker/&#34; target=&#34;_blank&#34;&gt;RoboMaker&lt;/a&gt;&lt;/li&gt;
@@ -612,6 +618,7 @@
 &lt;h1 id=&#34;install&#34;&gt;Install&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jetdillo/laniakea&#34; target=&#34;_blank&#34;&gt;Laniakea AKA &amp;ldquo;Turtle Beach&amp;rdquo;: automated way to install ROS and ROS-related packages for Linux-based robots&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/linorobot/rosme&#34; target=&#34;_blank&#34;&gt;ROS installer script by Linorobot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/melodic/Installation/Ubuntu&#34; target=&#34;_blank&#34;&gt;Install ROS Melodic on Ubuntu Bionic (18.04.2)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://answers.ros.org/question/325039/apt-update-fails-cannot-install-pkgs-key-not-working/&#34; target=&#34;_blank&#34;&gt;Update the public key&lt;/a&gt;&lt;/li&gt;
