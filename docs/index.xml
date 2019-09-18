@@ -354,7 +354,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.electric-skateboard.builders/t/vesc-boot-loader-installation-tutorial/32103&#34; target=&#34;_blank&#34;&gt;VESC boot loader installation tutorial&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://odriverobotics.com/&#34; target=&#34;_blank&#34;&gt;ODrive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odriverobotics.com/&#34; target=&#34;_blank&#34;&gt;ODrive&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/madcowswe/ODrive/blob/master/docs/hoverboard.md&#34; target=&#34;_blank&#34;&gt;Hoverboard motor and remote control setup guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;hub-motors&#34;&gt;Hub motors&lt;/h1&gt;
