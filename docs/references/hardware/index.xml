@@ -91,7 +91,18 @@
 &lt;li&gt;&lt;a href=&#34;https://www.adafruit.com/product/4177&#34; target=&#34;_blank&#34;&gt;M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill&#34; target=&#34;_blank&#34;&gt;STM32F103C8T6 - Blue Pill&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://stm32-base.org/boards/&#34; target=&#34;_blank&#34;&gt;STM32 base boards&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html&#34; target=&#34;_blank&#34;&gt;B-L475E-IOT01A Discovery kit for IoT node&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;b-l475e-iot01a-discovery-kit-for-iot-node-https-www-st-com-en-evaluation-tools-b-l475e-iot01a-html&#34;&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html&#34; target=&#34;_blank&#34;&gt;B-L475E-IOT01A Discovery kit for IoT node&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html&#34; target=&#34;_blank&#34;&gt;PlatformIO: ST DISCO-L475VG-IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://platformio.org/&#34; target=&#34;_blank&#34;&gt;Platform IO&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;single-board-computers&#34;&gt;Single Board Computers&lt;/h1&gt;
