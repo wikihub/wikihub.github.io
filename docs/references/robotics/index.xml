@@ -707,6 +707,14 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-controls/ros_control&#34; target=&#34;_blank&#34;&gt;ros_control&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;odrive&#34;&gt;Odrive&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/neomanic/odrive_ros&#34; target=&#34;_blank&#34;&gt;Odrive ROS - Neomanic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/naktamello/odrive_ros_control&#34; target=&#34;_blank&#34;&gt;Odrive ROS - Naktamello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BenBurgessLimerick/odrive_cpp_ros&#34; target=&#34;_blank&#34;&gt;Odrive ROS - BenBurgessLimerick&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;ros2&#34;&gt;ROS2&lt;/h1&gt;
 
 &lt;ul&gt;
