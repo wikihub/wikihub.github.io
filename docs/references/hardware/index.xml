@@ -223,7 +223,7 @@
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/&#34; target=&#34;_blank&#34;&gt;How to connect PC to PC using a LAN cable&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Run sudo apt install avahi-daemon libnss-mdns in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;sudo apt install avahi-daemon libnss-mdns&lt;/code&gt; in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
