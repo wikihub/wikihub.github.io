@@ -2660,7 +2660,12 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://gm.web.cmu.edu/research/index.php&#34; target=&#34;_blank&#34;&gt;GM-CMU&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www6.in.tum.de/Main/SoftwareOnlineVehicleVerification&#34; target=&#34;_blank&#34;&gt;Software for online vehicle verification&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://repository.upenn.edu/cgi/viewcontent.cgi?article=1098&amp;amp;context=mlab_papers&#34; target=&#34;_blank&#34;&gt;APEX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/CPFL/Autoware&#34; target=&#34;_blank&#34;&gt;Autoware&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.barc-project.com/&#34; target=&#34;_blank&#34;&gt;BARC - Berkeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://automatedcars.space/&#34; target=&#34;_blank&#34;&gt;Automated Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://apollo.auto/developer.html&#34; target=&#34;_blank&#34;&gt;Apollo Open Platform&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;autoware-https-github-com-cpfl-autoware&#34;&gt;&lt;a href=&#34;https://github.com/CPFL/Autoware&#34; target=&#34;_blank&#34;&gt;Autoware&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit/Autoware_tutorial&#34; target=&#34;_blank&#34;&gt;Autoware Tutorial&lt;/a&gt;&lt;/li&gt;
@@ -2668,10 +2673,12 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://streetdrone.com/&#34; target=&#34;_blank&#34;&gt;Streetdrone&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://autoware.readthedocs.io/en/feature-documentation_rtd/UsersGuide/Videos.html&#34; target=&#34;_blank&#34;&gt;Autoware feature documentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/tier4/autoware_web_runtime_manager&#34; target=&#34;_blank&#34;&gt;Autoware web runtime manager&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.barc-project.com/&#34; target=&#34;_blank&#34;&gt;BARC - Berkeley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://automatedcars.space/&#34; target=&#34;_blank&#34;&gt;Automated Driving&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://apollo.auto/developer.html&#34; target=&#34;_blank&#34;&gt;Apollo Open Platform&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;people&#34;&gt;People&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/amintahmasbi&#34; target=&#34;_blank&#34;&gt;Amin Tahmasbi&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;rc-car&#34;&gt;RC Car&lt;/h2&gt;
@@ -2731,7 +2738,7 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/pixmoving&#34; target=&#34;_blank&#34;&gt;PIX Moving&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
+&lt;h1 id=&#34;people-1&#34;&gt;People&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Hxoke1lDJ9w&#34; target=&#34;_blank&#34;&gt;George Hotz on Comma.AI and the state of self-driving cars&lt;/a&gt;&lt;/li&gt;
