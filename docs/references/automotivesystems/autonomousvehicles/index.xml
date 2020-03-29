@@ -265,9 +265,17 @@
       <description>
         
         
-        &lt;ul&gt;
+        
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.tri.global/research/#Automated%20Driving&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;CARLA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;carla-http-carla-org&#34;&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;CARLA&lt;/a&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/carla-simulator/ros-bridge&#34; target=&#34;_blank&#34;&gt;Carla ROS-Bridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/carla-simulator/carla-autoware&#34; target=&#34;_blank&#34;&gt;Carla Autoware&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
