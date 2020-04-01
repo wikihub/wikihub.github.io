@@ -1958,7 +1958,8 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start&#34; target=&#34;_blank&#34;&gt;Gazebo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide&#34; target=&#34;_blank&#34;&gt;LGSVL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/Autoware&#34; target=&#34;_blank&#34;&gt;LGSVL GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide&#34; target=&#34;_blank&#34;&gt;LGSVL Start Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;autoware-auto-ros-2&#34;&gt;Autoware.auto (ROS 2)&lt;/h1&gt;
@@ -1970,7 +1971,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h1 id=&#34;simulation-1&#34;&gt;Simulation&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/Autoware&#34; target=&#34;_blank&#34;&gt;LGSVL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;Carla&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
