@@ -48,6 +48,11 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/urdf&#34; target=&#34;_blank&#34;&gt;Unified Robot Description Format (URDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/urdf&#34; target=&#34;_blank&#34;&gt;URDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sdformat.org/&#34; target=&#34;_blank&#34;&gt;Simulation Description Format (SDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/robotology/sdf-modelica&#34; target=&#34;_blank&#34;&gt;sdf-modelica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/xacro&#34; target=&#34;_blank&#34;&gt;Xacro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AdoHaha/modelrobot&#34; target=&#34;_blank&#34;&gt;Robot Model (URDF editor)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;recording&#34;&gt;Recording&lt;/h1&gt;
