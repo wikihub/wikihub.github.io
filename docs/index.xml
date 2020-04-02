@@ -2530,6 +2530,26 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Embedded ROS</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/embedded/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/embedded/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/husarion/rosbot-firmware-new&#34; target=&#34;_blank&#34;&gt;ROSbot 2.0 for STM32F4 microcontroller&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Emacs</title>
       <link>https://wikihub.github.io/docs/references/software/wordprocessing/emacs/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
@@ -3418,19 +3438,6 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.sofa-framework.org/applications/gallery/sofa-as-unity3d-physics-engine/&#34; target=&#34;_blank&#34;&gt;SOFA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: ROS</title>
-      <link>https://wikihub.github.io/docs/getting-started/ros/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/getting-started/ros/</guid>
-      <description>
-        
-        
-        
       </description>
     </item>
     

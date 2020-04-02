@@ -21,6 +21,26 @@
     
     
     <item>
+      <title>Docs: Embedded ROS</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/embedded/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/embedded/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/husarion/rosbot-firmware-new&#34; target=&#34;_blank&#34;&gt;ROSbot 2.0 for STM32F4 microcontroller&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Learning ROS</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/learningros/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
