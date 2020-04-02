@@ -3039,6 +3039,77 @@ package&lt;/a&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Learning</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/learningros/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/learningros/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;start&#34;&gt;Start&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/ROS/Tutorials&#34; target=&#34;_blank&#34;&gt;ROS Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros/cheatsheet/releases/download/0.0.1/ROScheatsheet_catkin.pdf&#34; target=&#34;_blank&#34;&gt;ROS cheat sheet (catkin)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clearpathrobotics.com/ros-robot-operating-system-cheat-sheet/&#34; target=&#34;_blank&#34;&gt;ROS cheat sheets by Clearpath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/ROS/Concepts&#34; target=&#34;_blank&#34;&gt;ROS concepts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/catkin/Tutorials/create_a_workspace&#34; target=&#34;_blank&#34;&gt;ROS workspaces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics&#34; target=&#34;_blank&#34;&gt;Understanding Topics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/Client%20Libraries&#34; target=&#34;_blank&#34;&gt;Programming languages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/ROS/CommandLineTools&#34; target=&#34;_blank&#34;&gt;ROS command-line interface&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;robot-description&#34;&gt;Robot description&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/urdf&#34; target=&#34;_blank&#34;&gt;Unified Robot Description Format (URDF)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;recording&#34;&gt;Recording&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data&#34; target=&#34;_blank&#34;&gt;Recording and playing back data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/rosbag/Cookbook&#34; target=&#34;_blank&#34;&gt;ROSbag cookbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/masasin/pyrosbag&#34; target=&#34;_blank&#34;&gt;ROS Bag Python Controller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.programcreek.com/python/example/89952/rosbag.Bag&#34; target=&#34;_blank&#34;&gt;rosbag examples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;multiple-computers&#34;&gt;Multiple computers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://users.umiacs.umd.edu/~cteo/umd-erratic-ros-data/README-rvis-remote&#34; target=&#34;_blank&#34;&gt;Run rviz remotely&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros/meta-ros/issues/134&#34; target=&#34;_blank&#34;&gt;Topic content issue on remote computers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.erlerobotics.com/simulation/intro&#34; target=&#34;_blank&#34;&gt;ROS/Gazebo simulator as the external simulator for ArduCopter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ehtUb55Rmmg&amp;amp;list=PLk51HrKSBQ8-jTgD0qgRp1vmQeVSJ5SQC&amp;amp;index=1&#34; target=&#34;_blank&#34;&gt;ROS kinetic tutorial by Shawn Chen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf&#34; target=&#34;_blank&#34;&gt;ROS Online Course by ROBOTIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://online-learning.tudelft.nl/courses/hello-real-world-with-ros-robot-operating-systems/&#34; target=&#34;_blank&#34;&gt;Hello Real World with ROS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://campusrover.org.s3-website-us-west-2.amazonaws.com/&#34; target=&#34;_blank&#34;&gt;Cosi119a - Autonomous Robotics Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;books&#34;&gt;Books&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://subscription.packtpub.com/book/hardware_and_creative/9781788478953&#34; target=&#34;_blank&#34;&gt;Mastering ROS for Robotics Programming - Second Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.riotu-lab.org/rosbook/&#34; target=&#34;_blank&#34;&gt;Springer book on Robot Operating System (ROS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: ROS</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -3661,19 +3732,6 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.sofa-framework.org/applications/gallery/sofa-as-unity3d-physics-engine/&#34; target=&#34;_blank&#34;&gt;SOFA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: ROS</title>
-      <link>https://wikihub.github.io/docs/getting-started/ros/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/getting-started/ros/</guid>
-      <description>
-        
-        
-        
       </description>
     </item>
     
