@@ -742,6 +742,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/ROS/Tutorials&#34; target=&#34;_blank&#34;&gt;ROS Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/catkin/Tutorials/create_a_workspace&#34; target=&#34;_blank&#34;&gt;ROS workspaces&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics&#34; target=&#34;_blank&#34;&gt;Understanding Topics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
