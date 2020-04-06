@@ -2025,8 +2025,14 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start&#34; target=&#34;_blank&#34;&gt;Gazebo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/Autoware&#34; target=&#34;_blank&#34;&gt;LGSVL GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide&#34; target=&#34;_blank&#34;&gt;LGSVL Start Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/simulation/-/tree/master/carla_simulator_bridge&#34; target=&#34;_blank&#34;&gt;Carla simulation bridge&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide&#34; target=&#34;_blank&#34;&gt;LGSVL Start Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;carla-and-autoware&#34;&gt;Carla and Autoware&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/carla-simulator/carla-autoware&#34; target=&#34;_blank&#34;&gt;Carla Autoware&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/simulation/-/tree/master/carla_simulator_bridge&#34; target=&#34;_blank&#34;&gt;Carla simulation bridge&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;autoware-auto-ros-2&#34;&gt;Autoware.auto (ROS 2)&lt;/h1&gt;
