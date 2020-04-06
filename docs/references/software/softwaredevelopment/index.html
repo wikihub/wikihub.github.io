@@ -25,15 +25,15 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://wikihub.github.io/docs/references/software/softwaredevelopment/" />
 <meta property="article:published_time" content="2019-02-22T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2020-03-24T08:06:45-04:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="article:modified_time" content="2020-04-06T17:49:22-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
 <meta itemprop="name" content="Software Development">
 <meta itemprop="description" content="News and information about software development and necessary tools">
 
 
 <meta itemprop="datePublished" content="2019-02-22T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2020-03-24T08:06:45-04:00" />
-<meta itemprop="wordCount" content="118">
+<meta itemprop="dateModified" content="2020-04-06T17:49:22-04:00" />
+<meta itemprop="wordCount" content="200">
 
 
 
@@ -885,6 +885,11 @@
 <li><a href="#whiteboards">Whiteboards</a></li>
 </ul></li>
 <li><a href="#continuous-integration">Continuous Integration</a></li>
+<li><a href="#containers">Containers</a>
+<ul>
+<li><a href="#docker">Docker</a></li>
+<li><a href="#registries">Registries</a></li>
+</ul></li>
 <li><a href="#version-control-system">Version Control System</a>
 <ul>
 <li><a href="#git">git</a></li>
@@ -980,6 +985,35 @@
 </ul></li>
 </ul>
 
+<h1 id="containers">Containers</h1>
+
+<h2 id="docker">Docker</h2>
+
+<ul>
+<li><a href="https://docs.docker.com/develop/" target="_blank">Develop with Docker</a></li>
+<li><a href="https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/" target="_blank">How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04</a></li>
+<li>Docker permission denied fix: <code>sudo chmod 666 /var/run/docker.sock</code></li>
+<li><a href="http://odewahn.github.io/docker-jumpstart/" target="_blank">An Introduction to Docker</a></li>
+<li><a href="http://shanavasv.com/running-linux-apps-in-macos-using-docker/" target="_blank">Running Linux apps in MacOS using docker</a></li>
+<li><a href="https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb" target="_blank">How to show X11 windows with Docker on Mac</a></li>
+<li><a href="http://nelkinda.com/blog/xeyes-in-docker/" target="_blank">Running xeyes in Docker</a></li>
+<li>Remove all the images without a tag: docker rmi $(docker images -f dangling=true -q)</li>
+<li>Remove all the containers: docker rm $(docker ps -a -q)</li>
+</ul>
+
+<h2 id="registries">Registries</h2>
+
+<ul>
+<li><a href="https://www.portainer.io/" target="_blank">Portainer</a></li>
+<li><a href="https://www.instana.com/" target="_blank">Instana</a></li>
+<li><a href="https://katacontainers.io/" target="_blank">Kata containers</a></li>
+<li><a href="https://firecracker-microvm.github.io/" target="_blank">Firecracker</a></li>
+<li><a href="https://www.balena.io/" target="_blank">Balena</a></li>
+<li><a href="https://docs.eliot.run/" target="_blank">Eliot</a></li>
+<li><a href="https://pouchcontainer.io/" target="_blank">Pouch container</a></li>
+<li><a href="https://containerd.io/" target="_blank">Containerd</a></li>
+</ul>
+
 <h1 id="version-control-system">Version Control System</h1>
 
 <h2 id="git">git</h2>
@@ -1036,7 +1070,7 @@
 </ul>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 24.03.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/b57507fd03416ae5c77635c7fadea8edb520d0d0">Update SoftwareDevelopment.md (b57507fd)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 06.04.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/856ac2756bda86f1c3bbf646dffd5347dfa85aba">Update SoftwareDevelopment.md (856ac275)</a>
 </div>
 </div>
 
