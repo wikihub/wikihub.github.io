@@ -2651,6 +2651,37 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Cloud Robotics</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/cloudrobotics/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/cloudrobotics/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;cloud-robotics&#34;&gt;Cloud Robotics&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://robotwebtools.org/&#34; target=&#34;_blank&#34;&gt;Robot Web Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cruise-automation/webviz&#34; target=&#34;_blank&#34;&gt;Webviz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jstnhuang/ros-rviz&#34; target=&#34;_blank&#34;&gt;ros-rviz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;aws-robomaker&#34;&gt;AWS RoboMaker&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/robomaker/latest/dg/what-is-robomaker.html&#34; target=&#34;_blank&#34;&gt;RoboMaker Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techrepublic.com/article/aws-robomaker-a-cheat-sheet/&#34; target=&#34;_blank&#34;&gt;RoboMaker Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer&#34; target=&#34;_blank&#34;&gt;Deep Racer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/colcon/colcon-bundle/blob/master/BUNDLE_FORMAT.md&#34; target=&#34;_blank&#34;&gt;Colcon Bundle Format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Embedded ROS</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/embedded/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
@@ -3249,164 +3280,6 @@ package&lt;/a&gt;&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://roboticsbackend.com/&#34; target=&#34;_blank&#34;&gt;The Robotics Back-End&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Rapid Prototyping</title>
-      <link>https://wikihub.github.io/docs/references/hardware/cad/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/hardware/cad/</guid>
-      <description>
-        
-        
-        
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ngen.ca/&#34; target=&#34;_blank&#34;&gt;NGen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;cad&#34;&gt;CAD&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.autodesk.ca/en/products/fusion-360/features&#34; target=&#34;_blank&#34;&gt;Fusion 360&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.onshape.com&#34; target=&#34;_blank&#34;&gt;Onshape&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://freecadweb.org&#34; target=&#34;_blank&#34;&gt;FreeCAD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openscad.org/&#34; target=&#34;_blank&#34;&gt;OpenSCAD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tinkercad.com/&#34; target=&#34;_blank&#34;&gt;Tinkercad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blender.org&#34; target=&#34;_blank&#34;&gt;Blender&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/&#34; target=&#34;_blank&#34;&gt;Best 3D software&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;products&#34;&gt;Products&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.engineersrule.com/cad-gives-icon-wheelchairs-power/&#34; target=&#34;_blank&#34;&gt;Icon Explore&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ingeniumcanada.org/channel/articles/christian-bagg-and-icon-explore&#34; target=&#34;_blank&#34;&gt;Christian Bagg and Icon Explore&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;laser-cutting&#34;&gt;Laser Cutting&lt;/h1&gt;
-
-&lt;h2 id=&#34;acrylic&#34;&gt;Acrylic&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.plasticworld.ca/&#34; target=&#34;_blank&#34;&gt;Plastic World&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;3d-scanning&#34;&gt;3D Scanning&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://3dscanexpert.com/&#34; target=&#34;_blank&#34;&gt;3D Scan Expert&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;3d-printing&#34;&gt;3D Printing&lt;/h1&gt;
-
-&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.3dhubs.com/manufacture/&#34; target=&#34;_blank&#34;&gt;3D hub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;material&#34;&gt;Material&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://colorfabb.com/&#34; target=&#34;_blank&#34;&gt;Color Fabb&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;model-gallery&#34;&gt;Model Gallery&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.myminifactory.com/&#34; target=&#34;_blank&#34;&gt;My Minifactory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/&#34; target=&#34;_blank&#34;&gt;Thingiverse&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;printers&#34;&gt;Printers&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html&#34; target=&#34;_blank&#34;&gt;Prusa i3 MK3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/snapmaker/snapmaker-20-modular-3-in-1-3d-printers&#34; target=&#34;_blank&#34;&gt;Snapmaker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;british-columbia&#34;&gt;British Columbia&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.novamachineworks.com/&#34; target=&#34;_blank&#34;&gt;Nova Machine Works&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ontario&#34;&gt;Ontario&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://proto3000.com/&#34; target=&#34;_blank&#34;&gt;Proto3000&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://makerwiz.com/&#34; target=&#34;_blank&#34;&gt;Makerwiz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shop3d.ca/&#34; target=&#34;_blank&#34;&gt;Shop3D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://3dphacktory.com/&#34; target=&#34;_blank&#34;&gt;3D Phacktory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/&#34; target=&#34;_blank&#34;&gt;Top 3D printing services in Toronto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/&#34; target=&#34;_blank&#34;&gt;3D Printers Toronto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.3dhubs.com/3d-printing/location/toronto-canada/&#34; target=&#34;_blank&#34;&gt;3D Hub Toronto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uoftmedprint.com/&#34; target=&#34;_blank&#34;&gt;U of T MedPrint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://canadamakes.ca/&#34; target=&#34;_blank&#34;&gt;Canada Makes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tph.ca/3d-printing&#34; target=&#34;_blank&#34;&gt;The Printing House&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hotpopfactory.com/&#34; target=&#34;_blank&#34;&gt;Hot Pop Factory&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;quebec&#34;&gt;Quebec&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.axisproto.com/&#34; target=&#34;_blank&#34;&gt;AXIS Prototypes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.genistar.com/&#34; target=&#34;_blank&#34;&gt;Genistar&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://deed3d.com/&#34; target=&#34;_blank&#34;&gt;Deed3D&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;usa&#34;&gt;USA&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.protolabs.com/&#34; target=&#34;_blank&#34;&gt;Protolabs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.3dsystems.com/&#34; target=&#34;_blank&#34;&gt;3D Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://robo3d.com/&#34; target=&#34;_blank&#34;&gt;Robo 3D&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;europe&#34;&gt;Europe&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.prodways.com/en/&#34; target=&#34;_blank&#34;&gt;Prodways&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.materialise.com/en&#34; target=&#34;_blank&#34;&gt;Materlise&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;custom-manufacturing&#34;&gt;Custom Manufacturing&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.mfg.com&#34; target=&#34;_blank&#34;&gt;MFG&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ontario-1&#34;&gt;Ontario&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.odg.com&#34; target=&#34;_blank&#34;&gt;Ontario Drive and Gear&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cmts.ca/&#34; target=&#34;_blank&#34;&gt;Canadian Manufacturing Technology Show&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;usa-1&#34;&gt;USA&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://exomotive.com/&#34; target=&#34;_blank&#34;&gt;Exomotive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;aluminum-extrusions&#34;&gt;Aluminum Extrusions&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.makerbeam.com/&#34; target=&#34;_blank&#34;&gt;MakerBeam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://openbuildspartstore.com/?setCurrencyId=6&#34; target=&#34;_blank&#34;&gt;OpenBuilds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

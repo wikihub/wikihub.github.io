@@ -21,6 +21,37 @@
     
     
     <item>
+      <title>Docs: Cloud Robotics</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/cloudrobotics/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/cloudrobotics/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;cloud-robotics&#34;&gt;Cloud Robotics&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://robotwebtools.org/&#34; target=&#34;_blank&#34;&gt;Robot Web Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cruise-automation/webviz&#34; target=&#34;_blank&#34;&gt;Webviz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jstnhuang/ros-rviz&#34; target=&#34;_blank&#34;&gt;ros-rviz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;aws-robomaker&#34;&gt;AWS RoboMaker&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/robomaker/latest/dg/what-is-robomaker.html&#34; target=&#34;_blank&#34;&gt;RoboMaker Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techrepublic.com/article/aws-robomaker-a-cheat-sheet/&#34; target=&#34;_blank&#34;&gt;RoboMaker Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer&#34; target=&#34;_blank&#34;&gt;Deep Racer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/colcon/colcon-bundle/blob/master/BUNDLE_FORMAT.md&#34; target=&#34;_blank&#34;&gt;Colcon Bundle Format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Embedded ROS</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/embedded/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
