@@ -906,11 +906,6 @@
 </ul></li>
 <li><a href="#car-like-robots">Car like robots</a></li>
 <li><a href="#ros-tools">ROS Tools</a></li>
-<li><a href="#cloud-robotics">Cloud Robotics</a></li>
-<li><a href="#aws-robomaker">AWS RoboMaker</a>
-<ul>
-<li><a href="#build-and-bundle-ros1-projects-locally-using-colcon">Build and bundle ROS1 projects locally using colcon</a></li>
-</ul></li>
 <li><a href="#docker">Docker</a></li>
 <li><a href="#sylabs">Sylabs</a></li>
 </ul>
@@ -1125,70 +1120,6 @@
 <li><a href="http://wiki.ros.org/dynamic_reconfigure" target="_blank">Dynamic Reconfigure</a></li>
 </ul>
 
-<h1 id="cloud-robotics">Cloud Robotics</h1>
-
-<ul>
-<li><a href="http://robotwebtools.org/" target="_blank">Robot Web Tools</a></li>
-<li><a href="https://github.com/cruise-automation/webviz" target="_blank">Webviz</a></li>
-</ul>
-
-<h1 id="aws-robomaker">AWS RoboMaker</h1>
-
-<ul>
-<li><a href="https://docs.aws.amazon.com/robomaker/latest/dg/what-is-robomaker.html" target="_blank">RoboMaker Documentation</a></li>
-<li><a href="https://www.techrepublic.com/article/aws-robomaker-a-cheat-sheet/" target="_blank">RoboMaker Cheat Sheet</a></li>
-<li><a href="https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer" target="_blank">Deep Racer</a></li>
-<li><a href="https://github.com/colcon/colcon-bundle/blob/master/BUNDLE_FORMAT.md" target="_blank">Colcon Bundle Format</a></li>
-</ul>
-
-<h2 id="build-and-bundle-ros1-projects-locally-using-colcon">Build and bundle ROS1 projects locally using colcon</h2>
-
-<p>In this example, we will build and bundle the hello world simulation workspace from AWS RoboMaker:</p>
-
-<ul>
-<li>Clone the repository in your local machine:</li>
-</ul>
-
-<p><code>git clone https://github.com/aws-robotics/aws-robomaker-sample-application-helloworld.git</code></p>
-
-<ul>
-<li>Run ros-kinetic-colcon docker image:</li>
-</ul>
-
-<p><code>docker run -it -v $(pwd):/workspace nubonetics/ros-kinetic-colcon /bin/bash</code></p>
-
-<ul>
-<li>In the docker image, go to the workspace folder:</li>
-</ul>
-
-<p><code>cd aws-robomaker-sample-application-helloworld/simulation_w</code></p>
-
-<ul>
-<li>Run the following commands to update and install dependencies:</li>
-</ul>
-
-<p><code>apt-get update</code></p>
-
-<p><code>rosdep update</code></p>
-
-<p><code>rosws update</code></p>
-
-<p><code>rosdep install --from-paths src --ignore-src -r -y</code></p>
-
-<ul>
-<li>Build the workspace:</li>
-</ul>
-
-<p><code>colcon build</code></p>
-
-<ul>
-<li>Bundle the workspace:</li>
-</ul>
-
-<p><code>source install/local_setup.sh</code></p>
-
-<p><code>colcon bundle --bundle-version 1</code></p>
-
 <h1 id="docker">Docker</h1>
 
 <ul>
@@ -1206,7 +1137,7 @@
 </ul>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.04.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/d5d8118e6ff5243ac1aefe1ebf370e7baeed2c5a">Update _index.md (d5d8118e)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 08.04.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/93d089556df96377e6b753a075b42fe1d4f06af7">Update _index.md (93d08955)</a>
 </div>
 </div>
 
