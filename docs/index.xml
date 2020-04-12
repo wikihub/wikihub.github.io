@@ -1652,6 +1652,11 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/mserranom/bbrun&#34; target=&#34;_blank&#34;&gt;Test your Bitbucket pipeline locally&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Gitlab pipelines
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/ci/variables/predefined_variables.html&#34; target=&#34;_blank&#34;&gt;Predefined variables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
