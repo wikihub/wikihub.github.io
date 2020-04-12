@@ -592,7 +592,7 @@
 &lt;li&gt;&lt;a href=&#34;https://ade-cli.readthedocs.io/en/latest/#&#34; target=&#34;_blank&#34;&gt;ADE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;docker&#34;&gt;Docker&lt;/h2&gt;
+&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34; target=&#34;_blank&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
@@ -607,7 +607,13 @@
 &lt;li&gt;Remove all the containers: docker rm $(docker ps -a -q)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;registries&#34;&gt;Registries&lt;/h2&gt;
+&lt;h1 id=&#34;containerd&#34;&gt;Containerd&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34; target=&#34;_blank&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;registries&#34;&gt;Registries&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34; target=&#34;_blank&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
