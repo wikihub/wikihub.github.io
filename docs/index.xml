@@ -54,6 +54,43 @@
     </item>
     
     <item>
+      <title>Docs: 3D Graphics</title>
+      <link>https://wikihub.github.io/docs/references/software/3dgraphics/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/3dgraphics/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;cad&#34;&gt;CAD&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecadweb.org/&#34; target=&#34;_blank&#34;&gt;FreeCAD (3D)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://librecad.org/&#34; target=&#34;_blank&#34;&gt;LibreCAD (2D)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openscad.org/&#34; target=&#34;_blank&#34;&gt;OpenSCAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.qcad.org/en/&#34; target=&#34;_blank&#34;&gt;QCAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sweethome3d.com/&#34; target=&#34;_blank&#34;&gt;Sweet Home 3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;vulkan&#34;&gt;Vulkan&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/VirtualGL/virtualgl/issues/37&#34; target=&#34;_blank&#34;&gt;VirtualGL issue&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;point-clouds&#34;&gt;Point Clouds&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://potree.org/index.html&#34; target=&#34;_blank&#34;&gt;Potree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/potree/PotreeConverter&#34; target=&#34;_blank&#34;&gt;Potree Converter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Containers</title>
       <link>https://wikihub.github.io/docs/references/software/containers/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
@@ -96,43 +133,6 @@
 &lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34; target=&#34;_blank&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34; target=&#34;_blank&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34; target=&#34;_blank&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 3D Graphics</title>
-      <link>https://wikihub.github.io/docs/references/software/3dgraphics/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/3dgraphics/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;cad&#34;&gt;CAD&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.freecadweb.org/&#34; target=&#34;_blank&#34;&gt;FreeCAD (3D)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://librecad.org/&#34; target=&#34;_blank&#34;&gt;LibreCAD (2D)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openscad.org/&#34; target=&#34;_blank&#34;&gt;OpenSCAD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.qcad.org/en/&#34; target=&#34;_blank&#34;&gt;QCAD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sweethome3d.com/&#34; target=&#34;_blank&#34;&gt;Sweet Home 3D&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;vulkan&#34;&gt;Vulkan&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/VirtualGL/virtualgl/issues/37&#34; target=&#34;_blank&#34;&gt;VirtualGL issue&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;point-clouds&#34;&gt;Point Clouds&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://potree.org/index.html&#34; target=&#34;_blank&#34;&gt;Potree&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/potree/PotreeConverter&#34; target=&#34;_blank&#34;&gt;Potree Converter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -1646,40 +1646,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/mserranom/bbrun&#34; target=&#34;_blank&#34;&gt;Test your Bitbucket pipeline locally&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;develop-environments&#34;&gt;Develop Environments&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ade-cli.readthedocs.io/en/latest/#&#34; target=&#34;_blank&#34;&gt;ADE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;docker&#34;&gt;Docker&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34; target=&#34;_blank&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34; target=&#34;_blank&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34; target=&#34;_blank&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34; target=&#34;_blank&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34; target=&#34;_blank&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34; target=&#34;_blank&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34; target=&#34;_blank&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Remove all the images without a tag: docker rmi $(docker images -f dangling=true -q)&lt;/li&gt;
-&lt;li&gt;Remove all the containers: docker rm $(docker ps -a -q)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;registries&#34;&gt;Registries&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34; target=&#34;_blank&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instana.com/&#34; target=&#34;_blank&#34;&gt;Instana&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://katacontainers.io/&#34; target=&#34;_blank&#34;&gt;Kata containers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://firecracker-microvm.github.io/&#34; target=&#34;_blank&#34;&gt;Firecracker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.balena.io/&#34; target=&#34;_blank&#34;&gt;Balena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34; target=&#34;_blank&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34; target=&#34;_blank&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34; target=&#34;_blank&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
