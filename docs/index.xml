@@ -91,54 +91,6 @@
     </item>
     
     <item>
-      <title>Docs: Containers</title>
-      <link>https://wikihub.github.io/docs/references/software/containers/</link>
-      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/containers/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;develop-environments&#34;&gt;Develop Environments&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ade-cli.readthedocs.io/en/latest/#&#34; target=&#34;_blank&#34;&gt;ADE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;docker&#34;&gt;Docker&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34; target=&#34;_blank&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34; target=&#34;_blank&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34; target=&#34;_blank&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34; target=&#34;_blank&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34; target=&#34;_blank&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34; target=&#34;_blank&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34; target=&#34;_blank&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Remove all the images without a tag: docker rmi $(docker images -f dangling=true -q)&lt;/li&gt;
-&lt;li&gt;Remove all the containers: docker rm $(docker ps -a -q)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;registries&#34;&gt;Registries&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34; target=&#34;_blank&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instana.com/&#34; target=&#34;_blank&#34;&gt;Instana&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://katacontainers.io/&#34; target=&#34;_blank&#34;&gt;Kata containers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://firecracker-microvm.github.io/&#34; target=&#34;_blank&#34;&gt;Firecracker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.balena.io/&#34; target=&#34;_blank&#34;&gt;Balena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34; target=&#34;_blank&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34; target=&#34;_blank&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34; target=&#34;_blank&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Cloud Computing</title>
       <link>https://wikihub.github.io/docs/references/software/cloudcomputing/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -618,6 +570,54 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://plantain-00.github.io/ws-tool/&#34; target=&#34;_blank&#34;&gt;Web socket tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Containers</title>
+      <link>https://wikihub.github.io/docs/references/software/containers/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/containers/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;develop-environments&#34;&gt;Develop Environments&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ade-cli.readthedocs.io/en/latest/#&#34; target=&#34;_blank&#34;&gt;ADE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;docker&#34;&gt;Docker&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34; target=&#34;_blank&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34; target=&#34;_blank&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34; target=&#34;_blank&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34; target=&#34;_blank&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34; target=&#34;_blank&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34; target=&#34;_blank&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34; target=&#34;_blank&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remove all the images without a tag: docker rmi $(docker images -f dangling=true -q)&lt;/li&gt;
+&lt;li&gt;Remove all the containers: docker rm $(docker ps -a -q)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;registries&#34;&gt;Registries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34; target=&#34;_blank&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instana.com/&#34; target=&#34;_blank&#34;&gt;Instana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://katacontainers.io/&#34; target=&#34;_blank&#34;&gt;Kata containers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://firecracker-microvm.github.io/&#34; target=&#34;_blank&#34;&gt;Firecracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.balena.io/&#34; target=&#34;_blank&#34;&gt;Balena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34; target=&#34;_blank&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34; target=&#34;_blank&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34; target=&#34;_blank&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
