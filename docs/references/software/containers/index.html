@@ -25,15 +25,15 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://wikihub.github.io/docs/references/software/containers/" />
 <meta property="article:published_time" content="2019-04-11T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2020-04-13T09:55:25-04:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="article:modified_time" content="2020-04-13T10:43:52-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
 <meta itemprop="name" content="Containers">
 <meta itemprop="description" content="News and information about containers">
 
 
 <meta itemprop="datePublished" content="2019-04-11T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2020-04-13T09:55:25-04:00" />
-<meta itemprop="wordCount" content="105">
+<meta itemprop="dateModified" content="2020-04-13T10:43:52-04:00" />
+<meta itemprop="wordCount" content="116">
 
 
 
@@ -985,6 +985,7 @@
 <li><a href="https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb" target="_blank">How to show X11 windows with Docker on Mac</a></li>
 <li><a href="http://nelkinda.com/blog/xeyes-in-docker/" target="_blank">Running xeyes in Docker</a></li>
 <li>Remove all the images without a tag: <code>docker rmi $(docker images -f dangling=true -q)</code></li>
+<li>Remove <none> images: <code>docker rmi $(docker images |grep &quot;&lt;none&gt;&quot;|awk '$1==&quot;&lt;none&gt;&quot; {print $3}')</code></li>
 <li>Prune the system: <code>docker system prune</code></li>
 <li>Remove all the containers: <code>docker rm $(docker ps -a -q)</code></li>
 </ul>
@@ -1015,7 +1016,7 @@
 </ul>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 13.04.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/76e388388ae2cc65f6f387f710ddad5f121fe280">Update Containers.md (76e38838)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 13.04.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/fe354a7dcae7fee8914349d9f53580730ed2611a">Update Containers.md (fe354a7d)</a>
 </div>
 </div>
 
