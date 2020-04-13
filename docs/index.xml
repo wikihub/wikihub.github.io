@@ -91,6 +91,26 @@
     </item>
     
     <item>
+      <title>Docs: Edge Computing</title>
+      <link>https://wikihub.github.io/docs/references/software/edgecomputing/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/edgecomputing/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx&#34; target=&#34;_blank&#34;&gt;Using Visual Studio Code with STM32CubeMX for ARM Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Cloud Computing</title>
       <link>https://wikihub.github.io/docs/references/software/cloudcomputing/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -3258,102 +3278,6 @@ package&lt;/a&gt;&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bbest/rmarkdown-example&#34; target=&#34;_blank&#34;&gt;RMarkdown example&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Electric Vehicles</title>
-      <link>https://wikihub.github.io/docs/references/automotivesystems/electricvehicles/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/automotivesystems/electricvehicles/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;platforms&#34;&gt;Platforms&lt;/h1&gt;
-
-&lt;h2 id=&#34;auto&#34;&gt;AUTO&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.adrianchernoff.com/&#34; target=&#34;_blank&#34;&gt;The GM AUTOnomy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;golf-carts&#34;&gt;Golf Carts&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nicksgolfcarts.com/&#34; target=&#34;_blank&#34;&gt;Nick Golf Carts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;industrial-tow-tractors&#34;&gt;Industrial Tow Tractors&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.taylor-dunn.com/en-us/tow-tractor/#specs&#34; target=&#34;_blank&#34;&gt;Taylor Dunn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;electric-tractors&#34;&gt;Electric tractors&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theverge.com/2016/12/7/13874576/john-deere-sesam-electric-tractor-150kw-battery&#34; target=&#34;_blank&#34;&gt;John Deere Sesam 2016&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ivtinternational.com/news/agriculture/john-deere-develops-fully-electric-autonomous-tractor.html&#34; target=&#34;_blank&#34;&gt;John Deere GridON 2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.solectrac.com/eutility&#34; target=&#34;_blank&#34;&gt;Soletrac eUtility&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rigitrac.ch/produkte-1/rigitrac-ske-50-electric/&#34; target=&#34;_blank&#34;&gt;Rigitrac SKE50&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fendt.com/int/fendt-e100-vario&#34; target=&#34;_blank&#34;&gt;Fendt e100varioe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.escortsgroup.com/agri-machinery/products/farmtrac/31-to-40-hp.html&#34; target=&#34;_blank&#34;&gt;Farmtrac Champion 37&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;electric-wheel-loaders&#34;&gt;Electric wheel loaders&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fJNydCCVXeQ&#34; target=&#34;_blank&#34;&gt;Kramer 5055e&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kramer-online.com/en/discover-kramer/zero-emission/the-kramer-5055e/&#34; target=&#34;_blank&#34;&gt;Kramer 5055e, zero emission&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.multione.com/ez-7/&#34; target=&#34;_blank&#34;&gt;MultiOne EZ 7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;drivetrain&#34;&gt;Drivetrain&lt;/h1&gt;
-
-&lt;h1 id=&#34;motors&#34;&gt;Motors&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.metricmind.com/&#34; target=&#34;_blank&#34;&gt;Metric Mind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.hpevs.com/&#34; target=&#34;_blank&#34;&gt;High PErformance Electric Vehicle Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;controllers&#34;&gt;Controllers&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.curtisinstruments.com/&#34; target=&#34;_blank&#34;&gt;Curtis Instruments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sme-group.com/&#34; target=&#34;_blank&#34;&gt;SME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://accelerated-systems.com&#34; target=&#34;_blank&#34;&gt;Accelerated Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;batteries&#34;&gt;Batteries&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.orionbms.com/&#34; target=&#34;_blank&#34;&gt;Orion BMS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;personal-mobility&#34;&gt;Personal mobility&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.swincar.fr/&#34; target=&#34;_blank&#34;&gt;Swincar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ev4.pl/en/off-road-quad.html&#34; target=&#34;_blank&#34;&gt;Quad&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;conversion&#34;&gt;Conversion&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://evwest.com/catalog/&#34; target=&#34;_blank&#34;&gt;EV West&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://canev.com/&#34; target=&#34;_blank&#34;&gt;Canadian Electric Vehicles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;lawn-tractor&#34;&gt;Lawn tractor&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://electriclawntractor.com/&#34; target=&#34;_blank&#34;&gt;DIY Electric Lawn Mower Conversions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
