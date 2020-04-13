@@ -25,15 +25,15 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://wikihub.github.io/docs/references/software/containers/" />
 <meta property="article:published_time" content="2019-04-11T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2020-04-11T21:18:54-04:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="article:modified_time" content="2020-04-13T01:32:12-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
 <meta itemprop="name" content="Containers">
 <meta itemprop="description" content="News and information about containers">
 
 
 <meta itemprop="datePublished" content="2019-04-11T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2020-04-11T21:18:54-04:00" />
-<meta itemprop="wordCount" content="88">
+<meta itemprop="dateModified" content="2020-04-13T01:32:12-04:00" />
+<meta itemprop="wordCount" content="97">
 
 
 
@@ -899,7 +899,10 @@
 <nav id="TableOfContents">
 <ul>
 <li><a href="#develop-environments">Develop Environments</a></li>
-<li><a href="#docker">Docker</a></li>
+<li><a href="#docker">Docker</a>
+<ul>
+<li><a href="#ade">ADE</a></li>
+</ul></li>
 <li><a href="#containerd">Containerd</a></li>
 <li><a href="#registries">Registries</a></li>
 </ul>
@@ -980,6 +983,12 @@
 <li>Remove all the containers: docker rm $(docker ps -a -q)</li>
 </ul>
 
+<h2 id="ade">ADE</h2>
+
+<ul>
+<li>Fixing an error: <code>sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1</code></li>
+</ul>
+
 <h1 id="containerd">Containerd</h1>
 
 <ul>
@@ -1000,7 +1009,7 @@
 </ul>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 11.04.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/d01245ee76f1eb01bd392ce4927b7d4592af8c85">Update Containers.md (d01245ee)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 13.04.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/644bd44264ecf1859b4e3ad43550da7dc2d2b8b4">Update Containers.md (644bd442)</a>
 </div>
 </div>
 

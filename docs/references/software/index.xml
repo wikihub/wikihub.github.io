@@ -226,6 +226,12 @@
 &lt;li&gt;Remove all the containers: docker rm $(docker ps -a -q)&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;ade&#34;&gt;ADE&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fixing an error: &lt;code&gt;sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;containerd&#34;&gt;Containerd&lt;/h1&gt;
 
 &lt;ul&gt;
