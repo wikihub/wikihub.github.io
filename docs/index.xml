@@ -636,6 +636,7 @@
 &lt;li&gt;Remove &lt;none&gt; images: &lt;code&gt;docker rmi $(docker images |grep &amp;quot;&amp;lt;none&amp;gt;&amp;quot;|awk &#39;$1==&amp;quot;&amp;lt;none&amp;gt;&amp;quot; {print $3}&#39;)&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Prune the system: &lt;code&gt;docker system prune&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Remove all the containers: &lt;code&gt;docker rm $(docker ps -a -q)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phusion.github.io/baseimage-docker/&#34; target=&#34;_blank&#34;&gt;Base image Docker&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;docker-tools&#34;&gt;Docker tools&lt;/h2&gt;
