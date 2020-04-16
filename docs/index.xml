@@ -1693,15 +1693,17 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sdras/awesome-actions#github-pages&#34; target=&#34;_blank&#34;&gt;Awesome actions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Bitbucket pipelines
+
+&lt;li&gt;&lt;p&gt;Bitbucket pipelines&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mserranom/bbrun&#34; target=&#34;_blank&#34;&gt;Test your Bitbucket pipeline locally&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Gitlab pipelines
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/mserranom/bbrun&#34; target=&#34;_blank&#34;&gt;Test your Bitbucket pipeline locally&lt;/a&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/ci/variables/predefined_variables.html&#34; target=&#34;_blank&#34;&gt;Predefined variables&lt;/a&gt;&lt;/li&gt;
+&lt;h2 id=&#34;gitlab-pipelines&#34;&gt;Gitlab pipelines&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/ci/variables/predefined_variables.html&#34; target=&#34;_blank&#34;&gt;Predefined variables&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://docs.gitlab.com/runner/install/linux-repository.html&#34; target=&#34;_blank&#34;&gt;Install Gitlab Runner on Linux&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
