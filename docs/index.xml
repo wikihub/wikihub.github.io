@@ -1996,6 +1996,24 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Waymo</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/waymo/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/waymo/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/yonohub/waymo-open-dataset-on-yonohub-part-1-c196b5bd7ed7&#34; target=&#34;_blank&#34;&gt;Waymo Dataset— Using Yonohub to develop, evaluate and benchmark over the cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/waymo-research&#34; target=&#34;_blank&#34;&gt;Waymo Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yonohub.com/&#34; target=&#34;_blank&#34;&gt;Yonohub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Dataspeed</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/dataspeed/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
@@ -3011,83 +3029,6 @@ reftex&lt;/a&gt;&lt;/li&gt;
 mode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://praveen.kumar.in/2012/03/10/org-mode-latex-and-minted-syntax-highlighting/&#34; target=&#34;_blank&#34;&gt;Syntax highlighting in
 org-mode&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: HTML5</title>
-      <link>https://wikihub.github.io/docs/references/software/wordprocessing/html5/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/html5/</guid>
-      <description>
-        
-        
-        
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://collapsehtml5.wordpress.com/2013/09/23/html5-is-the-future-of-book-authorship/&#34; target=&#34;_blank&#34;&gt;HTML5 is the future of book authorship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bootswatch.com/&#34; target=&#34;_blank&#34;&gt;Bootswatch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://builtwithbootstrap.com/&#34; target=&#34;_blank&#34;&gt;Build with bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.initializr.com/&#34; target=&#34;_blank&#34;&gt;Initializr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://foundation.zurb.com/&#34; target=&#34;_blank&#34;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/2.3.2/&#34; target=&#34;_blank&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jqueryboilerplate.com/&#34; target=&#34;_blank&#34;&gt;jQuery Boilerplate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://html5boilerplate.com/&#34; target=&#34;_blank&#34;&gt;HTML5 Boilerplate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mashable.com/2013/04/26/css-boilerplates-frameworks/&#34; target=&#34;_blank&#34;&gt;CSS frameworks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://brackets.io/&#34; target=&#34;_blank&#34;&gt;Brackets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://community.adaptlearning.org/&#34; target=&#34;_blank&#34;&gt;Adapt Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://csszengarden.com/&#34; target=&#34;_blank&#34;&gt;CSS Zen Garden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jschr.github.io/textillate/&#34; target=&#34;_blank&#34;&gt;CSS text animation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;math&#34;&gt;Math&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Dashed/mathjax-lazyload&#34; target=&#34;_blank&#34;&gt;Mathjax lazyload&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;books&#34;&gt;Books&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/oreillymedia/HTMLBook&#34; target=&#34;_blank&#34;&gt;HTMLBook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://leanpub.com/&#34; target=&#34;_blank&#34;&gt;Lean Pub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.suntecdigital.com/ebook-conversion-services/animated-interactive-ebooks-html5-css3.html&#34; target=&#34;_blank&#34;&gt;SunTec Digital&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fISMFlRSdJs&#34; target=&#34;_blank&#34;&gt;Sidubara&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://loudcrow.com/&#34; target=&#34;_blank&#34;&gt;Loud Crow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://theappslab.com/2011/07/12/interactive-childrens-books-for-tablets/&#34; target=&#34;_blank&#34;&gt;Interactive children&amp;rsquo;s books for tablets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eboundcanada.org/&#34; target=&#34;_blank&#34;&gt;eBOUND Canada&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://alefba.us/&#34; target=&#34;_blank&#34;&gt;Alefba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ebookninjas.com/&#34; target=&#34;_blank&#34;&gt;eBook Ninjas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://epubweekly.wordpress.com/&#34; target=&#34;_blank&#34;&gt;ePub Weekly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kotobee.com/&#34; target=&#34;_blank&#34;&gt;Kotobee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.softcover.io/&#34; target=&#34;_blank&#34;&gt;Soft Cover&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getdpd.com/&#34; target=&#34;_blank&#34;&gt;Digital Publishing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;games&#34;&gt;Games&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://codecanyon.net/item/coloring-book-html5-game/6163303&#34; target=&#34;_blank&#34;&gt;Coloring game&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;rtl-support&#34;&gt;RTL Support&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://tech.pro/tutorial/1738/readying-your-site-for-rtl&#34; target=&#34;_blank&#34;&gt;Readying your site for RTL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mozillians.org/en-US/u/amir.farsi/&#34; target=&#34;_blank&#34;&gt;Amir Farsi&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
