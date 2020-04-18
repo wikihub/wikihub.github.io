@@ -2821,6 +2821,22 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: ROS2</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/ros2/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/ros2/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://index.ros.org/doc/ros2/&#34; target=&#34;_blank&#34;&gt;ROS2 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Cloud Robotics</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/cloudrobotics/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
@@ -3072,141 +3088,6 @@ org-mode&lt;/a&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://tech.pro/tutorial/1738/readying-your-site-for-rtl&#34; target=&#34;_blank&#34;&gt;Readying your site for RTL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://mozillians.org/en-US/u/amir.farsi/&#34; target=&#34;_blank&#34;&gt;Amir Farsi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: LaTeX</title>
-      <link>https://wikihub.github.io/docs/references/software/wordprocessing/latex/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/latex/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;tex-distributions&#34;&gt;TeX Distributions&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://miktex.org/&#34; target=&#34;_blank&#34;&gt;MikTeX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.contextgarden.net/Main_Page&#34; target=&#34;_blank&#34;&gt;ConTeXt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tug.org/protext/&#34; target=&#34;_blank&#34;&gt;proTeXt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;user-guide&#34;&gt;User Guide&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf&#34; target=&#34;_blank&#34;&gt;The not so short
-introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://amath.colorado.edu/documentation/LaTeX/Symbols.pdf&#34; target=&#34;_blank&#34;&gt;LaTeX
-symbols&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;editors&#34;&gt;Editors&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Emacs
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.emacswiki.org/emacs/CategoryTex&#34; target=&#34;_blank&#34;&gt;Emacs and TeX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vgoulet.act.ulaval.ca/en/emacs/windows&#34; target=&#34;_blank&#34;&gt;Emacs for
-Windows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.barik.net/archive/2012/07/18/154432/&#34; target=&#34;_blank&#34;&gt;GNU Emacs and
-SumatraPDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://texlipse.sourceforge.net/&#34; target=&#34;_blank&#34;&gt;LaTeX for Eclipse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/&#34; target=&#34;_blank&#34;&gt;TeXMaker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bakoma-tex.com/&#34; target=&#34;_blank&#34;&gt;BaKoMa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.texmacs.org/tmweb/home/welcome.en.html&#34; target=&#34;_blank&#34;&gt;TeXmacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.latexeditor.org/&#34; target=&#34;_blank&#34;&gt;LEd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.texniccenter.org/&#34; target=&#34;_blank&#34;&gt;TeXnicCenter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.textpad.com/&#34; target=&#34;_blank&#34;&gt;Textpad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/texworks/&#34; target=&#34;_blank&#34;&gt;TeXworks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.winedt.com/&#34; target=&#34;_blank&#34;&gt;WinEdit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lyx.org/&#34; target=&#34;_blank&#34;&gt;LyX&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;online&#34;&gt;Online&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.latexlab.org/&#34; target=&#34;_blank&#34;&gt;LaTeX Lab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.texify.com/&#34; target=&#34;_blank&#34;&gt;Texify&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/&#34; target=&#34;_blank&#34;&gt;CTAN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tug.org/&#34; target=&#34;_blank&#34;&gt;TeX Users Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.latextemplates.com/&#34; target=&#34;_blank&#34;&gt;LaTeX Templates&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://texblog.net/&#34; target=&#34;_blank&#34;&gt;TeXblog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mitchr.me/SS/refc/media/refc_latex.pdf&#34; target=&#34;_blank&#34;&gt;LaTeX reference
-card&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://science.thilucmic.fr/spip.php?article5&#34; target=&#34;_blank&#34;&gt;Documentation en ligne sur
-LaTeX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://faculty.washington.edu/gyollin/docs/Latex.pdf&#34; target=&#34;_blank&#34;&gt;LaTeX, Lyx and
-knitr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How make a LaTeX document look like a Word document:
-
-&lt;ul&gt;
-&lt;li&gt;Use XeLaTeX&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tex.stackexchange.com/questions/10138/change-section-fonts&#34; target=&#34;_blank&#34;&gt;Change the
-fonts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tex.stackexchange.com/questions/106964/could-not-insert-pdf-graphics&#34; target=&#34;_blank&#34;&gt;Fix PDF
-figures&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;How to include PDF pages in
-    LaTeX
-
-&lt;ul&gt;
-&lt;li&gt;{\includepdf[pages={1-6},height=\textheight,frame=false,offset=-5
-0,trim=70 100 70
-60,pagecommand={\thispagestyle{myheadings}}]{fig/figure.pdf}}&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;collaborative-writing&#34;&gt;Collaborative Writing&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.writelatex.com/&#34; target=&#34;_blank&#34;&gt;writeLaTeX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.scribtex.com/&#34; target=&#34;_blank&#34;&gt;ScribTeX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.latexlab.org/&#34; target=&#34;_blank&#34;&gt;LaTeX Lab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tex.uncg.edu/login.php&#34; target=&#34;_blank&#34;&gt;SpartanTeX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sciencesoft.at/latex/flatex.gsp?lang=en&#34; target=&#34;_blank&#34;&gt;ScienceSoft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sharelatex.com/&#34; target=&#34;_blank&#34;&gt;ShareLaTeX&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;packages&#34;&gt;Packages&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://bitbucket.org/rivanvx/beamer/wiki/Home&#34; target=&#34;_blank&#34;&gt;Beamer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.texample.net/tikz/examples&#34; target=&#34;_blank&#34;&gt;Tikz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xepersian.berlios.de/&#34; target=&#34;_blank&#34;&gt;XePersian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fa.parsilatex.wikia.com/wiki/صفحهٔ_اصلی&#34; target=&#34;_blank&#34;&gt;ParsiLaTeX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cs.cornell.edu/info/people/raman/aster/demo.html&#34; target=&#34;_blank&#34;&gt;ASTER&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://texblog.net/latex-archive/latex-general/pdfcomment/&#34; target=&#34;_blank&#34;&gt;pdfcomment: a user-friendly way to insert comments/ annotations
-into pdf
-files&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/pkg/media9&#34; target=&#34;_blank&#34;&gt;Media9 - Multimedia inclusion
-package&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.qiqqa.com/&#34; target=&#34;_blank&#34;&gt;Qiqqa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jabref.sourceforge.net/&#34; target=&#34;_blank&#34;&gt;JabRef&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mendeley.com/&#34; target=&#34;_blank&#34;&gt;Mendeley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zotero.org/&#34; target=&#34;_blank&#34;&gt;Zotero&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;showcases&#34;&gt;Showcases&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.tug.org/texshowcase/&#34; target=&#34;_blank&#34;&gt;http://www.tug.org/texshowcase/&lt;/a&gt; TeX Show&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
