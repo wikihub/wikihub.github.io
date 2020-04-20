@@ -2014,6 +2014,26 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Vehicle Controller</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/vehiclecontroller/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/vehiclecontroller/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;can&#34;&gt;CAN&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kvaser.com/download/&#34; target=&#34;_blank&#34;&gt;KVASER&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Waymo</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/waymo/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
@@ -2984,44 +3004,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;p&gt;&lt;code&gt;source install/local_setup.sh&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;colcon bundle --bundle-version 1&lt;/code&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Embedded ROS</title>
-      <link>https://wikihub.github.io/docs/references/robotics/ros/embedded/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/ros/embedded/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;ros&#34;&gt;ROS&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros-drivers&#34; target=&#34;_blank&#34;&gt;ROS2 drivers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/husarion/rosbot-firmware-new&#34; target=&#34;_blank&#34;&gt;ROSbot 2.0 for STM32F4 microcontroller&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;teleoperation&#34;&gt;Teleoperation&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/teleop_twist_joy&#34; target=&#34;_blank&#34;&gt;teleop_twist_joy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;autoware&#34;&gt;Autoware&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.adlinktech.com/en/index.aspx&#34; target=&#34;_blank&#34;&gt;ADLINK&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
       </description>
     </item>
