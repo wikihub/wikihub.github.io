@@ -1524,6 +1524,38 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Mobile Applications</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/mobileapps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/mobileapps/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;pwa&#34;&gt;PWA&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.com/get-started&#34; target=&#34;_blank&#34;&gt;Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;static-websites-https-www-staticgen-com&#34;&gt;&lt;a href=&#34;https://www.staticgen.com/&#34; target=&#34;_blank&#34;&gt;Static websites&lt;/a&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;Jekyll&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/themes/&#34; target=&#34;_blank&#34;&gt;Jekyll themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.gitlab.io/gitbook/&#34; target=&#34;_blank&#34;&gt;Gitbook&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Simulation</title>
       <link>https://wikihub.github.io/docs/references/software/simulation/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
@@ -2814,23 +2846,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kyburz-switzerland.ch/en/delivery_vehicles&#34; target=&#34;_blank&#34;&gt;Kyburz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://fomm.co.th/en/&#34; target=&#34;_blank&#34;&gt;FOMM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: ROS2</title>
-      <link>https://wikihub.github.io/docs/references/robotics/ros/ros2/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/ros/ros2/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros2/ros2&#34; target=&#34;_blank&#34;&gt;ROS2 meta repository&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://index.ros.org/doc/ros2/&#34; target=&#34;_blank&#34;&gt;ROS2 documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
