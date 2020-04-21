@@ -1808,6 +1808,22 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Angular</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/angular/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/angular/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alligator.io/angular/angular-pwa/&#34; target=&#34;_blank&#34;&gt;Intro to Progressive Web Apps (PWAs) in Angular&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: React</title>
       <link>https://wikihub.github.io/docs/references/software/webdevelopment/react/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
@@ -2609,243 +2625,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.aliexpress.com/item/32857019836.html&#34; target=&#34;_blank&#34;&gt;1Set Suspension Swing Arm Upper/Lower A Arm Steering Knuckle Spindle with Drum Brake Wheel Hub Fit For Buggy ATV Bike Kart Parts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Platforms</title>
-      <link>https://wikihub.github.io/docs/references/robotics/platforms/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/platforms/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;drones&#34;&gt;Drones&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.elroyair.com/&#34; target=&#34;_blank&#34;&gt;Elroyair&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;modular-platforms&#34;&gt;Modular Platforms&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hebirobotics.com/&#34; target=&#34;_blank&#34;&gt;HEBI Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;mobile-robots&#34;&gt;Mobile Robots&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.superdroidrobots.com/shop/category.aspx/wheeled-robots/51/&#34; target=&#34;_blank&#34;&gt;Superdroid mobile robots&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/&#34; target=&#34;_blank&#34;&gt;Clearpath Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aionrobotics.com/&#34; target=&#34;_blank&#34;&gt;Aion Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.servosila.com/en/&#34; target=&#34;_blank&#34;&gt;Servosila&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sampson-jeff.com/eep/&#34; target=&#34;_blank&#34;&gt;Earth Explorer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nicltd.co.uk/zeus-ultimate-modular-unmanned-ground-vehicle/zeus-ugv-modularity/&#34; target=&#34;_blank&#34;&gt;ZEUS Robot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/&#34; target=&#34;_blank&#34;&gt;RMP 210&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://roverrobotics.com/&#34; target=&#34;_blank&#34;&gt;Rover Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://locobot-website.netlify.com/&#34; target=&#34;_blank&#34;&gt;LoCoBot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.k-team.com/&#34; target=&#34;_blank&#34;&gt;K-Team&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://automation.omron.com/en/ca/products/family/LD&#34; target=&#34;_blank&#34;&gt;Omron&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://automation.omron.com/en/ca/products/family/Mobile%20Planner&#34; target=&#34;_blank&#34;&gt;Mobile Planner&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/&#34; target=&#34;_blank&#34;&gt;ROSbot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mit-racecar.github.io/hardware/&#34; target=&#34;_blank&#34;&gt;MIT Racecar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mushr.io/&#34; target=&#34;_blank&#34;&gt;MuSHR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://racecarj.com/&#34; target=&#34;_blank&#34;&gt;RACECAR/J&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://f1tenth.org/build.html&#34; target=&#34;_blank&#34;&gt;F1/10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.barc-project.com/&#34; target=&#34;_blank&#34;&gt;BARC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;hoverboard-motor&#34;&gt;Hoverboard motor&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackaday.io/project/163723-arrbot/details&#34; target=&#34;_blank&#34;&gt;ArrBot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tracked-robots&#34;&gt;Tracked Robots&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.superdroidrobots.com/shop/category.aspx/treaded-tracked-robots/73/&#34; target=&#34;_blank&#34;&gt;Superdroid treaded robots&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;segway&#34;&gt;Segway&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://so.engineering/&#34; target=&#34;_blank&#34;&gt;SOE Bobble Bot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;pulurobot-https-www-pulurobotics-fi-page-pulu-m2-1&#34;&gt;&lt;a href=&#34;https://www.pulurobotics.fi/page/pulu-m2-1&#34; target=&#34;_blank&#34;&gt;Pulurobot&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;linorobot-http-linorobot-org&#34;&gt;&lt;a href=&#34;http://linorobot.org&#34; target=&#34;_blank&#34;&gt;Linorobot&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/linorobot&#34; target=&#34;_blank&#34;&gt;Linorobot Google Group&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;magni-https-store-ubiquityrobotics-com&#34;&gt;&lt;a href=&#34;https://store.ubiquityrobotics.com/&#34; target=&#34;_blank&#34;&gt;Magni&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://forum.ubiquityrobotics.com/&#34; target=&#34;_blank&#34;&gt;Magni forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/ubiquity_motor&#34; target=&#34;_blank&#34;&gt;Ubiquity motor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97&#34; target=&#34;_blank&#34;&gt;Tune motor responsiveness&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/magni_robot&#34; target=&#34;_blank&#34;&gt;Magni robot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;rc-car&#34;&gt;RC Car&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetsonhacks.com/category/robotics/jetson-racecar/&#34; target=&#34;_blank&#34;&gt;Jetson RC car&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.donkeycar.com/&#34; target=&#34;_blank&#34;&gt;Donkey Car&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.donkeycar.com/collections/accessories&#34; target=&#34;_blank&#34;&gt;Donkey Car store&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/intel/sawr&#34; target=&#34;_blank&#34;&gt;Simple Autonomous Wheeled Robot (SAWR)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/intro-to-artificial-intelligence/self-driving-rc-car-using-robotic-operating-system-ros-c63a6d102c08&#34; target=&#34;_blank&#34;&gt;Self-driving RC car using Robotic Operating System(ROS)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/germain-hug/Autonomous-RC-Car&#34; target=&#34;_blank&#34;&gt;Autonomous RC car by germain-hug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GigaFlopsis/rc_car_ros&#34; target=&#34;_blank&#34;&gt;rc_car_ros with RPLiDAR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/RoblabWhGe/rc_bot&#34; target=&#34;_blank&#34;&gt;rc_bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jnazaren.github.io/racecar_project_page/&#34; target=&#34;_blank&#34;&gt;Race car project with Hokuyo LiDAR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linklab-uva.github.io/autonomousracing/&#34; target=&#34;_blank&#34;&gt;F1/10 autonomous racing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;race-car&#34;&gt;Race Car&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.sparkfun.com/tutorials/building-an-autonomous-vehicle-the-batmobile/all&#34; target=&#34;_blank&#34;&gt;Building an autonomous vehicle by SparkFun&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;legged-robots&#34;&gt;Legged Robots&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.unitree.cc/&#34; target=&#34;_blank&#34;&gt;Unitree&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/XRobots/openDog&#34; target=&#34;_blank&#34;&gt;OpenDog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.anybotics.com/anymal-legged-robot/&#34; target=&#34;_blank&#34;&gt;ANYmal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;warehouse&#34;&gt;Warehouse&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://6river.com/&#34; target=&#34;_blank&#34;&gt;6river&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bossanova.com/&#34; target=&#34;_blank&#34;&gt;Bossa Nova Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cobaltrobotics.com/&#34; target=&#34;_blank&#34;&gt;Cobalt Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fetchrobotics.com/&#34; target=&#34;_blank&#34;&gt;Fetch Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.geekplus.com.cn/en/&#34; target=&#34;_blank&#34;&gt;Geek+&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.greyorange.com/&#34; target=&#34;_blank&#34;&gt;Grey Orange&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iamrobotics.com/&#34; target=&#34;_blank&#34;&gt;IAM Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.inviarobotics.com/&#34; target=&#34;_blank&#34;&gt;inVia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.locusrobotics.com/&#34; target=&#34;_blank&#34;&gt;Locus Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mobile-industrial-robots.com/en/&#34; target=&#34;_blank&#34;&gt;MiR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.swisslog.com/en-us&#34; target=&#34;_blank&#34;&gt;Swisslog Holding&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://waypointrobotics.com/&#34; target=&#34;_blank&#34;&gt;Waypoint Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;forklift&#34;&gt;Forklift&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youbot-store.com/wiki/index.php/Forklift&#34; target=&#34;_blank&#34;&gt;Youbot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/valentinbarral/gazeboforkliftsimulation&#34; target=&#34;_blank&#34;&gt;Gazebo forklift simulation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=y0mEYIBFOPM&#34; target=&#34;_blank&#34;&gt;Autonomous Toyota Forklift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GLVWT2J25w0&#34; target=&#34;_blank&#34;&gt;STROBO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dematic.com/en-us/products/products-overview/agv-systems&#34; target=&#34;_blank&#34;&gt;Dematic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mcfa.com/en/jungheinrich/forklifts-pallet-trucks/Jungheinrich/ClassIII/Counterbalanced-Walkie-Stackers/EKS-215a&#34; target=&#34;_blank&#34;&gt;Jungheirich&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=La-k8CYvwYk&#34; target=&#34;_blank&#34;&gt;Hyundai autonomous forklift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aalhysterforklifts.com.au/index.php/about/blog-post/benefits_of_automated_guided_vehicle_forklifts&#34; target=&#34;_blank&#34;&gt;JBT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ChPo9bsZsKg&#34; target=&#34;_blank&#34;&gt;Hyster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.industrialforklifttruck.org/Canada&#34; target=&#34;_blank&#34;&gt;Industrial forklifts (used)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepsystems.ai/solutions/autonomous-forklift&#34; target=&#34;_blank&#34;&gt;Deep Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4eghyHzk-4g&#34; target=&#34;_blank&#34;&gt;SeeGrid&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;retail&#34;&gt;Retail&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.simberobotics.com/&#34; target=&#34;_blank&#34;&gt;Simbe Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;delivery-robots&#34;&gt;Delivery Robots&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://starship.xyz&#34; target=&#34;_blank&#34;&gt;Starship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kiwicampus.com/&#34; target=&#34;_blank&#34;&gt;Kiwi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://teleretail.com/&#34; target=&#34;_blank&#34;&gt;TeleRetail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://techcrunch.com/2018/12/13/postmates-robot-serve/&#34; target=&#34;_blank&#34;&gt;Postmates&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://robby.io/&#34; target=&#34;_blank&#34;&gt;Robby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;manipulators&#34;&gt;Manipulators&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.ufactory.cc/collections/xarm&#34; target=&#34;_blank&#34;&gt;xArm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pinecone.ai/&#34; target=&#34;_blank&#34;&gt;7bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.synapticon.com/&#34; target=&#34;_blank&#34;&gt;Synapticon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.resquared.com/&#34; target=&#34;_blank&#34;&gt;RE2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.universal-robots.com&#34; target=&#34;_blank&#34;&gt;Universal Robots&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/mirobot/mirobot-6-axis-mini-industrial-robot-arm&#34; target=&#34;_blank&#34;&gt;Mirobot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;pick-and-place&#34;&gt;Pick and place&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kindred.ai/&#34; target=&#34;_blank&#34;&gt;Kindred&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.osaro.com/&#34; target=&#34;_blank&#34;&gt;Osaro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.righthandrobotics.com/&#34; target=&#34;_blank&#34;&gt;RightHand Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;mobile-manipulators&#34;&gt;Mobile Manipulators&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ros.org/news/robots/mobile-manipulators/&#34; target=&#34;_blank&#34;&gt;ROS mobile manipulators&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.robotnik.eu/manipulators/&#34; target=&#34;_blank&#34;&gt;Robotnik Manipulators&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kuka.com/en-ca/products/mobility/mobile-robots/kmr-iiwa&#34; target=&#34;_blank&#34;&gt;Kuka KMR iiwa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/&#34; target=&#34;_blank&#34;&gt;Clearpath Husky manipulator package&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jaguar.drrobot.com/specification_4x4wArm.asp&#34; target=&#34;_blank&#34;&gt;Dr. Robot Jaguar with Arm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.neobotix-roboter.de/mobile-manipulatoren-uebersicht.html&#34; target=&#34;_blank&#34;&gt;Neobotix&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kinovarobotics.com/en/products/mobile-manipulators&#34; target=&#34;_blank&#34;&gt;Kinova Movo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fetchrobotics.com/robotics-platforms/fetch-mobile-manipulator/&#34; target=&#34;_blank&#34;&gt;Fetch Mobile Manipulator&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;legged-robots-1&#34;&gt;Legged Robots&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.anybotics.com/anymal-legged-robot/&#34; target=&#34;_blank&#34;&gt;Anymal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;kits&#34;&gt;Kits&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dfrobot.com/category-37.html&#34; target=&#34;_blank&#34;&gt;DFRobots&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.trossenrobotics.com/robot-kits.aspx&#34; target=&#34;_blank&#34;&gt;Trossen Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;industrial-tow-tractors&#34;&gt;Industrial Tow Tractors&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.taylor-dunn.com/en-us/vehicles/&#34; target=&#34;_blank&#34;&gt;Taylor-Dunn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.motrec.com/&#34; target=&#34;_blank&#34;&gt;Motrec&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://packmule.com/?gclid=EAIaIQobChMI-_6sxoK_4AIVjlcNCh1h-gMZEAAYAiAAEgIQPPD_BwE&#34; target=&#34;_blank&#34;&gt;Pack Mule: Electric Industrial Vehicles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.alke.com/electric-vehicles&#34; target=&#34;_blank&#34;&gt;Alke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.agtecars.com/&#34; target=&#34;_blank&#34;&gt;AGT Electric Cars in Canada&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.evdoall.com/&#34; target=&#34;_blank&#34;&gt;EVDOALL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;electric-vehicles&#34;&gt;Electric Vehicles&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kyburz-switzerland.ch/en/delivery_vehicles&#34; target=&#34;_blank&#34;&gt;Kyburz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fomm.co.th/en/&#34; target=&#34;_blank&#34;&gt;FOMM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
