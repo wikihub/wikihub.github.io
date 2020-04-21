@@ -1776,6 +1776,38 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Vue.js</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/vuejs/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/vuejs/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;vue-js-https-vuejs-org&#34;&gt;&lt;a href=&#34;https://vuejs.org/&#34; target=&#34;_blank&#34;&gt;Vue.js&lt;/a&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vuejs/awesome-vue&#34; target=&#34;_blank&#34;&gt;Awesome Vue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gridsome.org/&#34; target=&#34;_blank&#34;&gt;Gridsome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34; target=&#34;_blank&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vuescript.com/&#34; target=&#34;_blank&#34;&gt;VueScript.com&lt;/a&gt; - Aims to offer latest free Vue.js components for web application developers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/build-an-app-with-vuejs/&#34; target=&#34;_blank&#34;&gt;Build an App with Vue.js: From Authentication to Calling an API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://material.balmjs.com/&#34; target=&#34;_blank&#34;&gt;BalmUI&lt;/a&gt; - next generation Material UI for Vue.js.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://element.eleme.io/&#34; target=&#34;_blank&#34;&gt;Element&lt;/a&gt; - a Vue.js 2.0 UI Toolkit for Web.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iviewui.com/&#34; target=&#34;_blank&#34;&gt;iView&lt;/a&gt; - a high quality UI Toolkit built on Vue.js.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://josephuspaye.github.io/Keen-UI/&#34; target=&#34;_blank&#34;&gt;Keen UI&lt;/a&gt; - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://museui.github.io/&#34; target=&#34;_blank&#34;&gt;Muse UI&lt;/a&gt; - a Vue 2.0 and Material Design based UI component library.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://quasar-framework.org/&#34; target=&#34;_blank&#34;&gt;Quasar Framework&lt;/a&gt; - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuetifyjs.com/&#34; target=&#34;_blank&#34;&gt;Vuetify.js&lt;/a&gt; - a component framework for Vue.js 2.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuematerial.github.io/&#34; target=&#34;_blank&#34;&gt;Vue Material&lt;/a&gt; - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Project Management</title>
       <link>https://wikihub.github.io/docs/references/smallbusiness/projectmanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2866,44 +2898,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;p&gt;&lt;code&gt;source install/local_setup.sh&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;colcon bundle --bundle-version 1&lt;/code&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Embedded ROS</title>
-      <link>https://wikihub.github.io/docs/references/robotics/ros/embedded/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/ros/embedded/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;ros&#34;&gt;ROS&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros-drivers&#34; target=&#34;_blank&#34;&gt;ROS2 drivers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/husarion/rosbot-firmware-new&#34; target=&#34;_blank&#34;&gt;ROSbot 2.0 for STM32F4 microcontroller&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;teleoperation&#34;&gt;Teleoperation&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/teleop_twist_joy&#34; target=&#34;_blank&#34;&gt;teleop_twist_joy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;autoware&#34;&gt;Autoware&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.adlinktech.com/en/index.aspx&#34; target=&#34;_blank&#34;&gt;ADLINK&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
       </description>
     </item>
