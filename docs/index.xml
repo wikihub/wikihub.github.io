@@ -1556,7 +1556,11 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h1 id=&#34;static-websites-https-www-staticgen-com&#34;&gt;&lt;a href=&#34;https://www.staticgen.com/&#34; target=&#34;_blank&#34;&gt;Static websites&lt;/a&gt;&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Hugo, getting started&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;Jekyll&lt;/a&gt;
 
 &lt;ul&gt;
