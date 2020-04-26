@@ -1189,6 +1189,26 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Learning Robotics</title>
+      <link>https://wikihub.github.io/docs/references/robotics/learningrobotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/learningrobotics/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;children&#34;&gt;Children&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Open_Roberta&#34; target=&#34;_blank&#34;&gt;Open Roberta&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Material Handling</title>
       <link>https://wikihub.github.io/docs/references/robotics/materialhandling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2579,86 +2599,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.dspace.com/en/inc/home/products/sw/impsw/rtmaps.cfm&#34; target=&#34;_blank&#34;&gt;RTMaps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Components</title>
-      <link>https://wikihub.github.io/docs/references/robotics/components/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/components/</guid>
-      <description>
-        
-        
-        
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.a-m-c.com/&#34; target=&#34;_blank&#34;&gt;Advanced Motion Controls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.elmomc.com/&#34; target=&#34;_blank&#34;&gt;Elmo Motion Control&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.energid.com/&#34; target=&#34;_blank&#34;&gt;Energid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.genesis-robotics.com/&#34; target=&#34;_blank&#34;&gt;Genesis Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kollmorgen.com/en-us/&#34; target=&#34;_blank&#34;&gt;Kollmorgen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.micromo.com/&#34; target=&#34;_blank&#34;&gt;Micromo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://schunk.com/us_en/homepage/&#34; target=&#34;_blank&#34;&gt;Schunk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sick.com/us/en/&#34; target=&#34;_blank&#34;&gt;Sick&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.softroboticsinc.com/&#34; target=&#34;_blank&#34;&gt;Soft Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cajt/list_of_robot_electronics&#34; target=&#34;_blank&#34;&gt;List of robot electronics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kiloreux/awesome-robotics&#34; target=&#34;_blank&#34;&gt;Awesome robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ahundt/awesome-robotics&#34; target=&#34;_blank&#34;&gt;Awesome robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jslee02/awesome-robotics-libraries&#34; target=&#34;_blank&#34;&gt;Awesome robotics libraries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/fkromer/awesome-ros2&#34; target=&#34;_blank&#34;&gt;Awesome ROS2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;controllers&#34;&gt;Controllers&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://quimbox.com/en/&#34; target=&#34;_blank&#34;&gt;Quimbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://husarion.com/&#34; target=&#34;_blank&#34;&gt;Husarion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vexrobotics.com/276-4810.html&#34; target=&#34;_blank&#34;&gt;V5 Robot Brain&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;radio-remote-control&#34;&gt;Radio Remote Control&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kar-tech.com/products/radio-transmitters.html&#34; target=&#34;_blank&#34;&gt;Kar Tech Wireless Radio Transmitters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hatox.com/en/EN_jtexcon-atex.html&#34; target=&#34;_blank&#34;&gt;HATOX JTEXcon ATEX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://autonomoustuff.com/product/fort-remote-control-system/&#34; target=&#34;_blank&#34;&gt;FORT Robotics Safe Remote Control System&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;connectors&#34;&gt;Connectors&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.te.com/global-en/plp/deutsch-automotive-connectors-dt/Zn9bY30DrX25oK.html&#34; target=&#34;_blank&#34;&gt;DEUTSCH Automotive, Truck, Bus, &amp;amp; Off-Road Connectors products&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;rtk-gps&#34;&gt;RTK GPS&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://autonomoustuff.com/product/p400-enc/&#34; target=&#34;_blank&#34;&gt;Microhard P400-ENC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;battery&#34;&gt;Battery&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ionenergy.co/&#34; target=&#34;_blank&#34;&gt;Ion Energy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://electrovaya.com/forklift-battery-systems/&#34; target=&#34;_blank&#34;&gt;Electrovaya&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://energy.sourceguides.com/businesses/byGeo/byC/Canada/byP/batP/batt/byB/manufacturers/byN/byName.shtml&#34; target=&#34;_blank&#34;&gt;Canadian Battery Companies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;grippers&#34;&gt;Grippers&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://onrobot.com/en&#34; target=&#34;_blank&#34;&gt;Onrobot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://robotiq.com/&#34; target=&#34;_blank&#34;&gt;Robotiq&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;suspension-and-steering&#34;&gt;Suspension and steering&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aliexpress.com/item/32857019836.html&#34; target=&#34;_blank&#34;&gt;1Set Suspension Swing Arm Upper/Lower A Arm Steering Knuckle Spindle with Drum Brake Wheel Hub Fit For Buggy ATV Bike Kart Parts&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
