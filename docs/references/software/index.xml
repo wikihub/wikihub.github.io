@@ -238,6 +238,7 @@
 &lt;li&gt;&lt;a href=&#34;https://ariya.io/2016/06/isolated-development-environment-using-nix&#34; target=&#34;_blank&#34;&gt;Isolated development environment using Nix&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Search for Hugo: &lt;code&gt;nix-env -qaP | grep hugo&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Installing Hugo: &lt;code&gt;nix-env -iA nixpkgs.hugo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/costrouc/nix-binder-example&#34; target=&#34;_blank&#34;&gt;Nix binder example&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
