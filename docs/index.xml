@@ -617,6 +617,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://nixos.org/nixos/packages.html&#34; target=&#34;_blank&#34;&gt;Search NixOS packages&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ariya.io/2016/06/isolated-development-environment-using-nix&#34; target=&#34;_blank&#34;&gt;Isolated development environment using Nix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Search for Hugo: &lt;code&gt;nix-env -qaP | grep hugo&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Installing Hugo: &lt;code&gt;nix-env -iA nixpkgs.hugo&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
