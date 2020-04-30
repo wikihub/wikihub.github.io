@@ -100,6 +100,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html&#34; target=&#34;_blank&#34;&gt;PlatformIO: ST DISCO-L475VG-IOT01A&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&amp;amp;utm_medium=docs&#34; target=&#34;_blank&#34;&gt;Example projects by PlatformIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/&#34; target=&#34;_blank&#34;&gt;Mbed for ST Discovery L475E-IOT01A&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
