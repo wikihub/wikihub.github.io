@@ -360,6 +360,12 @@
 &lt;li&gt;&lt;a href=&#34;https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html&#34; target=&#34;_blank&#34;&gt;ThingsBoard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;mqtt&#34;&gt;MQTT&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ARMmbed/mbed-mqtt&#34; target=&#34;_blank&#34;&gt;Mbed MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
 
 &lt;ul&gt;
