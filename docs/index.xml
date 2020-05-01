@@ -366,6 +366,12 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/ARMmbed/mbed-mqtt&#34; target=&#34;_blank&#34;&gt;Mbed MQTT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;ota&#34;&gt;OTA&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gizwits.com/en-us/UserManual/MCUOTA.html&#34; target=&#34;_blank&#34;&gt;Gizwits MCU OTA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;thingsboard&#34;&gt;ThingsBoard&lt;/h1&gt;
 
 &lt;ul&gt;
