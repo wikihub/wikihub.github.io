@@ -362,6 +362,12 @@
 &lt;li&gt;&lt;a href=&#34;https://www.mouser.ca/applications/stm32l4-kit-iot-node-integrating-google-cloud/&#34; target=&#34;_blank&#34;&gt;Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;dfu&#34;&gt;DFU&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode&#34; target=&#34;_blank&#34;&gt;Update firmware field using microcontroller DFU mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;mqtt&#34;&gt;MQTT&lt;/h1&gt;
 
 &lt;ul&gt;
