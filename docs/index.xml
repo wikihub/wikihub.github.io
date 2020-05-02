@@ -683,6 +683,7 @@
 &lt;li&gt;Installing Hugo: &lt;code&gt;nix-env -iA nixpkgs.hugo&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/costrouc/nix-binder-example&#34; target=&#34;_blank&#34;&gt;Nix binder example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kalbas.it/2019/02/26/manage-a-static-website-with-hugo-and-nix/&#34; target=&#34;_blank&#34;&gt;Working with hugo using nix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nixos.wiki/wiki/FAQ/Pinning_Nixpkgs&#34; target=&#34;_blank&#34;&gt;Pinning nix packages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
