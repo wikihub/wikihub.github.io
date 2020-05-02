@@ -153,6 +153,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-drivers&#34; target=&#34;_blank&#34;&gt;ROS2 drivers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://micro-ros.github.io/&#34; target=&#34;_blank&#34;&gt;micro ROS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/openrobots-dev/uROSnode&#34; target=&#34;_blank&#34;&gt;uROSnode code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roscon.ros.org/2013/wp-content/uploads/2013/06/urosnode.pdf&#34; target=&#34;_blank&#34;&gt;uROSnode paper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
