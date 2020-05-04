@@ -684,6 +684,19 @@
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34; target=&#34;_blank&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gardener.cloud/&#34; target=&#34;_blank&#34;&gt;Gardener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garden.io/&#34; target=&#34;_blank&#34;&gt;Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://draft.sh/&#34; target=&#34;_blank&#34;&gt;Draft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://skaffold.dev/&#34; target=&#34;_blank&#34;&gt;Skaffold&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://squash.solo.io/&#34; target=&#34;_blank&#34;&gt;Squash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.telepresence.io/&#34; target=&#34;_blank&#34;&gt;Telepresence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34; target=&#34;_blank&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Mirantis/k8s-devbox&#34; target=&#34;_blank&#34;&gt;k8s-devbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
