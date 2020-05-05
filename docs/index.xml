@@ -312,7 +312,7 @@
         
         
 
-&lt;h1 id=&#34;embedded-systems&#34;&gt;Embedded Systems&lt;/h1&gt;
+&lt;h1 id=&#34;embedded-operating-systems&#34;&gt;Embedded Operating Systems&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start&#34; target=&#34;_blank&#34;&gt;ChibiOS&lt;/a&gt;&lt;/li&gt;
@@ -324,9 +324,22 @@
 
 &lt;h2 id=&#34;mbed-https-os-mbed-com&#34;&gt;&lt;a href=&#34;https://os.mbed.com/&#34; target=&#34;_blank&#34;&gt;Mbed&lt;/a&gt;&lt;/h2&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/users/hudakz/code/CAN_Hello//file/3211e88e30a5/main.cpp/&#34; target=&#34;_blank&#34;&gt;CAN Hello&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;stm32cube-https-www-st-com-en-ecosystems-stm32cube-html&#34;&gt;&lt;a href=&#34;https://www.st.com/en/ecosystems/stm32cube.html&#34; target=&#34;_blank&#34;&gt;STM32Cube&lt;/a&gt;&lt;/h2&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/STMicroelectronics/STM32CubeF4/tree/b5abca20c9676b04f8d2885a668a9b653ee65705/Projects/STM324xG_EVAL/Examples/CAN/CAN_Networking&#34; target=&#34;_blank&#34;&gt;CAN networking example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;zephyr-https-www-zephyrproject-org&#34;&gt;&lt;a href=&#34;https://www.zephyrproject.org/&#34; target=&#34;_blank&#34;&gt;Zephyr&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.zephyrproject.org/latest/reference/networking/can_api.html&#34; target=&#34;_blank&#34;&gt;CAN API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-drivers-can&#34; target=&#34;_blank&#34;&gt;CAN driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;nuttx-https-nuttx-apache-org&#34;&gt;&lt;a href=&#34;https://nuttx.apache.org/&#34; target=&#34;_blank&#34;&gt;NuttX&lt;/a&gt;&lt;/h2&gt;
 
