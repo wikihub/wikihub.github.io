@@ -164,7 +164,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/husarion/rosbot-firmware-new&#34; target=&#34;_blank&#34;&gt;ROSbot 2.0 for STM32F4 microcontroller&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;chibios&#34;&gt;ChibiOS&lt;/h1&gt;
+&lt;h1 id=&#34;rtos&#34;&gt;RTOS&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.chibios.org/dokuwiki/doku.php&#34; target=&#34;_blank&#34;&gt;ChibiOS&lt;/a&gt;&lt;/li&gt;
