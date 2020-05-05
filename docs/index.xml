@@ -2218,7 +2218,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Docs: Vehicle Controller</title>
+      <title>Docs: Vehicle Interface</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/vehiclecontroller/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -2232,6 +2232,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kvaser.com/download/&#34; target=&#34;_blank&#34;&gt;KVASER&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/openxc/vi-firmware&#34; target=&#34;_blank&#34;&gt;Vehicle Interface Firmware&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
