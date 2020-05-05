@@ -2498,6 +2498,16 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group&#34; target=&#34;_blank&#34;&gt;Autonomy software working group&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;vehicle-interface&#34;&gt;Vehicle Interface&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/85&#34; target=&#34;_blank&#34;&gt;Collect use cases for vehicle interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux CAN (SocketCAN: can-utils) interface for networking CAN Bus support to the Linux Kernel&lt;/li&gt;
+&lt;li&gt;All platforms use CAN as the low-level communication protocol but each DBW system has its own implementation (DBC).&lt;/li&gt;
+&lt;li&gt;At this time, some vendors provide ROS drivers which can utilize either &amp;lsquo;kvaser_interface&amp;rsquo; or &amp;lsquo;socketcan_interface&amp;rsquo; ROS nodes to communicate with their DBW system while others use their own proprietary hardware and software interface for CAN communication below the ROS layer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/docs/architecture/reference_implementations/vehicle-interface-reference-implementation.md&#34; target=&#34;_blank&#34;&gt;Vehicle interface reference implementation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;autonomous-valet-parking&#34;&gt;Autonomous Valet Parking&lt;/h2&gt;
 
 &lt;ul&gt;
