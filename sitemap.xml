@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://wikihub.github.io/docs/references/hardware/network/</loc>
+    <lastmod>2020-05-06T13:20:39-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wikihub.github.io/docs/references/robotics/hmi/</loc>
     <lastmod>2020-03-29T18:38:54-04:00</lastmod>
   </url>
@@ -110,11 +115,6 @@
   <url>
     <loc>https://wikihub.github.io/docs/references/robotics/bldc/</loc>
     <lastmod>2020-02-28T17:04:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wikihub.github.io/docs/references/hardware/network/</loc>
-    <lastmod>2020-04-08T18:45:17-04:00</lastmod>
   </url>
   
   <url>
