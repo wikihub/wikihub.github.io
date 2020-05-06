@@ -7,7 +7,6 @@
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-<link rel="alternate" type="application/rss&#43;xml" href="https://wikihub.github.io/docs/references/building/index.xml">
 
 
 <link rel="shortcut icon" href="/favicons/favicon.ico" >
@@ -21,19 +20,25 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png"sizes="192x192">
 
-<title>Building | WIKIHUB</title><meta property="og:title" content="Building" />
-<meta property="og:description" content="Resources for building construction and optimization" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://wikihub.github.io/docs/references/building/" />
+<title>Ethernet | WIKIHUB</title><meta property="og:title" content="Ethernet" />
+<meta property="og:description" content="Network and Internet resources" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://wikihub.github.io/docs/references/hardware/ethernet/" />
+<meta property="article:modified_time" content="2020-05-06T13:20:54-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
-<meta property="og:updated_time" content="2019-12-10T17:17:40-05:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta itemprop="name" content="Ethernet">
+<meta itemprop="description" content="Network and Internet resources">
 
-<meta itemprop="name" content="Building">
-<meta itemprop="description" content="Resources for building construction and optimization">
 
+<meta itemprop="dateModified" content="2020-05-06T13:20:54-04:00" />
+<meta itemprop="wordCount" content="83">
+
+
+
+<meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Building"/>
-<meta name="twitter:description" content="Resources for building construction and optimization"/>
+<meta name="twitter:title" content="Ethernet"/>
+<meta name="twitter:description" content="Network and Internet resources"/>
 
 
 
@@ -47,9 +52,9 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 
-    <title>Building | WIKIHUB</title>
+    <title>Ethernet | WIKIHUB</title>
   </head>
-  <body class="td-section">
+  <body class="td-page">
     <header>
       
 <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
@@ -462,10 +467,10 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/docs/references/hardware/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Hardware</a>
+    <a  href="/docs/references/hardware/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Hardware</a>
   </li>
   <ul>
-    <li class="collapse " id="docs-references-hardware">
+    <li class="collapse show" id="docs-references-hardware">
       
       
       
@@ -490,7 +495,7 @@
       
       
       
-      <a class="td-sidebar-link td-sidebar-link__page " id="m-docs-references-hardware-ethernet" href="/docs/references/hardware/ethernet/">Ethernet</a>
+      <a class="td-sidebar-link td-sidebar-link__page  active" id="m-docs-references-hardware-ethernet" href="/docs/references/hardware/ethernet/">Ethernet</a>
       
       
       
@@ -910,10 +915,10 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/docs/references/building/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Building</a>
+    <a  href="/docs/references/building/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Building</a>
   </li>
   <ul>
-    <li class="collapse show" id="docs-references-building">
+    <li class="collapse " id="docs-references-building">
       
       
       
@@ -1004,8 +1009,8 @@
 <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
 
 
-<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/Building/_index.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
-<a href="https://github.com/wikihub/wikihub-website/issues/new?title=Building" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
+<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/Hardware/Ethernet.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/wikihub/wikihub-website/issues/new?title=Ethernet" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
 </div>
 
 
@@ -1015,12 +1020,14 @@
 
 <nav id="TableOfContents">
 <ul>
-<li><a href="#building-automation">Building Automation</a></li>
-<li><a href="#government-funds">Government Funds</a></li>
-<li><a href="#startups">Startups</a></li>
-<li><a href="#academic-research">Academic Research</a></li>
-<li><a href="#net-zero-energy-buildings">Net Zero Energy Buildings</a></li>
-<li><a href="#tiny-houses">Tiny Houses</a></li>
+<li><a href="#routers">Routers</a>
+<ul>
+<li><a href="#linksys">Linksys</a></li>
+</ul></li>
+<li><a href="#sockets">Sockets</a>
+<ul>
+<li><a href="#socket-tools">Socket tools</a></li>
+</ul></li>
 </ul>
 </nav>
 
@@ -1031,6 +1038,9 @@
             <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
 	<ol class="breadcrumb spb-1">
 		
+
+
+
 
 
 
@@ -1055,8 +1065,15 @@
 
 
 
+<li class="breadcrumb-item" >
+	<a href="https://wikihub.github.io/docs/references/hardware/">Hardware</a>
+</li>
+
+
+
+
 <li class="breadcrumb-item active" aria-current="page">
-	<a href="https://wikihub.github.io/docs/references/building/">Building</a>
+	<a href="https://wikihub.github.io/docs/references/hardware/ethernet/">Ethernet</a>
 </li>
 
 	</ol>
@@ -1064,59 +1081,44 @@
 
             
 <div class="td-content">
-	<h1>Building</h1>
-	<div class="lead">Resources for building construction and optimization</div>
+	<h1>Ethernet</h1>
+	<div class="lead">Network and Internet resources</div>
 	
 
-<h1 id="building-automation">Building Automation</h1>
-
 <ul>
-<li><a href="https://beic.ca/" target="_blank">Building Energy Innovators Council</a></li>
-<li><a href="https://www.brainboxai.com/" target="_blank">Brain Box AI</a></li>
-<li><a href="https://www.paritygo.com/" target="_blank">Parity</a></li>
-<li><a href="https://carleton.ca/dbom/" target="_blank">Data-driven building operation and maintenance research group</a></li>
-<li><a href="https://buildingenergychallenge.ca/" target="_blank">Building energy challenge</a></li>
-<li><a href="https://projectstasio.com/" target="_blank">Project STASIO</a></li>
-<li><a href="https://simulate.energy/" target="_blank">Simulate Energy</a></li>
-<li><a href="https://betterbuildingsbc.ca/new-construction/net-zero-energy-ready-challenge/" target="_blank">Clean BC</a></li>
-<li><a href="https://www.bomatoronto.org/" target="_blank">BOMA Toronto</a></li>
-<li><a href="http://buildingsimulation2019.org/competitions/" target="_blank">Buildings Simulation 2019</a></li>
+<li><a href="https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/" target="_blank">How to connect PC to PC using a LAN cable</a></li>
+<li>Run <code>sudo apt install avahi-daemon libnss-mdns</code> in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.</li>
 </ul>
 
-<h1 id="government-funds">Government Funds</h1>
+<h1 id="routers">Routers</h1>
+
+<h2 id="linksys">Linksys</h2>
 
 <ul>
-<li><a href="https://www.sdtc.ca/en/" target="_blank">SDTC</a></li>
-<li><a href="https://www.nrcan.gc.ca/science-data/research-centres-labs/energy-offices-labs/office-energy-research-development-oerd/5711" target="_blank">OERD</a></li>
+<li><a href="https://www.linksysinfo.org/index.php?threads/asuswrt-merlin-build-384-5-or-later-on-linksys-ea6900-or-ea6700.74209/" target="_blank">AsusWRT Merlin build 384.5 or later on Linksys EA6900 or EA6700</a></li>
+<li><a href="https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/" target="_blank">How to flash Linksys EA6300v1, EA6400, EA6500v2, EA6700, EA6900v1.0/1.1 with Tomato</a></li>
+<li><a href="https://sourceforge.net/projects/officiallinksysfirmware/files/ea6900/v1/" target="_blank">Linsys EA6900 official firmwares</a></li>
+<li><a href="https://cfeditor.feng.si/" target="_blank">CFEditor</a></li>
+<li><a href="https://www.asuswrt-merlin.net/" target="_blank">AsusWRT-Merlin</a></li>
 </ul>
 
-<h1 id="startups">Startups</h1>
+<h1 id="sockets">Sockets</h1>
 
 <ul>
-<li><a href="https://www.bluwave-ai.com/" target="_blank">Bluwave AI</a></li>
+<li><a href="https://github.com/facundofarias/awesome-websockets/blob/master/README.md" target="_blank">Awesome web sockets</a></li>
+<li><a href="https://www.gnu.org/software/libc/manual/html_node/Sockets.html" target="_blank">GNU C language sockets</a></li>
+<li><a href="https://realpython.com/python-sockets/" target="_blank">Real Python sockets</a></li>
+<li><a href="https://docs.python.org/3/howto/sockets.html" target="_blank">Python sockets</a></li>
 </ul>
 
-<h1 id="academic-research">Academic Research</h1>
+<h2 id="socket-tools">Socket tools</h2>
 
 <ul>
-<li><a href="https://simulationresearch.lbl.gov/" target="_blank">Simulation Research</a></li>
-</ul>
-
-<h1 id="net-zero-energy-buildings">Net Zero Energy Buildings</h1>
-
-<ul>
-<li><a href="https://www.huffingtonpost.ca/entry/net-zero-energy-homes-in-ontario-that-produce-as-much-power-as-they-consume_ca_5cd540fae4b07bc729764592" target="_blank">Net-Zero Energy Homes In Ontario</a></li>
-<li><a href="http://www.terra-view.com/guelphs-new-net-zero-carbon-emission-home/" target="_blank">Terra View</a></li>
-</ul>
-
-<h1 id="tiny-houses">Tiny Houses</h1>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=E7D9_r8rjgE" target="_blank">15 Modern Tiny Homes and Prefab Modular Housing</a></li>
+<li><a href="https://plantain-00.github.io/ws-tool/" target="_blank">Web socket tool</a></li>
 </ul>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 10.12.2019: <a  href="https://github.com/wikihub/wikihub-website/commit/9c680cff5d391871dd5be33ffa4b454167b94833">Update _index.md (9c680cff)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 06.05.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/1941d749f8e3ab0a7ae00ef717a5bad56f6c6fb4">Rename Network.md to Ethernet.md (1941d749)</a>
 </div>
 </div>
 
