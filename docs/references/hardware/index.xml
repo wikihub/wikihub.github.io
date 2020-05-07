@@ -275,12 +275,6 @@
         
         
 
-&lt;h1 id=&#34;embedded-operating-systems&#34;&gt;Embedded Operating Systems&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start&#34; target=&#34;_blank&#34;&gt;ChibiOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&#34;programming-frameworks&#34;&gt;Programming frameworks&lt;/h1&gt;
 
 &lt;h2 id=&#34;stm32duino-https-github-com-stm32duino-wiki-wiki&#34;&gt;&lt;a href=&#34;https://github.com/stm32duino/wiki/wiki&#34; target=&#34;_blank&#34;&gt;STM32duino&lt;/a&gt;&lt;/h2&gt;
@@ -316,6 +310,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can&#34; target=&#34;_blank&#34;&gt;CAN example&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;chibios-http-www-chibios-org-dokuwiki-doku-php-id-chibios-product-start&#34;&gt;&lt;a href=&#34;http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start&#34; target=&#34;_blank&#34;&gt;ChibiOS&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
 
