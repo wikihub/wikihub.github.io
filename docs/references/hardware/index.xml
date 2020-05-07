@@ -265,6 +265,144 @@
     </item>
     
     <item>
+      <title>Docs: STM32</title>
+      <link>https://wikihub.github.io/docs/references/hardware/stm32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/stm32/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;embedded-operating-systems&#34;&gt;Embedded Operating Systems&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start&#34; target=&#34;_blank&#34;&gt;ChibiOS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;programming-frameworks&#34;&gt;Programming frameworks&lt;/h1&gt;
+
+&lt;h2 id=&#34;stm32duino-https-github-com-stm32duino-wiki-wiki&#34;&gt;&lt;a href=&#34;https://github.com/stm32duino/wiki/wiki&#34; target=&#34;_blank&#34;&gt;STM32duino&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.arduinolibraries.info/&#34; target=&#34;_blank&#34;&gt;STM32duino libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Communication&#34; target=&#34;_blank&#34;&gt;MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32L475VG-DISCOVERY-IOT/WiFi_MQTT_Adafruit.io&#34; target=&#34;_blank&#34;&gt;WiFi MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32F746NG-DISCOVERY/Ethernet_MQTT_Adafruit.io&#34; target=&#34;_blank&#34;&gt;Ethernet MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mbed-https-os-mbed-com&#34;&gt;&lt;a href=&#34;https://os.mbed.com/&#34; target=&#34;_blank&#34;&gt;Mbed&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/users/hudakz/code/CAN_Hello//file/3211e88e30a5/main.cpp/&#34; target=&#34;_blank&#34;&gt;CAN Hello&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stm32cube-https-www-st-com-en-ecosystems-stm32cube-html&#34;&gt;&lt;a href=&#34;https://www.st.com/en/ecosystems/stm32cube.html&#34; target=&#34;_blank&#34;&gt;STM32Cube&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/STMicroelectronics/STM32CubeF4/tree/b5abca20c9676b04f8d2885a668a9b653ee65705/Projects/STM324xG_EVAL/Examples/CAN/CAN_Networking&#34; target=&#34;_blank&#34;&gt;CAN networking example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;zephyr-https-www-zephyrproject-org&#34;&gt;&lt;a href=&#34;https://www.zephyrproject.org/&#34; target=&#34;_blank&#34;&gt;Zephyr&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.zephyrproject.org/latest/reference/networking/can_api.html&#34; target=&#34;_blank&#34;&gt;CAN API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-drivers-can&#34; target=&#34;_blank&#34;&gt;CAN driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;nuttx-https-nuttx-apache-org&#34;&gt;&lt;a href=&#34;https://nuttx.apache.org/&#34; target=&#34;_blank&#34;&gt;NuttX&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stlink-org/stlink&#34; target=&#34;_blank&#34;&gt;ST Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.playembedded.org/blog/from-0-to-stm32/&#34; target=&#34;_blank&#34;&gt;From 0 to STM32&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stm32cubeprog.html&#34; target=&#34;_blank&#34;&gt;STM32CubeProgrammer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html&#34; target=&#34;_blank&#34;&gt;ST Link Utility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stsw-stm32102.html&#34; target=&#34;_blank&#34;&gt;STM32 Virtual COM Port Driver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stsw-link009.html&#34; target=&#34;_blank&#34;&gt;ST-LINK, ST-LINK/V2, ST-LINK/V2-1 USB driver signed for Windows7, Windows8, Windows10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stsw-stm32080.html&#34; target=&#34;_blank&#34;&gt;DfuSe USB device firmware upgrade STMicroelectronics extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zadig.akeo.ie/&#34; target=&#34;_blank&#34;&gt;Zadig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.keil.com/mdk5/selector&#34; target=&#34;_blank&#34;&gt;ARM Keil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;development-kits&#34;&gt;Development Kits&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stm32-base.org/boards/&#34; target=&#34;_blank&#34;&gt;STM32 base boards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill&#34; target=&#34;_blank&#34;&gt;STM32F103C8T6 - Blue Pill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pjrc.com/teensy-4-0/&#34; target=&#34;_blank&#34;&gt;Teensy 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.sony.com/develop/spresense/&#34; target=&#34;_blank&#34;&gt;Spresense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adafruit.com/product/4177&#34; target=&#34;_blank&#34;&gt;M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;b-l475e-iot01a-discovery-kit-for-iot-node-https-www-st-com-en-evaluation-tools-b-l475e-iot01a-html&#34;&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html&#34; target=&#34;_blank&#34;&gt;B-L475E-IOT01A Discovery kit for IoT node&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html&#34; target=&#34;_blank&#34;&gt;PlatformIO: ST DISCO-L475VG-IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&amp;amp;utm_medium=docs&#34; target=&#34;_blank&#34;&gt;Example projects by PlatformIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/&#34; target=&#34;_blank&#34;&gt;Mbed for ST Discovery L475E-IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html&#34; target=&#34;_blank&#34;&gt;Using thingsboard.io, STM32 B-L475E-IOT01A IoT kit and ARM Mbed to monitor temperature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://innomatic.home.blog/2018/12/24/fixing-b-l475e-iot01a-board-reset-issue/&#34; target=&#34;_blank&#34;&gt;Fixing L475E-IOT01A MB1297 C-01 reset issue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.element14.com/community/roadTestReviews/2543/l/stmicroelectronics-discovery-kit-for-iot-node-review&#34; target=&#34;_blank&#34;&gt;Discovery kit for IoT node review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nomadpgmr/stm32_blink_vs_code&#34; target=&#34;_blank&#34;&gt;B-L475E-IOT01A and Visual Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.edgeimpulse.com/docs/unboxing-the-st-b-l475e-iot01a&#34; target=&#34;_blank&#34;&gt;Edge Impulse for B-L475E-IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Vjmorrison/micropython_B_L475E_IOT01A&#34; target=&#34;_blank&#34;&gt;MicroPython for L475E IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mongoose-os.com/&#34; target=&#34;_blank&#34;&gt;Mongoose OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html&#34; target=&#34;_blank&#34;&gt;ThingsBoard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mouser.ca/applications/stm32l4-kit-iot-node-integrating-google-cloud/&#34; target=&#34;_blank&#34;&gt;Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;stm32f407g-discovery-https-www-st-com-en-evaluation-tools-stm32f4discovery-html&#34;&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/stm32f4discovery.html&#34; target=&#34;_blank&#34;&gt;STM32F407G-DISCOVERY&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&#34;stm32f469idiscovery-https-www-st-com-en-evaluation-tools-32f469idiscovery-html&#34;&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/32f469idiscovery.html&#34; target=&#34;_blank&#34;&gt;STM32F469IDISCOVERY&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&#34;dfu&#34;&gt;DFU&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode&#34; target=&#34;_blank&#34;&gt;Update firmware field using microcontroller DFU mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;mqtt&#34;&gt;MQTT&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ARMmbed/mbed-mqtt&#34; target=&#34;_blank&#34;&gt;Mbed MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ota&#34;&gt;OTA&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gizwits.com/en-us/UserManual/MCUOTA.html&#34; target=&#34;_blank&#34;&gt;Gizwits MCU OTA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;thingsboard&#34;&gt;ThingsBoard&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thingsboard.io/docs/getting-started-guides/helloworld/&#34; target=&#34;_blank&#34;&gt;ThingsBoard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://platformio.org/&#34; target=&#34;_blank&#34;&gt;Platform IO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.platformio.org/en/latest/ide/vscode.html&#34; target=&#34;_blank&#34;&gt;Platform IO on VS Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Internet of Things</title>
       <link>https://wikihub.github.io/docs/references/hardware/iot/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
