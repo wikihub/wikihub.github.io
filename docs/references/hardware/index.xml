@@ -313,6 +313,10 @@
 
 &lt;h2 id=&#34;nuttx-https-nuttx-apache-org&#34;&gt;&lt;a href=&#34;https://nuttx.apache.org/&#34; target=&#34;_blank&#34;&gt;NuttX&lt;/a&gt;&lt;/h2&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can&#34; target=&#34;_blank&#34;&gt;CAN example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
 
 &lt;ul&gt;
