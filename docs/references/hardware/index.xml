@@ -107,6 +107,8 @@
 
 &lt;h1 id=&#34;can-adapters&#34;&gt;CAN Adapters&lt;/h1&gt;
 
+&lt;h2 id=&#34;usb&#34;&gt;USB&lt;/h2&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/candle-usb/candleLight_fw&#34; target=&#34;_blank&#34;&gt;Candle USB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.linklayer.com/index.php/CANtact&#34; target=&#34;_blank&#34;&gt;CANtact&lt;/a&gt;&lt;/li&gt;
@@ -114,6 +116,12 @@
 &lt;li&gt;&lt;a href=&#34;https://www.8devices.com/products/usb2can_korlan&#34; target=&#34;_blank&#34;&gt;USB2CAN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://canusbshop.com/&#34; target=&#34;_blank&#34;&gt;CANUSB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://shop-visionsystems.de/en/140-can-bus&#34; target=&#34;_blank&#34;&gt;Vision Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;wifi&#34;&gt;WiFi&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kvaser.com/product/kvaser-blackbird-v2/&#34; target=&#34;_blank&#34;&gt;Kvaser BlackBird v2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;seeed-technologies&#34;&gt;Seeed Technologies&lt;/h2&gt;
