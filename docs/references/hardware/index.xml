@@ -355,6 +355,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Communication&#34; target=&#34;_blank&#34;&gt;MQTT&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32L475VG-DISCOVERY-IOT/WiFi_MQTT_Adafruit.io&#34; target=&#34;_blank&#34;&gt;WiFi MQTT&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32F746NG-DISCOVERY/Ethernet_MQTT_Adafruit.io&#34; target=&#34;_blank&#34;&gt;Ethernet MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/Arduino_Core_STM32/issues/259&#34; target=&#34;_blank&#34;&gt;No CAN support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;mbed-https-os-mbed-com&#34;&gt;&lt;a href=&#34;https://os.mbed.com/&#34; target=&#34;_blank&#34;&gt;Mbed&lt;/a&gt;&lt;/h2&gt;
