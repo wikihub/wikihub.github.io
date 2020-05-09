@@ -21,6 +21,33 @@
     
     
     <item>
+      <title>Docs: Hardware</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/hardware-autonomousvehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/hardware-autonomousvehicles/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;semiconductor-companies&#34;&gt;Semiconductor companies&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.renesas.com/us/en/support/partners/r-car-consortium/partner.html&#34; target=&#34;_blank&#34;&gt;Renesas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dibotics.com/&#34; target=&#34;_blank&#34;&gt;Dibotics 3D SLAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.outsight.tech/&#34; target=&#34;_blank&#34;&gt;3D semantic camera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Machine Learning</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/machinelearning-autonomousvehicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
