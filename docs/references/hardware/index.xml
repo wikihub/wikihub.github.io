@@ -220,9 +220,11 @@
         
         
 
-&lt;h1 id=&#34;single-board-microcontroller&#34;&gt;Single Board Microcontroller&lt;/h1&gt;
+&lt;h1 id=&#34;single-board-microcontrollers&#34;&gt;Single Board Microcontrollers&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/&#34; target=&#34;_blank&#34;&gt;Mbed platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://platformio.org/boards&#34; target=&#34;_blank&#34;&gt;PlatformIO boards&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_single-board_microcontrollers&#34; target=&#34;_blank&#34;&gt;Comparison of single board microcontrollers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mikroe.com/&#34; target=&#34;_blank&#34;&gt;Mikroe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/&#34; target=&#34;_blank&#34;&gt;u-blox&lt;/a&gt;&lt;/li&gt;
