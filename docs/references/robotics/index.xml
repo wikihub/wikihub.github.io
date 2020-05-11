@@ -509,6 +509,61 @@
     </item>
     
     <item>
+      <title>Docs: RC cars</title>
+      <link>https://wikihub.github.io/docs/references/robotics/rccars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/rccars/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;rc-car&#34;&gt;RC Car&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetsonhacks.com/category/robotics/jetson-racecar/&#34; target=&#34;_blank&#34;&gt;Jetson RC car&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.donkeycar.com/&#34; target=&#34;_blank&#34;&gt;Donkey Car&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://store.donkeycar.com/collections/accessories&#34; target=&#34;_blank&#34;&gt;Donkey Car store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/intel/sawr&#34; target=&#34;_blank&#34;&gt;Simple Autonomous Wheeled Robot (SAWR)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/intro-to-artificial-intelligence/self-driving-rc-car-using-robotic-operating-system-ros-c63a6d102c08&#34; target=&#34;_blank&#34;&gt;Self-driving RC car using Robotic Operating System(ROS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/germain-hug/Autonomous-RC-Car&#34; target=&#34;_blank&#34;&gt;Autonomous RC car by germain-hug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GigaFlopsis/rc_car_ros&#34; target=&#34;_blank&#34;&gt;rc_car_ros with RPLiDAR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RoblabWhGe/rc_bot&#34; target=&#34;_blank&#34;&gt;rc_bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jnazaren.github.io/racecar_project_page/&#34; target=&#34;_blank&#34;&gt;Race car project with Hokuyo LiDAR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linklab-uva.github.io/autonomousracing/&#34; target=&#34;_blank&#34;&gt;F1/10 autonomous racing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;race-car&#34;&gt;Race Car&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.sparkfun.com/tutorials/building-an-autonomous-vehicle-the-batmobile/all&#34; target=&#34;_blank&#34;&gt;Building an autonomous vehicle by SparkFun&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;3d-printed-rc-cars&#34;&gt;3D printed RC cars&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackaday.com/2019/04/09/nearly-entirely-3d-printed-rc-car-is-4wd-fun/&#34; target=&#34;_blank&#34;&gt;Nearly entirely 3D printed RC car&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;open-source-projects&#34;&gt;Open source projects&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/&#34; target=&#34;_blank&#34;&gt;ROSbot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mit-racecar.github.io/hardware/&#34; target=&#34;_blank&#34;&gt;MIT Racecar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mushr.io/&#34; target=&#34;_blank&#34;&gt;MuSHR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://racecarj.com/&#34; target=&#34;_blank&#34;&gt;RACECAR/J&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://f1tenth.org/build.html&#34; target=&#34;_blank&#34;&gt;F1/10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.barc-project.com/&#34; target=&#34;_blank&#34;&gt;BARC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Robotic Algorithms</title>
       <link>https://wikihub.github.io/docs/references/robotics/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
