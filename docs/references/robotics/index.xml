@@ -773,17 +773,6 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/&#34; target=&#34;_blank&#34;&gt;ROSbot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mit-racecar.github.io/hardware/&#34; target=&#34;_blank&#34;&gt;MIT Racecar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mushr.io/&#34; target=&#34;_blank&#34;&gt;MuSHR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://racecarj.com/&#34; target=&#34;_blank&#34;&gt;RACECAR/J&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://f1tenth.org/build.html&#34; target=&#34;_blank&#34;&gt;F1/10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.barc-project.com/&#34; target=&#34;_blank&#34;&gt;BARC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h2 id=&#34;hoverboard-motor&#34;&gt;Hoverboard motor&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -817,30 +806,6 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/ubiquity_motor&#34; target=&#34;_blank&#34;&gt;Ubiquity motor&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97&#34; target=&#34;_blank&#34;&gt;Tune motor responsiveness&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/magni_robot&#34; target=&#34;_blank&#34;&gt;Magni robot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;rc-car&#34;&gt;RC Car&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetsonhacks.com/category/robotics/jetson-racecar/&#34; target=&#34;_blank&#34;&gt;Jetson RC car&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.donkeycar.com/&#34; target=&#34;_blank&#34;&gt;Donkey Car&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.donkeycar.com/collections/accessories&#34; target=&#34;_blank&#34;&gt;Donkey Car store&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/intel/sawr&#34; target=&#34;_blank&#34;&gt;Simple Autonomous Wheeled Robot (SAWR)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/intro-to-artificial-intelligence/self-driving-rc-car-using-robotic-operating-system-ros-c63a6d102c08&#34; target=&#34;_blank&#34;&gt;Self-driving RC car using Robotic Operating System(ROS)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/germain-hug/Autonomous-RC-Car&#34; target=&#34;_blank&#34;&gt;Autonomous RC car by germain-hug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GigaFlopsis/rc_car_ros&#34; target=&#34;_blank&#34;&gt;rc_car_ros with RPLiDAR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/RoblabWhGe/rc_bot&#34; target=&#34;_blank&#34;&gt;rc_bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jnazaren.github.io/racecar_project_page/&#34; target=&#34;_blank&#34;&gt;Race car project with Hokuyo LiDAR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linklab-uva.github.io/autonomousracing/&#34; target=&#34;_blank&#34;&gt;F1/10 autonomous racing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;race-car&#34;&gt;Race Car&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.sparkfun.com/tutorials/building-an-autonomous-vehicle-the-batmobile/all&#34; target=&#34;_blank&#34;&gt;Building an autonomous vehicle by SparkFun&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;legged-robots&#34;&gt;Legged Robots&lt;/h2&gt;
