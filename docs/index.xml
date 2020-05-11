@@ -654,6 +654,12 @@
 &lt;li&gt;Run &lt;code&gt;sudo apt install avahi-daemon libnss-mdns&lt;/code&gt; in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;wifi-adapters&#34;&gt;WiFi Adapters&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2bu&#34; target=&#34;_blank&#34;&gt;rtl88x2bu driver updated for current kernels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;routers&#34;&gt;Routers&lt;/h1&gt;
 
 &lt;h2 id=&#34;linksys&#34;&gt;Linksys&lt;/h2&gt;
