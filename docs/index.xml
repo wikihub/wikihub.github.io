@@ -411,6 +411,7 @@
 &lt;h1 id=&#34;development-boards&#34;&gt;Development boards&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/?q=&amp;amp;Communication=CAN&amp;amp;Target+Core=Cortex-M4&#34; target=&#34;_blank&#34;&gt;Mbed boards with CAN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://direct.nuvoton.com/en/m483-can-series/&#34; target=&#34;_blank&#34;&gt;nuvoTon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
