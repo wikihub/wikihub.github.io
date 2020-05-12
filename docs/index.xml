@@ -1722,6 +1722,22 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: GPS</title>
+      <link>https://wikihub.github.io/docs/references/robotics/gps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/gps/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ardusimple.com/simplertk2b/&#34; target=&#34;_blank&#34;&gt;simpleRTK2B&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Indoor Positioning</title>
       <link>https://wikihub.github.io/docs/references/robotics/indoorpositioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2919,64 +2935,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/Autoware&#34; target=&#34;_blank&#34;&gt;Autoware modified by LG Silicon Valley Lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Agriculture</title>
-      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/agriculture/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/agriculture/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;agriculture&#34;&gt;Agriculture&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futurefarming.com/Machinery/Articles/2017/4/Kubota-launches-auto-steering-for-small-tractors-and-UTVs-902WP/&#34; target=&#34;_blank&#34;&gt;Kubota&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.futurefarming.com/Machinery/Articles/2019/11/21-autonomous-tractor-projects-around-the-world-501448E/&#34; target=&#34;_blank&#34;&gt;21 autonomous tractor projects around the world&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://agriculture.newholland.com/nar/en-us/about-us/whats-up/news-events/2016/new-holland-nh-drive-new-concept-autonomous-tractor&#34; target=&#34;_blank&#34;&gt;New Holland Drive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;agritechnica-2019&#34;&gt;Agritechnica 2019&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.agrointelli.com/&#34; target=&#34;_blank&#34;&gt;Agrointelli&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.uml-tech.com/&#34; target=&#34;_blank&#34;&gt;Commercial Vehicle Intelligent Control&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carre.fr/?lang=en&#34; target=&#34;_blank&#34;&gt;Carre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cognitivepilot.com/&#34; target=&#34;_blank&#34;&gt;Cognitive Pilot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.continental.com/en&#34; target=&#34;_blank&#34;&gt;Continental&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.seedotrun.com/&#34; target=&#34;_blank&#34;&gt;DOT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dronesimaging.com/en&#34; target=&#34;_blank&#34;&gt;Drones Imaging&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://farmdroid.dk/en/welcome/&#34; target=&#34;_blank&#34;&gt;Farmdroid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fons.cz/en/&#34; target=&#34;_blank&#34;&gt;Fons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://frontierconnect.me/&#34; target=&#34;_blank&#34;&gt;Frontier Connect&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.garford.com/&#34; target=&#34;_blank&#34;&gt;Garford&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://general-laser.at/&#34; target=&#34;_blank&#34;&gt;General Laser&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.giulianicylinders.com/&#34; target=&#34;_blank&#34;&gt;Giuliani S.r.l.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.harxon.com/&#34; target=&#34;_blank&#34;&gt;Harxon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hiphen-plant.com/&#34; target=&#34;_blank&#34;&gt;Hiphen Plant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hs-osnabrueck.de/de/kompetenzzentrum-coala/&#34; target=&#34;_blank&#34;&gt;Kompetenzzentrum COALA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jcaelectronics.ca/&#34; target=&#34;_blank&#34;&gt;JCA Electronics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kress-landtechnik.eu/en/index.php&#34; target=&#34;_blank&#34;&gt;K.U.L.T&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.lykketronic.dk/&#34; target=&#34;_blank&#34;&gt;Lykketronic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://machineryguide.hu/index&#34; target=&#34;_blank&#34;&gt;Machinery Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maskor.fh-aachen.de/projects/ETAROB/&#34; target=&#34;_blank&#34;&gt;Aachen ETAROB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.milar.farm/&#34; target=&#34;_blank&#34;&gt;Milar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mobiletronics.net/&#34; target=&#34;_blank&#34;&gt;Mobiletronics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.naio-technologies.com/en/&#34; target=&#34;_blank&#34;&gt;Naïo Technologies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://optronia.com/&#34; target=&#34;_blank&#34;&gt;Optronia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pool-agri.com/&#34; target=&#34;_blank&#34;&gt;Pool agri&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.raussendorf.de/en/index.html&#34; target=&#34;_blank&#34;&gt;Raussendorf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://agrar.uni-hohenheim.de/&#34; target=&#34;_blank&#34;&gt;Universität Hohenheim, faculty of agricultural sciences&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kbs.informatik.uos.de/&#34; target=&#34;_blank&#34;&gt;Universität Osnabrück - Embedded Knowledge-Based Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.verticalworks.eu/&#34; target=&#34;_blank&#34;&gt;Vertical Works&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.xa.com/&#34; target=&#34;_blank&#34;&gt;XAG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
