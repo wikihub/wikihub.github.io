@@ -20,5 +20,46 @@
       
     
     
+    <item>
+      <title>Docs: SysML</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/sysml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/sysml/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sysml.org/&#34; target=&#34;_blank&#34;&gt;SysML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nomagic.com/display/SYSMLP190/Glossary+of+SysML+concepts&#34; target=&#34;_blank&#34;&gt;Glossary of SysML concepts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/papyrus/&#34; target=&#34;_blank&#34;&gt;Papyrus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;robmosys&#34;&gt;RobMoSys&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://robmosys.eu/&#34; target=&#34;_blank&#34;&gt;RoBoMoSys Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/papyrus/components/robotics/&#34; target=&#34;_blank&#34;&gt;Papyrus for Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.eclipse.org/Papyrus/customizations/robotics&#34; target=&#34;_blank&#34;&gt;Papyrus robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;robmosys-simulation&#34;&gt;RobMoSys Simulation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://robmosys.eu/arosys/&#34; target=&#34;_blank&#34;&gt;AROSYS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

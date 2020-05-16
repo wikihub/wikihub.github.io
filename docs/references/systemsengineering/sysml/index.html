@@ -20,25 +20,25 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png"sizes="192x192">
 
-<title>STM32 | WIKIHUB</title><meta property="og:title" content="STM32" />
-<meta property="og:description" content="Resources on STM32" />
+<title>SysML | WIKIHUB</title><meta property="og:title" content="SysML" />
+<meta property="og:description" content="Resources and tools for SysML" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://wikihub.github.io/docs/references/hardware/stm32/" />
-<meta property="article:modified_time" content="2020-05-11T01:41:31-04:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="og:url" content="https://wikihub.github.io/docs/references/systemsengineering/sysml/" />
+<meta property="article:modified_time" content="2020-05-16T13:08:08-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
-<meta itemprop="name" content="STM32">
-<meta itemprop="description" content="Resources on STM32">
+<meta itemprop="name" content="SysML">
+<meta itemprop="description" content="Resources and tools for SysML">
 
 
-<meta itemprop="dateModified" content="2020-05-11T01:41:31-04:00" />
-<meta itemprop="wordCount" content="185">
+<meta itemprop="dateModified" content="2020-05-16T13:08:08-04:00" />
+<meta itemprop="wordCount" content="19">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="STM32"/>
-<meta name="twitter:description" content="Resources on STM32"/>
+<meta name="twitter:title" content="SysML"/>
+<meta name="twitter:description" content="Resources and tools for SysML"/>
 
 
 
@@ -52,7 +52,7 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 
-    <title>STM32 | WIKIHUB</title>
+    <title>SysML | WIKIHUB</title>
   </head>
   <body class="td-page">
     <header>
@@ -456,17 +456,17 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/docs/references/systemsengineering/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Systems Engineering</a>
+    <a  href="/docs/references/systemsengineering/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Systems Engineering</a>
   </li>
   <ul>
-    <li class="collapse " id="docs-references-systemsengineering">
+    <li class="collapse show" id="docs-references-systemsengineering">
       
       
       
       
       
       
-      <a class="td-sidebar-link td-sidebar-link__page " id="m-docs-references-systemsengineering-sysml" href="/docs/references/systemsengineering/sysml/">SysML</a>
+      <a class="td-sidebar-link td-sidebar-link__page  active" id="m-docs-references-systemsengineering-sysml" href="/docs/references/systemsengineering/sysml/">SysML</a>
       
       
     </li>
@@ -485,10 +485,10 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/docs/references/hardware/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Hardware</a>
+    <a  href="/docs/references/hardware/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Hardware</a>
   </li>
   <ul>
-    <li class="collapse show" id="docs-references-hardware">
+    <li class="collapse " id="docs-references-hardware">
       
       
       
@@ -537,7 +537,7 @@
       
       
       
-      <a class="td-sidebar-link td-sidebar-link__page  active" id="m-docs-references-hardware-stm32" href="/docs/references/hardware/stm32/">STM32</a>
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-docs-references-hardware-stm32" href="/docs/references/hardware/stm32/">STM32</a>
       
       
       
@@ -1075,8 +1075,8 @@
 <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
 
 
-<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/Hardware/STM32.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
-<a href="https://github.com/wikihub/wikihub-website/issues/new?title=STM32" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
+<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/SystemsEngineering/SysML.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/wikihub/wikihub-website/issues/new?title=SysML" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
 </div>
 
 
@@ -1086,29 +1086,14 @@
 
 <nav id="TableOfContents">
 <ul>
-<li><a href="#programming-frameworks">Programming frameworks</a>
+<li><a href="#references">References</a></li>
+<li><a href="#tools">Tools</a>
 <ul>
-<li><a href="#stm32duino-https-github-com-stm32duino-wiki-wiki"><a href="https://github.com/stm32duino/wiki/wiki" target="_blank">STM32duino</a></a></li>
-<li><a href="#mbed-https-os-mbed-com"><a href="https://os.mbed.com/" target="_blank">Mbed</a></a></li>
-<li><a href="#stm32cube-https-www-st-com-en-ecosystems-stm32cube-html"><a href="https://www.st.com/en/ecosystems/stm32cube.html" target="_blank">STM32Cube</a></a></li>
-<li><a href="#zephyr-https-www-zephyrproject-org"><a href="https://www.zephyrproject.org/" target="_blank">Zephyr</a></a></li>
-<li><a href="#nuttx-https-nuttx-apache-org"><a href="https://nuttx.apache.org/" target="_blank">NuttX</a></a></li>
-<li><a href="#chibios-http-www-chibios-org-dokuwiki-doku-php-id-chibios-product-start"><a href="http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start" target="_blank">ChibiOS</a></a></li>
+<li><a href="#robmosys">RobMoSys</a>
+<ul>
+<li><a href="#robmosys-simulation">RobMoSys Simulation</a></li>
 </ul></li>
-<li><a href="#tutorials">Tutorials</a></li>
-<li><a href="#tools">Tools</a></li>
-<li><a href="#emulators">Emulators</a></li>
-<li><a href="#development-kits">Development Kits</a></li>
-<li><a href="#b-l475e-iot01a-discovery-kit-for-iot-node-https-www-st-com-en-evaluation-tools-b-l475e-iot01a-html"><a href="https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html" target="_blank">B-L475E-IOT01A Discovery kit for IoT node</a></a></li>
-<li><a href="#stm32f407g-discovery-https-www-st-com-en-evaluation-tools-stm32f4discovery-html"><a href="https://www.st.com/en/evaluation-tools/stm32f4discovery.html" target="_blank">STM32F407G-DISCOVERY</a></a></li>
-<li><a href="#stm32f469idiscovery-https-www-st-com-en-evaluation-tools-32f469idiscovery-html"><a href="https://www.st.com/en/evaluation-tools/32f469idiscovery.html" target="_blank">STM32F469IDISCOVERY</a></a></li>
-<li><a href="#dfu">DFU</a></li>
-<li><a href="#ethernet">Ethernet</a></li>
-<li><a href="#mqtt">MQTT</a></li>
-<li><a href="#ota">OTA</a></li>
-<li><a href="#thingsboard">ThingsBoard</a></li>
-<li><a href="#ide">IDE</a></li>
-<li><a href="#frameworks">Frameworks</a></li>
+</ul></li>
 </ul>
 </nav>
 
@@ -1147,14 +1132,14 @@
 
 
 <li class="breadcrumb-item" >
-	<a href="https://wikihub.github.io/docs/references/hardware/">Hardware</a>
+	<a href="https://wikihub.github.io/docs/references/systemsengineering/">Systems Engineering</a>
 </li>
 
 
 
 
 <li class="breadcrumb-item active" aria-current="page">
-	<a href="https://wikihub.github.io/docs/references/hardware/stm32/">STM32</a>
+	<a href="https://wikihub.github.io/docs/references/systemsengineering/sysml/">SysML</a>
 </li>
 
 	</ol>
@@ -1162,150 +1147,35 @@
 
             
 <div class="td-content">
-	<h1>STM32</h1>
-	<div class="lead">Resources on STM32</div>
+	<h1>SysML</h1>
+	<div class="lead">Resources and tools for SysML</div>
 	
 
-<h1 id="programming-frameworks">Programming frameworks</h1>
-
-<h2 id="stm32duino-https-github-com-stm32duino-wiki-wiki"><a href="https://github.com/stm32duino/wiki/wiki" target="_blank">STM32duino</a></h2>
+<h1 id="references">References</h1>
 
 <ul>
-<li><a href="https://www.arduinolibraries.info/" target="_blank">STM32duino libraries</a></li>
-<li><a href="https://github.com/stm32duino/STM32Examples/tree/master/examples/Communication" target="_blank">MQTT</a></li>
-<li><a href="https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32L475VG-DISCOVERY-IOT/WiFi_MQTT_Adafruit.io" target="_blank">WiFi MQTT</a></li>
-<li><a href="https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32F746NG-DISCOVERY/Ethernet_MQTT_Adafruit.io" target="_blank">Ethernet MQTT</a></li>
-<li><a href="https://github.com/stm32duino/Arduino_Core_STM32/issues/259" target="_blank">No CAN support</a></li>
-</ul>
-
-<h2 id="mbed-https-os-mbed-com"><a href="https://os.mbed.com/" target="_blank">Mbed</a></h2>
-
-<ul>
-<li><a href="https://os.mbed.com/users/hudakz/code/CAN_Hello//file/3211e88e30a5/main.cpp/" target="_blank">CAN Hello</a></li>
-</ul>
-
-<h2 id="stm32cube-https-www-st-com-en-ecosystems-stm32cube-html"><a href="https://www.st.com/en/ecosystems/stm32cube.html" target="_blank">STM32Cube</a></h2>
-
-<ul>
-<li><a href="https://github.com/STMicroelectronics/STM32CubeF4/tree/b5abca20c9676b04f8d2885a668a9b653ee65705/Projects/STM324xG_EVAL/Examples/CAN/CAN_Networking" target="_blank">CAN networking example</a></li>
-</ul>
-
-<h2 id="zephyr-https-www-zephyrproject-org"><a href="https://www.zephyrproject.org/" target="_blank">Zephyr</a></h2>
-
-<ul>
-<li><a href="https://docs.zephyrproject.org/latest/reference/networking/can_api.html" target="_blank">CAN API</a></li>
-<li><a href="https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-drivers-can" target="_blank">CAN driver</a></li>
-</ul>
-
-<h2 id="nuttx-https-nuttx-apache-org"><a href="https://nuttx.apache.org/" target="_blank">NuttX</a></h2>
-
-<ul>
-<li><a href="https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can" target="_blank">CAN example</a></li>
-</ul>
-
-<h2 id="chibios-http-www-chibios-org-dokuwiki-doku-php-id-chibios-product-start"><a href="http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start" target="_blank">ChibiOS</a></h2>
-
-<ul>
-<li><a href="https://www.playembedded.org" target="_blank">Play Embedded</a></li>
-</ul>
-
-<h1 id="tutorials">Tutorials</h1>
-
-<ul>
-<li><a href="https://www.playembedded.org/blog/from-0-to-stm32/" target="_blank">From 0 to STM32</a></li>
+<li><a href="https://sysml.org/" target="_blank">SysML</a></li>
+<li><a href="https://docs.nomagic.com/display/SYSMLP190/Glossary+of+SysML+concepts" target="_blank">Glossary of SysML concepts</a></li>
 </ul>
 
 <h1 id="tools">Tools</h1>
 
 <ul>
-<li><a href="https://github.com/stlink-org/stlink" target="_blank">ST Link</a></li>
-<li><a href="https://www.st.com/en/development-tools/stm32cubeprog.html" target="_blank">STM32CubeProgrammer</a></li>
-<li><a href="https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html" target="_blank">ST Link Utility</a></li>
-<li><a href="https://www.st.com/en/development-tools/stsw-stm32102.html" target="_blank">STM32 Virtual COM Port Driver</a></li>
-<li><a href="https://www.st.com/en/development-tools/stsw-link009.html" target="_blank">ST-LINK, ST-LINK/V2, ST-LINK/V2-1 USB driver signed for Windows7, Windows8, Windows10</a></li>
-<li><a href="https://www.st.com/en/development-tools/stsw-stm32080.html" target="_blank">DfuSe USB device firmware upgrade STMicroelectronics extension</a></li>
-<li><a href="https://zadig.akeo.ie/" target="_blank">Zadig</a></li>
-<li><a href="http://www2.keil.com/mdk5/selector" target="_blank">ARM Keil</a></li>
+<li><a href="https://www.eclipse.org/papyrus/" target="_blank">Papyrus</a></li>
 </ul>
 
-<h1 id="emulators">Emulators</h1>
+<h2 id="robmosys">RobMoSys</h2>
 
 <ul>
-<li><a href="http://beckus.github.io/qemu_stm32/" target="_blank">QEMU STM32</a></li>
+<li><a href="https://robmosys.eu/" target="_blank">RoBoMoSys Project</a></li>
+<li><a href="https://www.eclipse.org/papyrus/components/robotics/" target="_blank">Papyrus for Robotics</a></li>
+<li><a href="https://wiki.eclipse.org/Papyrus/customizations/robotics" target="_blank">Papyrus robotics</a></li>
 </ul>
 
-<h1 id="development-kits">Development Kits</h1>
+<h3 id="robmosys-simulation">RobMoSys Simulation</h3>
 
 <ul>
-<li><a href="https://stm32-base.org/boards/" target="_blank">STM32 base boards</a></li>
-<li><a href="https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill" target="_blank">STM32F103C8T6 - Blue Pill</a></li>
-<li><a href="https://www.pjrc.com/teensy-4-0/" target="_blank">Teensy 4.0</a></li>
-<li><a href="https://developer.sony.com/develop/spresense/" target="_blank">Spresense</a></li>
-<li><a href="https://www.adafruit.com/product/4177" target="_blank">M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150</a></li>
-</ul>
-
-<h1 id="b-l475e-iot01a-discovery-kit-for-iot-node-https-www-st-com-en-evaluation-tools-b-l475e-iot01a-html"><a href="https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html" target="_blank">B-L475E-IOT01A Discovery kit for IoT node</a></h1>
-
-<ul>
-<li><a href="https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html" target="_blank">PlatformIO: ST DISCO-L475VG-IOT01A</a></li>
-<li><a href="https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&amp;utm_medium=docs" target="_blank">Example projects by PlatformIO</a></li>
-<li><a href="https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/" target="_blank">Mbed for ST Discovery L475E-IOT01A</a></li>
-<li><a href="https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html" target="_blank">Using thingsboard.io, STM32 B-L475E-IOT01A IoT kit and ARM Mbed to monitor temperature</a></li>
-<li><a href="https://innomatic.home.blog/2018/12/24/fixing-b-l475e-iot01a-board-reset-issue/" target="_blank">Fixing L475E-IOT01A MB1297 C-01 reset issue</a></li>
-<li><a href="https://www.element14.com/community/roadTestReviews/2543/l/stmicroelectronics-discovery-kit-for-iot-node-review" target="_blank">Discovery kit for IoT node review</a></li>
-<li><a href="https://github.com/nomadpgmr/stm32_blink_vs_code" target="_blank">B-L475E-IOT01A and Visual Studio</a></li>
-<li><a href="https://docs.edgeimpulse.com/docs/unboxing-the-st-b-l475e-iot01a" target="_blank">Edge Impulse for B-L475E-IOT01A</a></li>
-<li><a href="https://github.com/Vjmorrison/micropython_B_L475E_IOT01A" target="_blank">MicroPython for L475E IOT01A</a></li>
-<li><a href="https://mongoose-os.com/" target="_blank">Mongoose OS</a></li>
-<li><a href="https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html" target="_blank">ThingsBoard</a></li>
-<li><a href="https://www.mouser.ca/applications/stm32l4-kit-iot-node-integrating-google-cloud/" target="_blank">Google Cloud Platform</a></li>
-</ul>
-
-<h1 id="stm32f407g-discovery-https-www-st-com-en-evaluation-tools-stm32f4discovery-html"><a href="https://www.st.com/en/evaluation-tools/stm32f4discovery.html" target="_blank">STM32F407G-DISCOVERY</a></h1>
-
-<h1 id="stm32f469idiscovery-https-www-st-com-en-evaluation-tools-32f469idiscovery-html"><a href="https://www.st.com/en/evaluation-tools/32f469idiscovery.html" target="_blank">STM32F469IDISCOVERY</a></h1>
-
-<h1 id="dfu">DFU</h1>
-
-<ul>
-<li><a href="https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode" target="_blank">Update firmware field using microcontroller DFU mode</a></li>
-</ul>
-
-<h1 id="ethernet">Ethernet</h1>
-
-<ul>
-<li><a href="https://github.com/stm32duino/STM32Ethernet" target="_blank">STM32 Ethernet</a></li>
-</ul>
-
-<h1 id="mqtt">MQTT</h1>
-
-<ul>
-<li><a href="https://github.com/ARMmbed/mbed-mqtt" target="_blank">Mbed MQTT</a></li>
-</ul>
-
-<h1 id="ota">OTA</h1>
-
-<ul>
-<li><a href="https://docs.gizwits.com/en-us/UserManual/MCUOTA.html" target="_blank">Gizwits MCU OTA</a></li>
-</ul>
-
-<h1 id="thingsboard">ThingsBoard</h1>
-
-<ul>
-<li><a href="https://thingsboard.io/docs/getting-started-guides/helloworld/" target="_blank">ThingsBoard</a></li>
-</ul>
-
-<h1 id="ide">IDE</h1>
-
-<ul>
-<li><a href="https://platformio.org/" target="_blank">Platform IO</a></li>
-<li><a href="https://docs.platformio.org/en/latest/ide/vscode.html" target="_blank">Platform IO on VS Code</a></li>
-</ul>
-
-<h1 id="frameworks">Frameworks</h1>
-
-<ul>
-<li><a href="https://www.basicpi.org/documentation/easyipc/" target="_blank">easyIPC</a></li>
+<li><a href="https://robmosys.eu/arosys/" target="_blank">AROSYS</a></li>
 </ul>
 
 	
@@ -1368,7 +1238,7 @@
 </script>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 11.05.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/06c2e446bd4dfea930b3df51fe14d1a121c98009">Update STM32.md (06c2e446)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 16.05.2020: <a  href="https://github.com/wikihub/wikihub-website/commit/e6bb46a2552e8ba45c0ea99b9ddbeaa380af1dc3">Create SysML.md (e6bb46a2)</a>
 </div>
 </div>
 
