@@ -147,6 +147,22 @@
     </item>
     
     <item>
+      <title>Docs: Cyber-Physical Systems</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/cps/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INTO-CPS-Association&#34; target=&#34;_blank&#34;&gt;The INTO-CPS Association&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: SysML</title>
       <link>https://wikihub.github.io/docs/references/systemsengineering/sysml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3043,41 +3059,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/yonohub/waymo-open-dataset-on-yonohub-part-1-c196b5bd7ed7&#34; target=&#34;_blank&#34;&gt;Waymo Dataset— Using Yonohub to develop, evaluate and benchmark over the cloud&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/waymo-research&#34; target=&#34;_blank&#34;&gt;Waymo Research&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://yonohub.com/&#34; target=&#34;_blank&#34;&gt;Yonohub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Dataspeed</title>
-      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/dataspeed/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/dataspeed/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;dataspeed-https-www-dataspeedinc-com&#34;&gt;&lt;a href=&#34;https://www.dataspeedinc.com/&#34; target=&#34;_blank&#34;&gt;Dataspeed&lt;/a&gt;&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autoware/&#34; target=&#34;_blank&#34;&gt;Autoware&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/apollo/&#34; target=&#34;_blank&#34;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/robotics/ros/&#34; target=&#34;_blank&#34;&gt;ROS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mathworks.com/products/automated-driving.html&#34; target=&#34;_blank&#34;&gt;MATLAB/Simulink&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/DataspeedInc/profile/projects&#34; target=&#34;_blank&#34;&gt;Dataspeed Bitbucket&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;simulation&#34;&gt;Simulation&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/DataspeedInc/dataspeed_dbw_simulation/src/master/&#34; target=&#34;_blank&#34;&gt;DBW Simulation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
