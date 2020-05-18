@@ -38,6 +38,12 @@
 &lt;li&gt;&lt;a href=&#34;https://jupyter4edu.github.io/jupyter-edu-book/&#34; target=&#34;_blank&#34;&gt;Book: Teaching and Learning with Jupyter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jupyterbook.org/intro.html&#34; target=&#34;_blank&#34;&gt;Jupyter Book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;notebook-tools&#34;&gt;Notebook Tools&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -55,6 +61,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/fastai/numerical-linear-algebra&#34; target=&#34;_blank&#34;&gt;Numerical Linear Algebra by FastAI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sisl/algforopt-notebooks&#34; target=&#34;_blank&#34;&gt;Algorithms for Optimization&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
