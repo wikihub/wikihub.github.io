@@ -2561,6 +2561,22 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Serverless</title>
+      <link>https://wikihub.github.io/docs/references/software/serverless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/serverless/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openfaas.com/&#34; target=&#34;_blank&#34;&gt;OpenFaaS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Simulation</title>
       <link>https://wikihub.github.io/docs/references/software/simulation/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
@@ -3048,24 +3064,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://elinux.org/CAN_Bus&#34; target=&#34;_blank&#34;&gt;CAN bus on embedded Linux&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Waymo</title>
-      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/waymo/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/waymo/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/yonohub/waymo-open-dataset-on-yonohub-part-1-c196b5bd7ed7&#34; target=&#34;_blank&#34;&gt;Waymo Dataset— Using Yonohub to develop, evaluate and benchmark over the cloud&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/waymo-research&#34; target=&#34;_blank&#34;&gt;Waymo Research&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://yonohub.com/&#34; target=&#34;_blank&#34;&gt;Yonohub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
