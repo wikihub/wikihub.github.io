@@ -55,6 +55,7 @@
 &lt;li&gt;&lt;a href=&#34;https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54&#34; target=&#34;_blank&#34;&gt;Jupyter extensions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://binderhub.readthedocs.io/en/latest/zero-to-binderhub/index.html#zero-to-binderhub&#34; target=&#34;_blank&#34;&gt;Zero to Binderhub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html#customization-guide&#34; target=&#34;_blank&#34;&gt;Zero to JupyterHub with Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nbsphinx.readthedocs.io/en/0.7.0/&#34; target=&#34;_blank&#34;&gt;Jupyter Notebook Tools for Sphinx&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;textbooks&#34;&gt;Textbooks&lt;/h1&gt;
