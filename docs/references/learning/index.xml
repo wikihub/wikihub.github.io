@@ -20,5 +20,38 @@
       
     
     
+    <item>
+      <title>Docs: Notebooks</title>
+      <link>https://wikihub.github.io/docs/references/learning/notebooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/learning/notebooks/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.jupyter.org/teaching-and-learning-with-jupyter-c1d965f7b93a&#34; target=&#34;_blank&#34;&gt;Jupyter for Education&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;notebook-tools&#34;&gt;Notebook Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nteract.io/&#34; target=&#34;_blank&#34;&gt;nteract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nteract&#34; target=&#34;_blank&#34;&gt;nteract on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://semiotic.nteract.io/&#34; target=&#34;_blank&#34;&gt;Semiotic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nteract/commuter&#34; target=&#34;_blank&#34;&gt;Commuter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/binder-examples/&#34; target=&#34;_blank&#34;&gt;Mybinder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54&#34; target=&#34;_blank&#34;&gt;Jupyter extensions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://binderhub.readthedocs.io/en/latest/zero-to-binderhub/index.html#zero-to-binderhub&#34; target=&#34;_blank&#34;&gt;Zero to Binderhub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html#customization-guide&#34; target=&#34;_blank&#34;&gt;Zero to JupyterHub with Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
