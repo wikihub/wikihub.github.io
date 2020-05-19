@@ -112,10 +112,31 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://plantuml.com/&#34; target=&#34;_blank&#34;&gt;PlantUML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;style&#34;&gt;Style&lt;/h2&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://bschwarz.github.io/puml-themes/&#34; target=&#34;_blank&#34;&gt;PlantUML Themes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/isaaceindhoven/plantuml-styler&#34; target=&#34;_blank&#34;&gt;PlantUML Styler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;online&#34;&gt;Online&lt;/h2&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.planttext.com/&#34; target=&#34;_blank&#34;&gt;PlantText&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://liveuml.com/&#34; target=&#34;_blank&#34;&gt;LiveUML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pinetr2e/napkin&#34; target=&#34;_blank&#34;&gt;Napkin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://real-world-plantuml.com/?type=component&#34; target=&#34;_blank&#34;&gt;Real world PlantUML diagrams&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
