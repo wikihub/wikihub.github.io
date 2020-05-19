@@ -42,6 +42,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://jupyterbook.org/intro.html&#34; target=&#34;_blank&#34;&gt;Jupyter Book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ipypublish.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;iPyPublish&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;notebook-tools&#34;&gt;Notebook Tools&lt;/h1&gt;
