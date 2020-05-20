@@ -111,7 +111,11 @@
 &lt;h1 id=&#34;uml&#34;&gt;UML&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://plantuml.com/&#34; target=&#34;_blank&#34;&gt;PlantUML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantuml.com/&#34; target=&#34;_blank&#34;&gt;PlantUML&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantuml.com/command-line&#34; target=&#34;_blank&#34;&gt;command line&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;style&#34;&gt;Style&lt;/h2&gt;
