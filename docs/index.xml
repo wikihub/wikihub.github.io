@@ -34,6 +34,41 @@
     </item>
     
     <item>
+      <title>Docs: Autonomous Racing</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autonomousracing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autonomousracing/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;races&#34;&gt;Races&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://driverless.amzracing.ch/en/home&#34; target=&#34;_blank&#34;&gt;AMZ Deriverless&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;go-karts&#34;&gt;Go Karts&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://polybox.ethz.ch/index.php/s/cs2QXrVWPLyk8up&#34; target=&#34;_blank&#34;&gt;Autonomous Go Kart Racing at ETHZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/idsc-frazzoli/kartsim/tree/master/src&#34; target=&#34;_blank&#34;&gt;Kartsim by ETHZ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;rc-cars&#34;&gt;RC cars&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QWY7sV9sjkA&#34; target=&#34;_blank&#34;&gt;ORCA - ETHZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linklab-uva.github.io/autonomousracing/&#34; target=&#34;_blank&#34;&gt;F1/10 autonomous racing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/deepracer/&#34; target=&#34;_blank&#34;&gt;DeepRacer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Hardware</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/hardware-autonomousvehicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3144,45 +3179,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/azu/mdline&#34; target=&#34;_blank&#34;&gt;mdline&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://mermaidjs.github.io/&#34; target=&#34;_blank&#34;&gt;mermaid&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Startups</title>
-      <link>https://wikihub.github.io/docs/references/smallbusiness/startups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/smallbusiness/startups/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;ontario&#34;&gt;Ontario&lt;/h1&gt;
-
-&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.growthpartners.ca/&#34; target=&#34;_blank&#34;&gt;Growth Partners&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;campus-linked-accelerators&#34;&gt;Campus-Linked Accelerators&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/&#34; target=&#34;_blank&#34;&gt;Design Fabrication Zone&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/portfolio/taiga-robotics/&#34; target=&#34;_blank&#34;&gt;Taiga Robotics&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;china&#34;&gt;China&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cc-angels.com/wp/&#34; target=&#34;_blank&#34;&gt;China Canada Angels Alliance&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
