@@ -42,7 +42,15 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://jupyterbook.org/intro.html&#34; target=&#34;_blank&#34;&gt;Jupyter Book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ipypublish.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;iPyPublish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ipypublish.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;iPyPublish&lt;/a&gt;e&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;running-jupyter-servers&#34;&gt;Running Jupyter Servers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/jupyterhub&#34; target=&#34;_blank&#34;&gt;JupyterHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/the-littlest-jupyterhub&#34; target=&#34;_blank&#34;&gt;The littlest JuperHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/zero-to-jupyterhub-k8s&#34; target=&#34;_blank&#34;&gt;Zero to JupyterHub k8s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;notebook-tools&#34;&gt;Notebook Tools&lt;/h1&gt;
