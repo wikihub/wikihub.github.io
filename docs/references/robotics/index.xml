@@ -46,6 +46,12 @@
 &lt;li&gt;&lt;a href=&#34;https://www.rocos.io/&#34; target=&#34;_blank&#34;&gt;Rocos&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;kubernetes-for-robotics&#34;&gt;Kubernetes for Robotics&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://googlecloudrobotics.github.io/core/how-to/running-ros-node.html&#34; target=&#34;_blank&#34;&gt;Cloud Robotics Core: Kubernetes, Federation, App Management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
