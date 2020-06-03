@@ -847,6 +847,22 @@
 &lt;li&gt;&lt;a href=&#34;https://www.dfrobot.com/product-1727.html&#34; target=&#34;_blank&#34;&gt;LattePanda Alpha 800s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;machine-learning-on-microcontrollers&#34;&gt;Machine Learning on Microcontrollers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/content/st_com/en/stm32-ann.html&#34; target=&#34;_blank&#34;&gt;STM32Cube.AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3cD9bpfX9FA&amp;amp;feature=emb_title&#34; target=&#34;_blank&#34;&gt;Xnor AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/majianjia/nnom&#34; target=&#34;_blank&#34;&gt;nnom&lt;/a&gt; - A higher-level Neural Network library for microcontrollers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/correlllab/nn4mp&#34; target=&#34;_blank&#34;&gt;nn4mp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/ELL&#34; target=&#34;_blank&#34;&gt;Embedded Learning Library (ELL)&lt;/a&gt; - Microsoft&amp;rsquo;s library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk&#34; target=&#34;_blank&#34;&gt;Qualcomm Neural Processing SDK for AI&lt;/a&gt; - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arm-software.github.io/CMSIS_5/NN/html/index.html&#34; target=&#34;_blank&#34;&gt;CMSIS NN&lt;/a&gt; - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.arm.com/technologies/compute-library&#34; target=&#34;_blank&#34;&gt;ARM Compute Library&lt;/a&gt; - Set of optimized functions for image processing, computer vision, and machine learning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/uTensor/uTensor&#34; target=&#34;_blank&#34;&gt;uTensor&lt;/a&gt; - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/boralt/EmbeddedAI&#34; target=&#34;_blank&#34;&gt;EmbededAI&lt;/a&gt; - A library that provides elements of AI to C++ applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/attractivechaos/kann&#34; target=&#34;_blank&#34;&gt;kann&lt;/a&gt; - A lightweight C library for artificial neural networks&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;automotive-computers&#34;&gt;Automotive Computers&lt;/h1&gt;
 
 &lt;ul&gt;
