@@ -153,5 +153,25 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: Technical Writing</title>
+      <link>https://wikihub.github.io/docs/references/learning/technicalwriting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/learning/technicalwriting/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.writethedocs.org/guide/&#34; target=&#34;_blank&#34;&gt;Write the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
