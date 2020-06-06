@@ -1264,6 +1264,7 @@
 &lt;li&gt;&lt;a href=&#34;https://kind.sigs.k8s.io/&#34; target=&#34;_blank&#34;&gt;kind&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/k8s-device-plugin&#34; target=&#34;_blank&#34;&gt;K8s device plugin by NVIDIA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34; target=&#34;_blank&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/&#34; target=&#34;_blank&#34;&gt;kubectl for Docker users&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
