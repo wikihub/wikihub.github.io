@@ -110,6 +110,7 @@
 &lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://create-react-app.dev/&#34; target=&#34;_blank&#34;&gt;Set up a modern web app by running one command.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34; target=&#34;_blank&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://blueprintjs.com/&#34; target=&#34;_blank&#34;&gt;Blueprint&lt;/a&gt; - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/dvajs/dva&#34; target=&#34;_blank&#34;&gt;dva&lt;/a&gt; - React and Redux based, lightweight and Elm-style framework.&lt;/li&gt;
