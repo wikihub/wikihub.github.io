@@ -1527,6 +1527,22 @@
     </item>
     
     <item>
+      <title>Docs: R</title>
+      <link>https://wikihub.github.io/docs/references/software/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/r/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/plumber&#34; target=&#34;_blank&#34;&gt;Plumber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Machine Learning</title>
       <link>https://wikihub.github.io/docs/references/software/machinelearning/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -3205,40 +3221,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://alligator.io/angular/angular-pwa/&#34; target=&#34;_blank&#34;&gt;Intro to Progressive Web Apps (PWAs) in Angular&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: React</title>
-      <link>https://wikihub.github.io/docs/references/software/webdevelopment/react/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/react/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://create-react-app.dev/&#34; target=&#34;_blank&#34;&gt;Set up a modern web app by running one command.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34; target=&#34;_blank&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blueprintjs.com/&#34; target=&#34;_blank&#34;&gt;Blueprint&lt;/a&gt; - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dvajs/dva&#34; target=&#34;_blank&#34;&gt;dva&lt;/a&gt; - React and Redux based, lightweight and Elm-style framework.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.electrode.io/&#34; target=&#34;_blank&#34;&gt;Electrode&lt;/a&gt; - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://elemental-ui.com/&#34; target=&#34;_blank&#34;&gt;Elemental UI&lt;/a&gt; - A UI Toolkit for React.js Websites and Apps.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getessence.io&#34; target=&#34;_blank&#34;&gt;Essence&lt;/a&gt; - The Essential Material Design Framework.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://grommet.github.io/&#34; target=&#34;_blank&#34;&gt;Grommet&lt;/a&gt; - The most advanced UX framework for enterprise applications.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/streamich/libreact&#34; target=&#34;_blank&#34;&gt;libreact&lt;/a&gt; - a collection of most essential React utilities you will probably need in any project.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.material-ui.com/&#34; target=&#34;_blank&#34;&gt;Material-UI&lt;/a&gt; - A Set of React Components that Implement Google&amp;rsquo;s Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://react-md.mlaursen.com/&#34; target=&#34;_blank&#34;&gt;react-md&lt;/a&gt; - A set of React components and sass files for implementing Google&amp;rsquo;s Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://react-mdl.github.io/react-mdl/&#34; target=&#34;_blank&#34;&gt;React-MDL&lt;/a&gt; - A set of React components build on top of Material Design Lite.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://react-toolbox.com&#34; target=&#34;_blank&#34;&gt;React Toolbox&lt;/a&gt; - A set of React components that implement Google&amp;rsquo;s Material Design specification.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/reactxp/&#34; target=&#34;_blank&#34;&gt;ReactXP&lt;/a&gt; - A library for cross-platform app development using React and React Native.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34; target=&#34;_blank&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
