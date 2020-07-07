@@ -21,11 +21,11 @@
     
     
     <item>
-      <title>Docs: Mobile Applications</title>
-      <link>https://wikihub.github.io/docs/references/software/webdevelopment/mobileapps/</link>
+      <title>Docs: Web Applications</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/mobileapps/</guid>
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/apps/</guid>
       <description>
         
         
@@ -38,6 +38,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Neha/gatsbyjs-codelab&#34; target=&#34;_blank&#34;&gt;Gatsby Codelab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/himalay/himalay.github.io/blob/develop/.github/workflows/workflow.yml&#34; target=&#34;_blank&#34;&gt;GitHub Action for Gatsby&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -54,7 +55,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/themes/&#34; target=&#34;_blank&#34;&gt;Jekyll themes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pages.gitlab.io/gitbook/&#34; target=&#34;_blank&#34;&gt;Gitbook&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.gitlab.io/gitbook/&#34; target=&#34;_blank&#34;&gt;Gitbook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
