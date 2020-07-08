@@ -323,9 +323,12 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://cloose.github.io/CuteMarkEd/&#34; target=&#34;_blank&#34;&gt;CuteMarkEd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hallojs.org/&#34; target=&#34;_blank&#34;&gt;Hallo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://strapdownjs.com/&#34; target=&#34;_blank&#34;&gt;Strapdownjs&lt;/a&gt; - &lt;a href=&#34;https://gist.github.com/memeplex/6309540&#34; target=&#34;_blank&#34;&gt;Mathjax support with conflict&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://strapdownjs.com/&#34; target=&#34;_blank&#34;&gt;Strapdownjs&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/memeplex/6309540&#34; target=&#34;_blank&#34;&gt;Mathjax support with conflict&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.texts.io/&#34; target=&#34;_blank&#34;&gt;Texts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackedit.io&#34; target=&#34;_blank&#34;&gt;StackEdit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pad.haroopress.com/&#34; target=&#34;_blank&#34;&gt;Haroo Pad&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://dillinger.io/&#34; target=&#34;_blank&#34;&gt;Dillinger&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://draftin.com&#34; target=&#34;_blank&#34;&gt;Draftin&lt;/a&gt;&lt;/li&gt;
@@ -347,6 +350,7 @@ package&lt;/a&gt;&lt;/li&gt;
 &lt;h1 id=&#34;online-editors&#34;&gt;Online Editors&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackedit.io&#34; target=&#34;_blank&#34;&gt;StackEdit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://firepad.io/&#34; target=&#34;_blank&#34;&gt;Firepad&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://hackmd.io/&#34; target=&#34;_blank&#34;&gt;Hackmd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://socrates.io&#34; target=&#34;_blank&#34;&gt;Socrates&lt;/a&gt;&lt;/li&gt;
