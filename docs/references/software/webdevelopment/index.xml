@@ -214,8 +214,6 @@
         
         
 
-&lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://create-react-app.dev/&#34; target=&#34;_blank&#34;&gt;Set up a modern web app by running one command.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34; target=&#34;_blank&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
@@ -232,6 +230,12 @@
 &lt;li&gt;&lt;a href=&#34;http://react-toolbox.com&#34; target=&#34;_blank&#34;&gt;React Toolbox&lt;/a&gt; - A set of React components that implement Google&amp;rsquo;s Material Design specification.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/reactxp/&#34; target=&#34;_blank&#34;&gt;ReactXP&lt;/a&gt; - A library for cross-platform app development using React and React Native.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34; target=&#34;_blank&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;deploy&#34;&gt;Deploy&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rafgraph/spa-github-pages&#34; target=&#34;_blank&#34;&gt;Single Page Apps for GitHub Pages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
