@@ -3296,28 +3296,20 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Docs: CMS</title>
-      <link>https://wikihub.github.io/docs/references/software/webdevelopment/cms/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Docs: Authentication</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/auth/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/cms/</guid>
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/auth/</guid>
       <description>
         
         
         
 
-&lt;h1 id=&#34;content-management&#34;&gt;Content management&lt;/h1&gt;
+&lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sanity.io/&#34; target=&#34;_blank&#34;&gt;sanity.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.netlifycms.org/&#34; target=&#34;_blank&#34;&gt;netlifyCMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://strapi.io/&#34; target=&#34;_blank&#34;&gt;Strapi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;membership&#34;&gt;Membership&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ghost.org/&#34; target=&#34;_blank&#34;&gt;Ghost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Swizec/useAuth&#34; target=&#34;_blank&#34;&gt;useAuth&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
