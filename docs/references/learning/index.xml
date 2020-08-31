@@ -244,5 +244,21 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: eBooks</title>
+      <link>https://wikihub.github.io/docs/references/learning/ebooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/learning/ebooks/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://builderbook.org/&#34; target=&#34;_blank&#34;&gt;Builder book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
