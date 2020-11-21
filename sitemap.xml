@@ -148,11 +148,6 @@
   </url>
   
   <url>
-    <loc>https://wikihub.github.io/docs/references/hardware/ethernet/</loc>
-    <lastmod>2020-05-10T23:38:42-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wikihub.github.io/docs/references/robotics/hmi/</loc>
     <lastmod>2020-06-23T17:34:34-04:00</lastmod>
   </url>
@@ -170,6 +165,11 @@
   <url>
     <loc>https://wikihub.github.io/docs/references/robotics/bldc/</loc>
     <lastmod>2020-05-11T01:07:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wikihub.github.io/docs/references/hardware/ethernet/</loc>
+    <lastmod>2020-11-21T16:45:51-05:00</lastmod>
   </url>
   
   <url>
