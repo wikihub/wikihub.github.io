@@ -1304,6 +1304,8 @@
 &lt;h2 id=&#34;microk8s-https-microk8s-io&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34; target=&#34;_blank&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;microk8s start&lt;/li&gt;
+&lt;li&gt;microk8s stop&lt;/li&gt;
 &lt;li&gt;microk8s status&lt;/li&gt;
 &lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
 &lt;/ul&gt;
