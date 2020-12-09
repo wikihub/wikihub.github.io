@@ -1305,7 +1305,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;microk8s status&lt;/li&gt;
-&lt;li&gt;microk8s enable dns gpu helm3 metallb host-access storage&lt;/li&gt;
+&lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
