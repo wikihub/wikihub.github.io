@@ -1304,6 +1304,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview&#34; target=&#34;_blank&#34;&gt;Install a local kubernetes with microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/kubernetes/install&#34; target=&#34;_blank&#34;&gt;Install Microk8s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;microk8s start&lt;/li&gt;
 &lt;li&gt;microk8s stop&lt;/li&gt;
 &lt;li&gt;microk8s status&lt;/li&gt;
