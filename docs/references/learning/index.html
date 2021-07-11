@@ -26,7 +26,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://wikihub.github.io/docs/references/learning/" />
 
-<meta property="og:updated_time" content="2021-07-10T22:33:53-04:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="og:updated_time" content="2021-07-10T22:38:19-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
 <meta itemprop="name" content="Learning">
 <meta itemprop="description" content="Resources for learning">
@@ -1669,7 +1669,7 @@
 
 <h3 id="keycloak">Keycloak</h3>
 
-<p>Run these commands in the keycloak server:
+<p>Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:
 * <code>curl -s &quot;https://get.sdkman.io&quot; | bash</code>
 * Open a new terminal
 * <code>sdk list java</code>
@@ -1678,7 +1678,8 @@
 * <code>keytool -certreq -alias yourdomain -keystore keycloak.jks &gt; keycloak.careq</code>
 * <code>sudo snap install --classic certbot</code>
 * <code>sudo ln -s /snap/bin/certbot /usr/bin/certbot</code>
-* <code>certbot certonly --standalone -d mechatronics3d.com</code></p>
+* <code>certbot certonly --standalone -d auth.mechatronics3d.com</code>
+* <code>keytool -import -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem -alias root</code></p>
 
 <h3 id="moodle">Moodle</h3>
 
@@ -1840,7 +1841,7 @@
 </script>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 10.07.2021: <a  href="https://github.com/wikihub/wikihub-website/commit/094a66ebc3c69eacf5505806df200ef4af10b6d2">Update _index.md (094a66ebc)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 10.07.2021: <a  href="https://github.com/wikihub/wikihub-website/commit/1c5a1161b3edd6d496537ceb1d61318908990d0f">Update _index.md (1c5a1161b)</a>
 </div>
 </div>
 
