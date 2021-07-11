@@ -26,7 +26,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://wikihub.github.io/docs/references/learning/" />
 
-<meta property="og:updated_time" content="2021-07-10T19:35:32-04:00"/><meta property="og:site_name" content="WIKIHUB" />
+<meta property="og:updated_time" content="2021-07-10T22:33:53-04:00"/><meta property="og:site_name" content="WIKIHUB" />
 
 <meta itemprop="name" content="Learning">
 <meta itemprop="description" content="Resources for learning">
@@ -1669,17 +1669,16 @@
 
 <h3 id="keycloak">Keycloak</h3>
 
-<ul>
-<li><code>curl -s &quot;https://get.sdkman.io&quot; | bash</code></li>
-<li>Open a new terminal</li>
-<li><code>sdk list java</code></li>
-<li><code>sdk install java 11.0.11-open</code></li>
-<li><code>keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950</code></li>
-<li><code>keytool -certreq -alias yourdomain -keystore keycloak.jks &gt; keycloak.careq</code></li>
-<li><code>sudo snap install --classic certbot</code></li>
-<li><code>sudo ln -s /snap/bin/certbot /usr/bin/certbot</code></li>
-<li><code>certbot certonly --stanalone -d mechatronics3d.com</code></li>
-</ul>
+<p>Run these commands in the keycloak server:
+* <code>curl -s &quot;https://get.sdkman.io&quot; | bash</code>
+* Open a new terminal
+* <code>sdk list java</code>
+* <code>sdk install java 11.0.11-open</code>
+* <code>keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950</code>
+* <code>keytool -certreq -alias yourdomain -keystore keycloak.jks &gt; keycloak.careq</code>
+* <code>sudo snap install --classic certbot</code>
+* <code>sudo ln -s /snap/bin/certbot /usr/bin/certbot</code>
+* <code>certbot certonly --standalone -d mechatronics3d.com</code></p>
 
 <h3 id="moodle">Moodle</h3>
 
@@ -1841,7 +1840,7 @@
 </script>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 10.07.2021: <a  href="https://github.com/wikihub/wikihub-website/commit/91a70e1c9c49b01ffe7bb60b03250a041d3479a0">Update _index.md (91a70e1c9)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 10.07.2021: <a  href="https://github.com/wikihub/wikihub-website/commit/094a66ebc3c69eacf5505806df200ef4af10b6d2">Update _index.md (094a66ebc)</a>
 </div>
 </div>
 
