@@ -74,42 +74,7 @@
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34; target=&#34;_blank&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://bitnami.com&#34; target=&#34;_blank&#34;&gt;Bitnami&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
-
-&lt;h2 id=&#34;kind&#34;&gt;Kind&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d&#34; target=&#34;_blank&#34;&gt;Local Kubernetes with kind, Helm &amp;amp; Dashboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/&#34; target=&#34;_blank&#34;&gt;Installing Che on kind&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;microk8s-https-microk8s-io&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34; target=&#34;_blank&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;There is an &lt;a href=&#34;https://github.com/ubuntu/microk8s/issues/1754&#34; target=&#34;_blank&#34;&gt;issue&lt;/a&gt; with the November 2020 version of Microk8s. For now, you need to his command: &lt;code&gt;sudo snap install microk8s --classic --channel=latest/edge&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview&#34; target=&#34;_blank&#34;&gt;Install a local kubernetes with microk8s&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/kubernetes/install&#34; target=&#34;_blank&#34;&gt;Install Microk8s&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;microk8s start&lt;/li&gt;
-&lt;li&gt;microk8s stop&lt;/li&gt;
-&lt;li&gt;microk8s status&lt;/li&gt;
-&lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://microk8s.io/docs/working-with-kubectl&#34; target=&#34;_blank&#34;&gt;Working with kubectl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;microk8s enable kubeflow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-username&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-password&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;You can also change the username and password. For example: &lt;code&gt;microk8s juju config dex-auth static-username=admin&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518&#34; target=&#34;_blank&#34;&gt;Installing Kubeflow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34; target=&#34;_blank&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34; target=&#34;_blank&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
@@ -145,6 +110,40 @@
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;kustomize-https-kustomize-io&#34;&gt;&lt;a href=&#34;https://kustomize.io/&#34; target=&#34;_blank&#34;&gt;Kustomize&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
+
+&lt;h2 id=&#34;kind&#34;&gt;Kind&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d&#34; target=&#34;_blank&#34;&gt;Local Kubernetes with kind, Helm &amp;amp; Dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/&#34; target=&#34;_blank&#34;&gt;Installing Che on kind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;microk8s-https-microk8s-io&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34; target=&#34;_blank&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There is an &lt;a href=&#34;https://github.com/ubuntu/microk8s/issues/1754&#34; target=&#34;_blank&#34;&gt;issue&lt;/a&gt; with the November 2020 version of Microk8s. For now, you need to his command: &lt;code&gt;sudo snap install microk8s --classic --channel=latest/edge&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview&#34; target=&#34;_blank&#34;&gt;Install a local kubernetes with microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/kubernetes/install&#34; target=&#34;_blank&#34;&gt;Install Microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;microk8s start&lt;/li&gt;
+&lt;li&gt;microk8s stop&lt;/li&gt;
+&lt;li&gt;microk8s status&lt;/li&gt;
+&lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microk8s.io/docs/working-with-kubectl&#34; target=&#34;_blank&#34;&gt;Working with kubectl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;microk8s enable kubeflow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-username&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-password&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;You can also change the username and password. For example: &lt;code&gt;microk8s juju config dex-auth static-username=admin&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518&#34; target=&#34;_blank&#34;&gt;Installing Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34; target=&#34;_blank&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34; target=&#34;_blank&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;kubespray&#34;&gt;Kubespray&lt;/h1&gt;
 
