@@ -131,6 +131,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;juju bootstrap kubecon kontroller&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/&#34; target=&#34;_blank&#34;&gt;Install Kubeflow&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
