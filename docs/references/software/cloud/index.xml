@@ -95,6 +95,12 @@
 &lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/minio-operator&#34; target=&#34;_blank&#34;&gt;MinIO Operator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;nginx&#34;&gt;Nginx&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/&#34; target=&#34;_blank&#34;&gt;Run stateless application deployment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;jupyterhub&#34;&gt;JupyterHub&lt;/h2&gt;
 
 &lt;ul&gt;
