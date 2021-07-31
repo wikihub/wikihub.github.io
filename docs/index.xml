@@ -1417,7 +1417,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/&#34; target=&#34;_blank&#34;&gt;Example: Deploying WordPress and MySQL with Persistent Volumes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/&#34; target=&#34;_blank&#34;&gt;How to Deploy WordPress and MySQL on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
