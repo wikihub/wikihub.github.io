@@ -1426,6 +1426,14 @@
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/80Ew_fsV4rM&#34; target=&#34;_blank&#34;&gt;Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h1 id=&#34;installing-kubernetes-with-deployment-tools-https-kubernetes-io-docs-setup-production-environment-tools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34; target=&#34;_blank&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/&#34; target=&#34;_blank&#34;&gt;Bootstrapping clusters with kubeadm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kops/&#34; target=&#34;_blank&#34;&gt;Installing Kubernetes with kops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kubespray/&#34; target=&#34;_blank&#34;&gt;Installing Kubernetes with Kubespray&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
 
 &lt;ul&gt;
