@@ -147,9 +147,11 @@
 &lt;li&gt;&lt;a href=&#34;https://jaas.ai/minio/55&#34; target=&#34;_blank&#34;&gt;MinIO&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;operatorhub-io-https-operatorhub-io&#34;&gt;&lt;a href=&#34;https://operatorhub.io/&#34; target=&#34;_blank&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;operators&#34;&gt;Operators&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sdk.operatorframework.io/docs/installation/&#34; target=&#34;_blank&#34;&gt;Install the Operator SDK CLI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/&#34; target=&#34;_blank&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/kubeflow&#34; target=&#34;_blank&#34;&gt;Kubeflow Operator&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/minio-operator&#34; target=&#34;_blank&#34;&gt;MinIO Operator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
