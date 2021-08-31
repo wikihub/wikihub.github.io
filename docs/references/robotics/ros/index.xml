@@ -262,6 +262,12 @@
 &lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/rosgraph&#34; target=&#34;_blank&#34;&gt;rosgraph (command-line)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;creating-ros-packages&#34;&gt;Creating ROS packages&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://erlerobot.github.io/erle_gitbook/en/ros/tutorials/creating_a_ros_package.html&#34; target=&#34;_blank&#34;&gt;Creating a ROS package&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
 
 &lt;ul&gt;
