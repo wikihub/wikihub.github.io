@@ -2571,11 +2571,11 @@
     </item>
     
     <item>
-      <title>Docs: NVIDIA Robotics</title>
-      <link>https://wikihub.github.io/docs/references/robotics/nvidia/</link>
+      <title>Docs: NVIDIA</title>
+      <link>https://wikihub.github.io/docs/references/software/nvidia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/robotics/nvidia/</guid>
+      <guid>https://wikihub.github.io/docs/references/software/nvidia/</guid>
       <description>
         
         
@@ -2629,24 +2629,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.forecr.io/&#34; target=&#34;_blank&#34;&gt;forcecr&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;jetbot&#34;&gt;JetBot&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetbot/wiki&#34; target=&#34;_blank&#34;&gt;JetBot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;jetracer&#34;&gt;JetRacer&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetracer&#34; target=&#34;_blank&#34;&gt;JetRacer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;racecarx&#34;&gt;RACeCARX&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;RACeCARX](&lt;a href=&#34;https://github.com/MarkBroerkens/RACECARX&#34; target=&#34;_blank&#34;&gt;https://github.com/MarkBroerkens/RACECARX&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&#34;isaac&#34;&gt;Isaac&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -2669,6 +2651,44 @@
 &lt;li&gt;&lt;a href=&#34;https://industrialpc.com/product-category/embedded/gpu-computers/&#34; target=&#34;_blank&#34;&gt;Industrial PC&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.onlogic.com/hx600/&#34; target=&#34;_blank&#34;&gt;OnLogic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.neousys-tech.com/en/discover/gpu-embedded-computing&#34; target=&#34;_blank&#34;&gt;Neousys GPU Computing Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;robot-computers&#34;&gt;Robot Computers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ark.intel.com/content/www/us/en/ark/products/130394/intel-nuc-board-nuc7i7dnbe.html&#34; target=&#34;_blank&#34;&gt;Intel® NUC Board NUC7i7DNBE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: NVIDIA Robotics</title>
+      <link>https://wikihub.github.io/docs/references/robotics/nvidia-robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/nvidia-robotics/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;jetbot&#34;&gt;JetBot&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetbot/wiki&#34; target=&#34;_blank&#34;&gt;JetBot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;jetracer&#34;&gt;JetRacer&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetracer&#34; target=&#34;_blank&#34;&gt;JetRacer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;racecarx&#34;&gt;RACECARX&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RACeCARX](&lt;a href=&#34;https://github.com/MarkBroerkens/RACECARX&#34; target=&#34;_blank&#34;&gt;https://github.com/MarkBroerkens/RACECARX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;robot-computers&#34;&gt;Robot Computers&lt;/h1&gt;
@@ -3086,33 +3106,6 @@
 &lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/#publications&#34; target=&#34;_blank&#34;&gt;Thomas Whelan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/Handa14icra.pdf&#34; target=&#34;_blank&#34;&gt;A Benchmark for RGB-D Visual Odometry, 3D Reconstruction and SLAM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/xlDbuw6skag&#34; target=&#34;_blank&#34;&gt;ICRA21 Workshop on Visual-Inertial Navigation Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: SLAM</title>
-      <link>https://wikihub.github.io/docs/references/robotics/slam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/slam/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;slam-devices&#34;&gt;SLAM devices&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://geoslam.com/&#34; target=&#34;_blank&#34;&gt;GeoSLAM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.slamtec.com/en/Lidar/Mapper&#34; target=&#34;_blank&#34;&gt;SLAMTEC Mapper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U6vr3iNrwRA&amp;amp;list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&#34; target=&#34;_blank&#34;&gt;SLAM course (&lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;14&lt;/sub&gt;; Cyrill Stachniss)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
