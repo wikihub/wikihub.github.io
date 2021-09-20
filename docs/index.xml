@@ -2601,6 +2601,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://repo.download.nvidia.com/jetson/&#34; target=&#34;_blank&#34;&gt;Jetson Repo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/embedded/linux-tegra-archive&#34; target=&#34;_blank&#34;&gt;Linux Tegra Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3261/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/updating_jetson_and_host.html#wwpID0E0XI0HA&#34; target=&#34;_blank&#34;&gt;Updating Jetson Linux with Image-Based Over-the-Air Update - JetPack 4.6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/updating_jetson_and_host.html#wwpID0E0PB0HA&#34; target=&#34;_blank&#34;&gt;Upgrade to a new minor release&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
