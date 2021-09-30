@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WIKIHUB – Small Business</title>
     <link>https://wikihub.github.io/docs/references/smallbusiness/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 11:48:18 -0400</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -29,58 +27,14 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;agile-project-management&#34;&gt;Agile project management&lt;/h1&gt;
-
+        &lt;h1 id=&#34;agile-project-management&#34;&gt;Agile project management&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://trello.com/b/m7LowhmZ/template-agile-team-training-v10&#34; target=&#34;_blank&#34;&gt;Trello agile management training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/b/m7LowhmZ/template-agile-team-training-v10&#34;&gt;Trello agile management training&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;project-timeline&#34;&gt;Project Timeline&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/azu/mdline&#34; target=&#34;_blank&#34;&gt;mdline&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mermaidjs.github.io/&#34; target=&#34;_blank&#34;&gt;mermaid&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Startups</title>
-      <link>https://wikihub.github.io/docs/references/smallbusiness/startups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/smallbusiness/startups/</guid>
-      <description>
-        
-        
-        
-
-&lt;h1 id=&#34;ontario&#34;&gt;Ontario&lt;/h1&gt;
-
-&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.growthpartners.ca/&#34; target=&#34;_blank&#34;&gt;Growth Partners&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;campus-linked-accelerators&#34;&gt;Campus-Linked Accelerators&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/&#34; target=&#34;_blank&#34;&gt;Design Fabrication Zone&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/portfolio/taiga-robotics/&#34; target=&#34;_blank&#34;&gt;Taiga Robotics&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;china&#34;&gt;China&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cc-angels.com/wp/&#34; target=&#34;_blank&#34;&gt;China Canada Angels Alliance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/azu/mdline&#34;&gt;mdline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mermaidjs.github.io/&#34;&gt;mermaid&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -95,50 +49,68 @@
       <description>
         
         
-        
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://magento.com/&#34; target=&#34;_blank&#34;&gt;Megento&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://magento.com/&#34;&gt;Megento&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;shopify&#34;&gt;Shopify&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/&#34; target=&#34;_blank&#34;&gt;Shopify app store&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.shopify.ca/retail/know-your-customers-how-to-build-buyer-personas-for-your-retail-store&#34; target=&#34;_blank&#34;&gt;Buyer Personas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/&#34;&gt;Shopify app store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.shopify.ca/retail/know-your-customers-how-to-build-buyer-personas-for-your-retail-store&#34;&gt;Buyer Personas&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;developing-on-shopify&#34;&gt;Developing on Shopify&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://shopify.dev/concepts/shopify-introduction&#34; target=&#34;_blank&#34;&gt;Introduction to Shopify&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shopify.dev/concepts/apps&#34; target=&#34;_blank&#34;&gt;Building Shopify apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shopify.dev/concepts/channels&#34; target=&#34;_blank&#34;&gt;Building Shopify channels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shopify.dev/concepts/shopify-introduction&#34;&gt;Introduction to Shopify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shopify.dev/concepts/apps&#34;&gt;Building Shopify apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shopify.dev/concepts/channels&#34;&gt;Building Shopify channels&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;shopify-apps&#34;&gt;Shopify Apps&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/&#34; target=&#34;_blank&#34;&gt;Shopify App Store&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/bookthatapp&#34; target=&#34;_blank&#34;&gt;BookThatApp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/rentals-and-reservations&#34; target=&#34;_blank&#34;&gt;Rentals and reservations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/real-id&#34; target=&#34;_blank&#34;&gt;Real ID&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/id-me-group-verification&#34; target=&#34;_blank&#34;&gt;ID.me&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/validation-com&#34; target=&#34;_blank&#34;&gt;Validation.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/&#34;&gt;Shopify App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/bookthatapp&#34;&gt;BookThatApp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/rentals-and-reservations&#34;&gt;Rentals and reservations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/real-id&#34;&gt;Real ID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/id-me-group-verification&#34;&gt;ID.me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.shopify.com/validation-com&#34;&gt;Validation.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;shophere&#34;&gt;ShopHERE&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://digitalmainstreet.ca/&#34; target=&#34;_blank&#34;&gt;Digital Main Street&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://digitalmainstreet.ca/vendor-directory/&#34; target=&#34;_blank&#34;&gt;List of vendors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://digitalmainstreet.ca/product/local-market-intelligence-tool/&#34; target=&#34;_blank&#34;&gt;Local market intelligence tool by MasterCard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digitalmainstreet.ca/&#34;&gt;Digital Main Street&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digitalmainstreet.ca/vendor-directory/&#34;&gt;List of vendors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digitalmainstreet.ca/product/local-market-intelligence-tool/&#34;&gt;Local market intelligence tool by MasterCard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;rental&#34;&gt;Rental&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rentle.io/&#34;&gt;Rentle.io&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;rental&#34;&gt;Rental&lt;/h1&gt;
-
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Startups</title>
+      <link>https://wikihub.github.io/docs/references/smallbusiness/startups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/smallbusiness/startups/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;ontario&#34;&gt;Ontario&lt;/h1&gt;
+&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rentle.io/&#34; target=&#34;_blank&#34;&gt;Rentle.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.growthpartners.ca/&#34;&gt;Growth Partners&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;campus-linked-accelerators&#34;&gt;Campus-Linked Accelerators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/&#34;&gt;Design Fabrication Zone&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/portfolio/taiga-robotics/&#34;&gt;Taiga Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;china&#34;&gt;China&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cc-angels.com/wp/&#34;&gt;China Canada Angels Alliance&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

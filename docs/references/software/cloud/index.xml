@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WIKIHUB – Cloud Computing</title>
@@ -29,18 +28,13 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
-
+        &lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx&#34; target=&#34;_blank&#34;&gt;Using Visual Studio Code with STM32CubeMX for ARM Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx&#34;&gt;Using Visual Studio Code with STM32CubeMX for ARM Development&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;blogs&#34;&gt;Blogs&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog&#34; target=&#34;_blank&#34;&gt;HBFS Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog&#34;&gt;HBFS Robotics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -56,7 +50,7 @@
         
         
         &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ec2spotworkshops.com/&#34; target=&#34;_blank&#34;&gt;EC2 Workshops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ec2spotworkshops.com/&#34;&gt;EC2 Workshops&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -72,7 +66,7 @@
         
         
         &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://galaxy.ansible.com/hetzner/hcloud&#34; target=&#34;_blank&#34;&gt;Galaxy: A Collection for managing Hetzner Cloud resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://galaxy.ansible.com/hetzner/hcloud&#34;&gt;Galaxy: A Collection for managing Hetzner Cloud resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -87,36 +81,27 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;nomad&#34;&gt;Nomad&lt;/h1&gt;
-
+        &lt;h1 id=&#34;nomad&#34;&gt;Nomad&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://endler.dev/2019/maybe-you-dont-need-kubernetes/&#34; target=&#34;_blank&#34;&gt;Maybe You Don&amp;rsquo;t Need Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://endler.dev/2019/maybe-you-dont-need-kubernetes/&#34;&gt;Maybe You Don&amp;rsquo;t Need Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;terraform&#34;&gt;Terraform&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials&#34; target=&#34;_blank&#34;&gt;Installing Terraform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/open-guides/og-aws&#34; target=&#34;_blank&#34;&gt;Open Guides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials&#34;&gt;Installing Terraform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/open-guides/og-aws&#34;&gt;Open Guides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;terraform-for-hetzner&#34;&gt;Terraform for Hetzner&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs&#34; target=&#34;_blank&#34;&gt;Hetzner cloud provider&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest&#34; target=&#34;_blank&#34;&gt;hcloud&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest&#34; target=&#34;_blank&#34;&gt;k3s for hcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs&#34;&gt;Hetzner cloud provider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest&#34;&gt;hcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest&#34;&gt;k3s for hcloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;vault&#34;&gt;Vault&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/collections/vault/kubernetes&#34; target=&#34;_blank&#34;&gt;Vault on Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/nehrman/hashiconfEU-2019&#34; target=&#34;_blank&#34;&gt;Securing your apps without touching the code!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cinqict.nl/blog/automate-the-renewal-of-tls-certificates-with-vault&#34; target=&#34;_blank&#34;&gt;Automate the renewal of TLS certificates with Vault and Cert-Manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hashicorp/vault-k8s&#34; target=&#34;_blank&#34;&gt;vault-k8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/collections/vault/kubernetes&#34;&gt;Vault on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nehrman/hashiconfEU-2019&#34;&gt;Securing your apps without touching the code!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cinqict.nl/blog/automate-the-renewal-of-tls-certificates-with-vault&#34;&gt;Automate the renewal of TLS certificates with Vault and Cert-Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hashicorp/vault-k8s&#34;&gt;vault-k8s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -131,346 +116,265 @@
       <description>
         
         
-        
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jimmysong.io/awesome-cloud-native/&#34; target=&#34;_blank&#34;&gt;Awesome cloud native&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jimmysong.io/awesome-cloud-native/&#34;&gt;Awesome cloud native&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mrbobbytables/k8s-intro-tutorials&#34; target=&#34;_blank&#34;&gt;Introduction to Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qconuk2019.container.training&#34; target=&#34;_blank&#34;&gt;Getting Started With Kubernetes and Container Orchestration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kind.sigs.k8s.io/&#34; target=&#34;_blank&#34;&gt;kind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/k8s-device-plugin&#34; target=&#34;_blank&#34;&gt;K8s device plugin by NVIDIA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34; target=&#34;_blank&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/&#34; target=&#34;_blank&#34;&gt;kubectl for Docker users&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cert-manager.io/&#34; target=&#34;_blank&#34;&gt;cert-manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html&#34; target=&#34;_blank&#34;&gt;Cluster in the cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mrbobbytables/k8s-intro-tutorials&#34;&gt;Introduction to Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qconuk2019.container.training&#34;&gt;Getting Started With Kubernetes and Container Orchestration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kind.sigs.k8s.io/&#34;&gt;kind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/k8s-device-plugin&#34;&gt;K8s device plugin by NVIDIA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/&#34;&gt;kubectl for Docker users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cert-manager.io/&#34;&gt;cert-manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html&#34;&gt;Cluster in the cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;hosted-kubernetes&#34;&gt;Hosted kubernetes&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&amp;amp;grouping=category&#34; target=&#34;_blank&#34;&gt;Platform - Certified Kubernetes - Hosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&amp;amp;grouping=category&#34;&gt;Platform - Certified Kubernetes - Hosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.civo.com/&#34;&gt;Civo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;learning&#34;&gt;Learning&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34; target=&#34;_blank&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/T4Z7visMM4E&#34; target=&#34;_blank&#34;&gt;Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/80Ew_fsV4rM&#34; target=&#34;_blank&#34;&gt;Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/snjiaojiao/k8-helloworld-example&#34; target=&#34;_blank&#34;&gt;k8-helloworld-example&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marcel-dempers/docker-development-youtube-series&#34; target=&#34;_blank&#34;&gt;Docker development YouTube series&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0&#34; target=&#34;_blank&#34;&gt;Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.olivercoding.com/2021-01-02-kubernetes-home/&#34; target=&#34;_blank&#34;&gt;Series: Kubernetes at home&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://imti.co/kubernetes-platform-book/&#34; target=&#34;_blank&#34;&gt;Kubernetes platform book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/&#34; target=&#34;_blank&#34;&gt;Ultimate kubernetes bootcamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/T4Z7visMM4E&#34;&gt;Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/80Ew_fsV4rM&#34;&gt;Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/snjiaojiao/k8-helloworld-example&#34;&gt;k8-helloworld-example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marcel-dempers/docker-development-youtube-series&#34;&gt;Docker development YouTube series&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0&#34;&gt;Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.olivercoding.com/2021-01-02-kubernetes-home/&#34;&gt;Series: Kubernetes at home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://imti.co/kubernetes-platform-book/&#34;&gt;Kubernetes platform book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/&#34;&gt;Ultimate kubernetes bootcamp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;ingress&#34;&gt;Ingress&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md&#34; target=&#34;_blank&#34;&gt;Ingress annotations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/&#34; target=&#34;_blank&#34;&gt;Ultimate Guide to Kubernetes Ingress Controllers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md&#34;&gt;Ingress annotations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/&#34;&gt;Ultimate Guide to Kubernetes Ingress Controllers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;installing-kubernetes-with-deployment-tools-https-kubernetes-io-docs-setup-production-environment-tools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34; target=&#34;_blank&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
-
+&lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/&#34; target=&#34;_blank&#34;&gt;Bootstrapping clusters with kubeadm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kops/&#34; target=&#34;_blank&#34;&gt;Installing Kubernetes with kops&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kubespray/&#34; target=&#34;_blank&#34;&gt;Installing Kubernetes with Kubespray&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/&#34;&gt;Bootstrapping clusters with kubeadm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kops/&#34;&gt;Installing Kubernetes with kops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kubespray/&#34;&gt;Installing Kubernetes with Kubespray&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;storage&#34;&gt;Storage&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://portworx.com/&#34; target=&#34;_blank&#34;&gt;portworx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://portworx.com/&#34;&gt;portworx&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://artifacthub.io&#34; target=&#34;_blank&#34;&gt;ArtifactHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bitnami.com&#34; target=&#34;_blank&#34;&gt;Bitnami&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://community.bitnami.com/&#34; target=&#34;_blank&#34;&gt;Bitnami community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://artifacthub.io&#34;&gt;ArtifactHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitnami.com&#34;&gt;Bitnami&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.bitnami.com/&#34;&gt;Bitnami community&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;jaas&#34;&gt;JAAS&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jaas.ai/kubeflow/bundle/270&#34; target=&#34;_blank&#34;&gt;Kubeflow Charm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1&#34; target=&#34;_blank&#34;&gt;Gitlab k8s&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jaas.ai/minio/55&#34; target=&#34;_blank&#34;&gt;MinIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaas.ai/kubeflow/bundle/270&#34;&gt;Kubeflow Charm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1&#34;&gt;Gitlab k8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaas.ai/minio/55&#34;&gt;MinIO&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;operators&#34;&gt;Operators&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sdk.operatorframework.io/docs/installation/&#34; target=&#34;_blank&#34;&gt;Install the Operator SDK CLI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/&#34; target=&#34;_blank&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/kubeflow&#34; target=&#34;_blank&#34;&gt;Kubeflow Operator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/minio-operator&#34; target=&#34;_blank&#34;&gt;MinIO Operator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sdk.operatorframework.io/docs/installation/&#34;&gt;Install the Operator SDK CLI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/kubeflow&#34;&gt;Kubeflow Operator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/minio-operator&#34;&gt;MinIO Operator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;nginx&#34;&gt;Nginx&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/&#34; target=&#34;_blank&#34;&gt;Run stateless application deployment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/&#34;&gt;Run stateless application deployment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;wordpress&#34;&gt;WordPress&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/&#34; target=&#34;_blank&#34;&gt;Example: Deploying WordPress and MySQL with Persistent Volumes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/&#34; target=&#34;_blank&#34;&gt;How to Deploy WordPress and MySQL on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/&#34;&gt;Example: Deploying WordPress and MySQL with Persistent Volumes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/&#34;&gt;How to Deploy WordPress and MySQL on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;jupyterhub&#34;&gt;JupyterHub&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4&#34; target=&#34;_blank&#34;&gt;Manual deployment of JupyterHub on Kubernetes for a single machine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/BrownUniversity/terraform-gcp-jupyterhub&#34; target=&#34;_blank&#34;&gt;terraform-gcp-jupyterhub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4&#34;&gt;Manual deployment of JupyterHub on Kubernetes for a single machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BrownUniversity/terraform-gcp-jupyterhub&#34;&gt;terraform-gcp-jupyterhub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;binderhub&#34;&gt;BinderHub&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alan-turing-institute/binderhub-deploy&#34; target=&#34;_blank&#34;&gt;binderhub-deploy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pangeo-data/pangeo-binder&#34; target=&#34;_blank&#34;&gt;pangeo-binder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alan-turing-institute/binderhub-deploy&#34;&gt;binderhub-deploy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pangeo-data/pangeo-binder&#34;&gt;pangeo-binder&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;keycloak&#34;&gt;Keycloak&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.keycloak.org/getting-started&#34; target=&#34;_blank&#34;&gt;Keycloak: Getting started&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.keycloak.org/getting-started/getting-started-kube&#34; target=&#34;_blank&#34;&gt;Keycloak on Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://up2u.readthedocs.io/sso/&#34; target=&#34;_blank&#34;&gt;Up2U: single sign on&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/thomasdarimont/keycloak-project-example&#34; target=&#34;_blank&#34;&gt;Keycloak project example&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79&#34; target=&#34;_blank&#34;&gt;keycloud-codecentric manifest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd/discussions/6641&#34; target=&#34;_blank&#34;&gt;keycloak bitnami&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.keycloak.org/getting-started&#34;&gt;Keycloak: Getting started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.keycloak.org/getting-started/getting-started-kube&#34;&gt;Keycloak on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://up2u.readthedocs.io/sso/&#34;&gt;Up2U: single sign on&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/thomasdarimont/keycloak-project-example&#34;&gt;Keycloak project example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79&#34;&gt;keycloud-codecentric manifest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd/discussions/6641&#34;&gt;keycloak bitnami&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;argocd&#34;&gt;ArgoCD&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd&#34; target=&#34;_blank&#34;&gt;ArgoCD on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/&#34; target=&#34;_blank&#34;&gt;ArgoCd ingress configurations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd&#34;&gt;ArgoCD on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/&#34;&gt;ArgoCd ingress configurations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;kubectl get all --all-namespaces&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system get secret&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;ssl-on-kubernetes&#34;&gt;SSL on Kubernetes&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9&#34; target=&#34;_blank&#34;&gt;Free SSL on Kubernetes with Let’s Encrypt and cert-manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zero-to-jupyterhub.readthedocs.io/en/latest/administrator/security.html&#34; target=&#34;_blank&#34;&gt;Confirm that your domain is running HTTPS: &lt;code&gt;http://ssllabs.com/ssltest/analyze.html?d=&amp;lt;YOUR-DOMAIN&amp;gt;&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://letsencrypt.org/docs/rate-limits/&#34; target=&#34;_blank&#34;&gt;Let’s Encrypt provides rate limits to ensure fair usage by as many people as possible.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9&#34;&gt;Free SSL on Kubernetes with Let’s Encrypt and cert-manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zero-to-jupyterhub.readthedocs.io/en/latest/administrator/security.html&#34;&gt;Confirm that your domain is running HTTPS: &lt;code&gt;http://ssllabs.com/ssltest/analyze.html?d=&amp;lt;YOUR-DOMAIN&amp;gt;&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://letsencrypt.org/docs/rate-limits/&#34;&gt;Let’s Encrypt provides rate limits to ensure fair usage by as many people as possible.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;kubeflow&#34;&gt;Kubeflow&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/&#34; target=&#34;_blank&#34;&gt;Installing Kubeflow on a laptop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/&#34;&gt;Installing Kubeflow on a laptop&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;helm&#34;&gt;Helm&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34; target=&#34;_blank&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://artifacthub.io/&#34; target=&#34;_blank&#34;&gt;ArtifactHUB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://helm.sh/docs/topics/kubernetes_distros/&#34; target=&#34;_blank&#34;&gt;Kubernetes distribution guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chartcenter.io/#&#34; target=&#34;_blank&#34;&gt;Chart Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://artifacthub.io/&#34;&gt;ArtifactHUB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://helm.sh/docs/topics/kubernetes_distros/&#34;&gt;Kubernetes distribution guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chartcenter.io/#&#34;&gt;Chart Center&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;helm show chart jupyterhub/jupyterhub&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;helm delete $(helm ls --short)&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;kubermatic-https-www-kubermatic-com-products-kubermatic&#34;&gt;&lt;a href=&#34;https://www.kubermatic.com/products/kubermatic/&#34; target=&#34;_blank&#34;&gt;Kubermatic&lt;/a&gt;&lt;/h1&gt;
-
+&lt;h1 id=&#34;kubermatichttpswwwkubermaticcomproductskubermatic&#34;&gt;&lt;a href=&#34;https://www.kubermatic.com/products/kubermatic/&#34;&gt;Kubermatic&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubermatic.com/products/kubeone/&#34; target=&#34;_blank&#34;&gt;KubeOne&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kubermatic/kubeone&#34; target=&#34;_blank&#34;&gt;KubeOne on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubermatic.com/products/kubeone/&#34;&gt;KubeOne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubermatic/kubeone&#34;&gt;KubeOne on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;kustomize-https-kustomize-io&#34;&gt;&lt;a href=&#34;https://kustomize.io/&#34; target=&#34;_blank&#34;&gt;Kustomize&lt;/a&gt;&lt;/h1&gt;
-
+&lt;h1 id=&#34;kustomizehttpskustomizeio&#34;&gt;&lt;a href=&#34;https://kustomize.io/&#34;&gt;Kustomize&lt;/a&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
-
 &lt;h2 id=&#34;juju&#34;&gt;Juju&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://juju.is/docs/olm/controllers&#34; target=&#34;_blank&#34;&gt;Juju is an Open Source Charmed Operator Framework.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://charmhub.io/&#34; target=&#34;_blank&#34;&gt;CharmHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://juju.is/docs/olm/controllers&#34;&gt;Juju is an Open Source Charmed Operator Framework.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://charmhub.io/&#34;&gt;CharmHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;juju switch&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/kubecon-europe-2021&#34; target=&#34;_blank&#34;&gt;kubecon-europe-2021&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/kubecon-europe-2021&#34;&gt;kubecon-europe-2021&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;juju unregister kontroller&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;juju bootstrap kubecon kontroller&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/&#34; target=&#34;_blank&#34;&gt;Install Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/&#34;&gt;Install Kubeflow&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;hcloud floating-ip create --type ipv4 --home-location nbg1&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://metallb.universe.tf/installation/&#34; target=&#34;_blank&#34;&gt;Metallb installation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://metallb.universe.tf/installation/&#34;&gt;Metallb installation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;juju config metallb-controller iprange=&amp;lt;IPRANGE&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;kind&#34;&gt;Kind&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d&#34; target=&#34;_blank&#34;&gt;Local Kubernetes with kind, Helm &amp;amp; Dashboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/&#34; target=&#34;_blank&#34;&gt;Installing Che on kind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d&#34;&gt;Local Kubernetes with kind, Helm &amp;amp; Dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/&#34;&gt;Installing Che on kind&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;microk8s-https-microk8s-io&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34; target=&#34;_blank&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;microk8shttpsmicrok8sio&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;There is an &lt;a href=&#34;https://github.com/ubuntu/microk8s/issues/1754&#34; target=&#34;_blank&#34;&gt;issue&lt;/a&gt; with the November 2020 version of Microk8s. For now, you need to his command: &lt;code&gt;sudo snap install microk8s --classic --channel=latest/edge&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview&#34; target=&#34;_blank&#34;&gt;Install a local kubernetes with microk8s&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/kubernetes/install&#34; target=&#34;_blank&#34;&gt;Install Microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;There is an &lt;a href=&#34;https://github.com/ubuntu/microk8s/issues/1754&#34;&gt;issue&lt;/a&gt; with the November 2020 version of Microk8s. For now, you need to his command: &lt;code&gt;sudo snap install microk8s --classic --channel=latest/edge&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview&#34;&gt;Install a local kubernetes with microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/kubernetes/install&#34;&gt;Install Microk8s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;microk8s start&lt;/li&gt;
 &lt;li&gt;microk8s stop&lt;/li&gt;
 &lt;li&gt;microk8s status&lt;/li&gt;
 &lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://microk8s.io/docs/working-with-kubectl&#34; target=&#34;_blank&#34;&gt;Working with kubectl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microk8s.io/docs/working-with-kubectl&#34;&gt;Working with kubectl&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;microk8s enable kubeflow&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-username&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-password&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;You can also change the username and password. For example: &lt;code&gt;microk8s juju config dex-auth static-username=admin&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518&#34; target=&#34;_blank&#34;&gt;Installing Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518&#34;&gt;Installing Kubeflow&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;rancher-k3s&#34;&gt;Rancher k3s&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d&#34; target=&#34;_blank&#34;&gt;Set up K3s in High Availability using k3d&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/vfarcic/k3d-demo&#34; target=&#34;_blank&#34;&gt;k3s-demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d&#34;&gt;Set up K3s in High Availability using k3d&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vfarcic/k3d-demo&#34;&gt;k3s-demo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;k0s-project&#34;&gt;k0s Project&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://k0sproject.io/&#34; target=&#34;_blank&#34;&gt;k0s project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://k0sproject.io/&#34;&gt;k0s project&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34; target=&#34;_blank&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34; target=&#34;_blank&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;bare-metal&#34;&gt;Bare Metal&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-in-10-minutes/&#34; target=&#34;_blank&#34;&gt;Kubernetes on bare metal in 10 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-in-10-minutes/&#34;&gt;Kubernetes on bare metal in 10 minutes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;load-balancers&#34;&gt;Load Balancers&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl&#34; target=&#34;_blank&#34;&gt;Using multiple SSL certificates in HTTPS load balancing with Ingress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl&#34;&gt;Using multiple SSL certificates in HTTPS load balancing with Ingress&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;metallb&#34;&gt;Metallb&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://metallb.universe.tf/installation/clouds/&#34; target=&#34;_blank&#34;&gt;Metallb cloud compatibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://metallb.universe.tf/installation/clouds/&#34;&gt;Metallb cloud compatibility&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;kubespray&#34;&gt;Kubespray&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubespray.io/#/&#34; target=&#34;_blank&#34;&gt;Kubespray&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubespray.io/#/&#34;&gt;Kubespray&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;kops&#34;&gt;Kops&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/kops&#34; target=&#34;_blank&#34;&gt;Kops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/kops&#34;&gt;Kops&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;bare-metal-1&#34;&gt;Bare Metal&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.packet.com/&#34; target=&#34;_blank&#34;&gt;Packet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-in-10-minutes/&#34; target=&#34;_blank&#34;&gt;Kubernetes on bare-metal in 10 minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://metal.equinix.com/solutions/kubernetes/&#34; target=&#34;_blank&#34;&gt;Run K8s on Bare Metal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.packet.com/&#34;&gt;Packet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-in-10-minutes/&#34;&gt;Kubernetes on bare-metal in 10 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://metal.equinix.com/solutions/kubernetes/&#34;&gt;Run K8s on Bare Metal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;gitops&#34;&gt;GitOps&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gitops.tech/&#34; target=&#34;_blank&#34;&gt;GitOps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/weaveworks/awesome-gitops&#34; target=&#34;_blank&#34;&gt;GitOps awesome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubestack.com/&#34; target=&#34;_blank&#34;&gt;Kubestack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://toolkit.fluxcd.io/&#34; target=&#34;_blank&#34;&gt;Flux v2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gitops.tech/&#34;&gt;GitOps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/weaveworks/awesome-gitops&#34;&gt;GitOps awesome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubestack.com/&#34;&gt;Kubestack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toolkit.fluxcd.io/&#34;&gt;Flux v2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e&#34; target=&#34;_blank&#34;&gt;Telepresence: Pacing up development on Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/&#34; target=&#34;_blank&#34;&gt;Developing Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34; target=&#34;_blank&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34; target=&#34;_blank&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/&#34; target=&#34;_blank&#34;&gt;Devgun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c&#34; target=&#34;_blank&#34;&gt;Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com.cnpmjs.org/tilt-dev/tilt&#34; target=&#34;_blank&#34;&gt;Tilt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okteto.com/&#34; target=&#34;_blank&#34;&gt;Okteto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e&#34;&gt;Telepresence: Pacing up development on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/&#34;&gt;Developing Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/&#34;&gt;Devgun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c&#34;&gt;Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com.cnpmjs.org/tilt-dev/tilt&#34;&gt;Tilt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://okteto.com/&#34;&gt;Okteto&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;openshift&#34;&gt;OpenShift&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developers.redhat.com/products/codeready-containers/overview&#34; target=&#34;_blank&#34;&gt;CodeReady&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.redhat.com/products/codeready-containers/overview&#34;&gt;CodeReady&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/overview/&#34; target=&#34;_blank&#34;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.inlets.dev/&#34; target=&#34;_blank&#34;&gt;Inlets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubefwd.com/&#34; target=&#34;_blank&#34;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okteto.com/&#34; target=&#34;_blank&#34;&gt;Okteto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://forge.sh/&#34; target=&#34;_blank&#34;&gt;Forge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gardener.cloud/&#34; target=&#34;_blank&#34;&gt;Gardener&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://garden.io/&#34; target=&#34;_blank&#34;&gt;Garden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://draft.sh/&#34; target=&#34;_blank&#34;&gt;Draft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://skaffold.dev/&#34; target=&#34;_blank&#34;&gt;Skaffold&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://squash.solo.io/&#34; target=&#34;_blank&#34;&gt;Squash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.telepresence.io/&#34; target=&#34;_blank&#34;&gt;Telepresence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34; target=&#34;_blank&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitkube.sh/&#34; target=&#34;_blank&#34;&gt;Gitkube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/MinikubeAddon/watchpod&#34; target=&#34;_blank&#34;&gt;Watchpod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Mirantis/k8s-devbox&#34; target=&#34;_blank&#34;&gt;k8s-devbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kompose.io/&#34; target=&#34;_blank&#34;&gt;Kompose&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/overview/&#34;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.inlets.dev/&#34;&gt;Inlets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubefwd.com/&#34;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://okteto.com/&#34;&gt;Okteto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forge.sh/&#34;&gt;Forge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gardener.cloud/&#34;&gt;Gardener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garden.io/&#34;&gt;Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://draft.sh/&#34;&gt;Draft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://skaffold.dev/&#34;&gt;Skaffold&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://squash.solo.io/&#34;&gt;Squash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.telepresence.io/&#34;&gt;Telepresence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitkube.sh/&#34;&gt;Gitkube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MinikubeAddon/watchpod&#34;&gt;Watchpod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Mirantis/k8s-devbox&#34;&gt;k8s-devbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kompose.io/&#34;&gt;Kompose&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;kubeflow-1&#34;&gt;Kubeflow&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34; target=&#34;_blank&#34;&gt;Install Kubeflow on Minikube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Install Kubeflow on Minikube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;linkerd&#34;&gt;Linkerd&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://linkerd.io/&#34; target=&#34;_blank&#34;&gt;Linkerd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkerd.io/&#34;&gt;Linkerd&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;edge&#34;&gt;Edge&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://k3os.io/&#34; target=&#34;_blank&#34;&gt;K3OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://k3os.io/&#34;&gt;K3OS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -485,118 +389,90 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
-
+        &lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/reference/&#34; target=&#34;_blank&#34;&gt;Docker reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://labs.play-with-docker.com/&#34; target=&#34;_blank&#34;&gt;Play with Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://confluence.jaytaala.com/display/TKB/Docker+tips&#34; target=&#34;_blank&#34;&gt;Docker tips&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/ubuntu/&#34; target=&#34;_blank&#34;&gt;Install Docker on Ubuntu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34; target=&#34;_blank&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34; target=&#34;_blank&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34; target=&#34;_blank&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/reference/&#34;&gt;Docker reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labs.play-with-docker.com/&#34;&gt;Play with Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.jaytaala.com/display/TKB/Docker+tips&#34;&gt;Docker tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/ubuntu/&#34;&gt;Install Docker on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo usermod -aG docker ${USER}&lt;/code&gt; or &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34; target=&#34;_blank&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34; target=&#34;_blank&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34; target=&#34;_blank&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34; target=&#34;_blank&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://phusion.github.io/baseimage-docker/&#34; target=&#34;_blank&#34;&gt;Base image Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phusion.github.io/baseimage-docker/&#34;&gt;Base image Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Restart Docker: &lt;code&gt;service docker restart&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/&#34; target=&#34;_blank&#34;&gt;How to keep docker containers running&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime&#34; target=&#34;_blank&#34;&gt;Changing the entrypoint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b&#34; target=&#34;_blank&#34;&gt;Processes in containers should not run as root&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/commit/&#34; target=&#34;_blank&#34;&gt;Create a new image from a container’s changes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/docker-library/docs/tree/master/&#34; target=&#34;_blank&#34;&gt;Docker library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/&#34;&gt;How to keep docker containers running&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime&#34;&gt;Changing the entrypoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b&#34;&gt;Processes in containers should not run as root&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/commit/&#34;&gt;Create a new image from a container’s changes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/docker-library/docs/tree/master/&#34;&gt;Docker library&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;prune&#34;&gt;Prune&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Remove all the images without a tag: &lt;code&gt;docker rmi $(docker images -f dangling=true -q)&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Remove &lt;none&gt; images: &lt;code&gt;docker rmi $(docker images |grep &amp;quot;&amp;lt;none&amp;gt;&amp;quot;|awk &#39;$1==&amp;quot;&amp;lt;none&amp;gt;&amp;quot; {print $3}&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Remove &lt;!-- raw HTML omitted --&gt; images: &lt;code&gt;docker rmi $(docker images |grep &amp;quot;&amp;lt;none&amp;gt;&amp;quot;|awk &#39;$1==&amp;quot;&amp;lt;none&amp;gt;&amp;quot; {print $3}&#39;)&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Prune the system: &lt;code&gt;docker system prune&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Check the /var/lib/docker folder: &lt;code&gt;sudo du -h --max-depth=1 /var/lib/docker&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Check storage with &lt;code&gt;sudo baobab&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/45798076/how-to-clean-up-docker&#34; target=&#34;_blank&#34;&gt;How to clean up Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Remove all the containers: &lt;code&gt;docker rm $(docker ps -a -q)&lt;/code&gt;
-
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/45798076/how-to-clean-up-docker&#34;&gt;How to clean up Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remove all the containers: &lt;code&gt;docker rm $(docker ps -a -q)&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;applied-docker-images&#34;&gt;Applied Docker images&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linuxserver.io/&#34; target=&#34;_blank&#34;&gt;linuxserver.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linuxserver.io/&#34;&gt;linuxserver.io&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;distroless-containers&#34;&gt;Distroless containers&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleContainerTools/distroless&#34; target=&#34;_blank&#34;&gt;Google Distroless Containers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleContainerTools/distroless&#34;&gt;Google Distroless Containers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;docker-on-wsl2&#34;&gt;Docker on WSL2&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2&#34; target=&#34;_blank&#34;&gt;Getting started with CUDA on Ubuntu on WSL2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/cuda/wsl-user-guide/index.html&#34; target=&#34;_blank&#34;&gt;WSL user guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-accelerated-training&#34; target=&#34;_blank&#34;&gt;GPU acceleration on WSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2&#34;&gt;Getting started with CUDA on Ubuntu on WSL2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/cuda/wsl-user-guide/index.html&#34;&gt;WSL user guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-accelerated-training&#34;&gt;GPU acceleration on WSL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;docker-tools&#34;&gt;Docker tools&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.elttam.com/blog/kubler/&#34; target=&#34;_blank&#34;&gt;Kubler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nautilusdev.com/&#34; target=&#34;_blank&#34;&gt;Nautilus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/stepchowfun/docuum&#34; target=&#34;_blank&#34;&gt;Docuum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elttam.com/blog/kubler/&#34;&gt;Kubler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nautilusdev.com/&#34;&gt;Nautilus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stepchowfun/docuum&#34;&gt;Docuum&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local Development Environment&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/create-dev-container&#34; target=&#34;_blank&#34;&gt;Visual Studio Code: Create dev container&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/create-dev-container&#34;&gt;Visual Studio Code: Create dev container&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://puppetlabs.github.io/bolt/&#34; target=&#34;_blank&#34;&gt;Bolt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://puppetlabs.github.io/bolt/&#34;&gt;Bolt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;containerd&#34;&gt;Containerd&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34; target=&#34;_blank&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;registries&#34;&gt;Registries&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34; target=&#34;_blank&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instana.com/&#34; target=&#34;_blank&#34;&gt;Instana&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://katacontainers.io/&#34; target=&#34;_blank&#34;&gt;Kata containers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://firecracker-microvm.github.io/&#34; target=&#34;_blank&#34;&gt;Firecracker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.balena.io/&#34; target=&#34;_blank&#34;&gt;Balena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34; target=&#34;_blank&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34; target=&#34;_blank&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34; target=&#34;_blank&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jfrog.com/&#34; target=&#34;_blank&#34;&gt;jFrog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instana.com/&#34;&gt;Instana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://katacontainers.io/&#34;&gt;Kata containers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://firecracker-microvm.github.io/&#34;&gt;Firecracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.balena.io/&#34;&gt;Balena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jfrog.com/&#34;&gt;jFrog&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;singularity&#34;&gt;Singularity&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sylabs.io/docs/&#34; target=&#34;_blank&#34;&gt;Singularity Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sylabs.io/docs/&#34;&gt;Singularity Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;virtualization&#34;&gt;Virtualization&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://xenproject.org/&#34; target=&#34;_blank&#34;&gt;Xen project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://elinux.org/R-Car/Virtualization#Virtualization_with_QEMU&#34; target=&#34;_blank&#34;&gt;QEMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xenproject.org/&#34;&gt;Xen project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elinux.org/R-Car/Virtualization#Virtualization_with_QEMU&#34;&gt;QEMU&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -611,62 +487,49 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;google-cloud-platform&#34;&gt;Google Cloud Platform&lt;/h1&gt;
-
+        &lt;h1 id=&#34;google-cloud-platform&#34;&gt;Google Cloud Platform&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/awesome-google-cloud&#34; target=&#34;_blank&#34;&gt;Awesome Google Cloud&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/awesome-google-cloud&#34; target=&#34;_blank&#34;&gt;Awesome Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/googlecloudplatform&#34; target=&#34;_blank&#34;&gt;GCP YouTube Channel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform&#34; target=&#34;_blank&#34;&gt;GCP on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/cloud&#34; target=&#34;_blank&#34;&gt;Google Cloud Codelabs and Challenges&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/jgscm&#34; target=&#34;_blank&#34;&gt;Jupyter FS in Google Cloud Storage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/awesome-google-cloud&#34;&gt;Awesome Google Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/awesome-google-cloud&#34;&gt;Awesome Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/googlecloudplatform&#34;&gt;GCP YouTube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform&#34;&gt;GCP on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/cloud&#34;&gt;Google Cloud Codelabs and Challenges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/jgscm&#34;&gt;Jupyter FS in Google Cloud Storage&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;analytics-and-machine-learning&#34;&gt;Analytics and Machine Learning&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction&#34; target=&#34;_blank&#34;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sdk/gcloud/reference/ml-engine/&#34; target=&#34;_blank&#34;&gt;gcloud ml-engine documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/automl/&#34; target=&#34;_blank&#34;&gt;Cloud AutoML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction&#34;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sdk/gcloud/reference/ml-engine/&#34;&gt;gcloud ml-engine documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/automl/&#34;&gt;Cloud AutoML&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/natural-language/?hl=en_US&amp;amp;_ga=2.250591430.-1790910342.1536084171&#34; target=&#34;_blank&#34;&gt;Google Cloud Natural Language&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://console.cloud.google.com/apis/library/language.googleapis.com&#34; target=&#34;_blank&#34;&gt;Cloud Natural Language API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/natural-language/?hl=en_US&amp;amp;_ga=2.250591430.-1790910342.1536084171&#34;&gt;Google Cloud Natural Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://console.cloud.google.com/apis/library/language.googleapis.com&#34;&gt;Cloud Natural Language API&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;bigquery&#34;&gt;BigQuery&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html&#34; target=&#34;_blank&#34;&gt;Python Reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook&#34; target=&#34;_blank&#34;&gt;Kaggle SQL Scavenger Hunt&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html&#34;&gt;Python Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook&#34;&gt;Kaggle SQL Scavenger Hunt&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb&#34; target=&#34;_blank&#34;&gt;github_repo example&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/SohierDane/BigQuery_Helper&#34; target=&#34;_blank&#34;&gt;bq_helper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package&#34; target=&#34;_blank&#34;&gt;Introduction to bq_helper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lugassy.net/how-moving-from-pub-sub-to-avro-saved-us-38-976-year-ec6c33ea7d08&#34; target=&#34;_blank&#34;&gt;How moving from Pub/Sub to AVRO saved us $38,976/year&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb&#34;&gt;github_repo example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SohierDane/BigQuery_Helper&#34;&gt;bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package&#34;&gt;Introduction to bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lugassy.net/how-moving-from-pub-sub-to-avro-saved-us-38-976-year-ec6c33ea7d08&#34;&gt;How moving from Pub/Sub to AVRO saved us $38,976/year&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;google-dataproc&#34;&gt;Google Dataproc&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components&#34; target=&#34;_blank&#34;&gt;Optional Components&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/moving-data-with-apache-sqoop-in-google-cloud-dataproc-4056b8fa2600&#34; target=&#34;_blank&#34;&gt;Moving Data with Apache Sqoop in Google Cloud Dataproc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291&#34; target=&#34;_blank&#34;&gt;From Kafka to BigQuery with Spark (on Dataproc) in Scala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions&#34; target=&#34;_blank&#34;&gt;Dataproc Versions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use&#34; target=&#34;_blank&#34;&gt;How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components&#34;&gt;Optional Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/moving-data-with-apache-sqoop-in-google-cloud-dataproc-4056b8fa2600&#34;&gt;Moving Data with Apache Sqoop in Google Cloud Dataproc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291&#34;&gt;From Kafka to BigQuery with Spark (on Dataproc) in Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions&#34;&gt;Dataproc Versions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use&#34;&gt;How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/vault/kubernetes-google-cloud-gke?in=vault/kubernetes&#34; target=&#34;_blank&#34;&gt;Vault Installation to Google Kubernetes Engine via Helm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/vault/kubernetes-google-cloud-gke?in=vault/kubernetes&#34;&gt;Vault Installation to Google Kubernetes Engine via Helm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
